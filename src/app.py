@@ -44,7 +44,7 @@ def create_sequences(data, target_column, sequence_length=60):
         y.append(data.iloc[i + sequence_length][target_column])
     return numbs.array(X), numbs.array(y)
 
-sequence_length = 60  # Use the past 60 days of data to predict
+sequence_length = 650  # Use the past 650 days of data to predict
 X, y = create_sequences(data, target)
 
 # Split into train and test sets
@@ -61,6 +61,7 @@ model = Sequential([
 ])
 
 # Compile the model
+# picking the optimizer and the loss function
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
