@@ -36,17 +36,25 @@ def prepare_data(df, column='Close', look_back=60):
 
 # Create LSTM model
 def create_lstm_model(input_shape):
+    #type of LSTM model
     model = Sequential()
+
+    #first layer
     model.add(LSTM(units=50, return_sequences=True, input_shape=input_shape))
+    
+    #second layers
     model.add(LSTM(units=50, return_sequences=False))
+    #third layer
     model.add(Dense(units=1))  # Single output (closing price)
+    
+    #compile and finish the model
     model.compile(optimizer='adam', loss='mean_squared_error')
     return model
 
 # Train and predict closing price for the next 7 days
 def predict_closing_price(data, n_days=7, look_back=60):
     for company in data['Company Name'].unique():
-        print(f"\nProcessing company: {company}")
+        print(f"\n================Processing company: {company}================")
         
         # Prepare data for the company
         company_data = data[data['Company Name'] == company]
@@ -57,6 +65,7 @@ def predict_closing_price(data, n_days=7, look_back=60):
 
         # Create and train the model
         model = create_lstm_model((X.shape[1], 1))
+        #this runs and fits the model, it runs over every company
         model.fit(X, y, epochs=50, batch_size=32, verbose=1)  # Increase epochs
 
         # Predict next 7 days
