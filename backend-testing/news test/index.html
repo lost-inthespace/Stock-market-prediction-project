@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Recommendation</title>
+</head>
+<body>
+    <h1>Stock Recommendation</h1>
+    <label for="company">Enter Company Name:</label>
+    <input type="text" id="company" placeholder="e.g., Saudi Aramco">
+    <button onclick="getRecommendation()">Get Recommendation</button>
+
+    <h2>Recommendation</h2>
+    <p id="result">Enter a company name to see the result.</p>
+
+    <script>
+    async function getRecommendation() {
+    const companyName = document.getElementById("company").value;
+    const resultElement = document.getElementById("result");
+    const articlesElement = document.getElementById("articles");
+    
+    resultElement.textContent = "Loading...";
+    articlesElement.innerHTML = "";
+
+    try {
+        const response = await fetch("http://127.0.0.1:5000/recommend", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ company_name: companyName })
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        resultElement.textContent = `Recommendation: ${data.recommendation}`;
+        data.articles.forEach(article => {
+            const li = document.createElement("li");
+            li.textContent = article;
+            articlesElement.appendChild(li);
+        });
+    } catch (error) {
+        resultElement.textContent = "Error fetching recommendation.";
+        console.error(error);
+    }
+}
+
+    </script>
+</body>
+</html>

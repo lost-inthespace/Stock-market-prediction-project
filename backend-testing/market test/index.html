@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Price Prediction</title>
+</head>
+<body>
+    <h1>Stock Price Prediction</h1>
+
+    <!-- Company name input -->
+    <label for="company">Enter Company Name:</label>
+    <input type="text" id="company" value="بنك الرياض" readonly>
+    <button onclick="predictPrice()">Predict Next Price</button>
+
+    <h2>Prediction</h2>
+    <p id="price-result">Enter the company name to see the result.</p>
+
+    <script>
+        async function predictPrice() {
+    const priceResult = document.getElementById("price-result");
+
+    priceResult.textContent = "Loading...";
+
+    try {
+        const response = await fetch("http://127.0.0.1:5000/predict_price", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ company_name: "بنك الرياض" })
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        if (data.error) {
+            throw new Error(data.error);
+        }
+
+        priceResult.textContent = `Predicted Closing Price: SAR ${data.predicted_price.toFixed(3)}`;
+    } catch (error) {
+        priceResult.textContent = "Error predicting price.";
+        console.error(error);
+    }
+}
+
+    </script>
+</body>
+</html>
