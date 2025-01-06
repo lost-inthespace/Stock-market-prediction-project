@@ -2,7 +2,9 @@
 import os
 import numpy as np
 import pandas as pd
+import matplotlib as plt
 from tensorflow.keras.models import load_model
+
 from sklearn.preprocessing import MinMaxScaler
 
 # Path to the saved model and new data
@@ -44,3 +46,14 @@ print(predictions)
 output_path = os.path.join(os.path.dirname(__file__), '../resources/predictions.csv')
 pd.DataFrame(predictions, columns=['Predicted Closing Price']).to_csv(output_path, index=False)
 print(f"Predictions saved to {output_path}")
+
+# Plot the results
+plt.figure(figsize=(14, 7))
+plt.plot(data['date'][-len(predicted_prices):], predicted_prices, label='Predicted Prices', color='red')
+plt.plot(data['date'][-len(predicted_prices):], data['closing_price'][-len(predicted_prices):].values, label='Actual Prices', color='blue')
+plt.title('Stock Price Prediction')
+plt.xlabel('Date')
+plt.ylabel('Price')
+plt.legend()
+plt.grid()
+plt.show()
