@@ -4,6 +4,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
+import matplotlib.pyplot as plt
 
 # Load the dataset
 data_path = 'Equites_Historical_Adjusted_Prices_Report.csv'
@@ -16,22 +17,10 @@ df = df.sort_values(by=['Symbol', 'Date'])
 # Select relevant columns for analysis
 data = df[['Symbol', 'Date', 'Close', 'Volume Traded']]
 
-# Filter for a single symbol for simplicity (e.g., Riyad Bank)
-# Make sure '1010' is a valid symbol in your dataset
-# If not, replace it with a valid one
-symbol_data = data[data['Symbol'].astype(str).str.lower() == '1010'.lower()]
+# Normalize the 'Close' prices
+scalers = {}
 
-# Check if symbol_data is empty
-if symbol_data.empty:
-    print(f"No data found for symbol '1010'. Check if it's a valid symbol in your dataset.")
-else:
-    symbol_data = symbol_data[['Date', 'Close']].set_index('Date')
-
-    # Normalize the 'Close' prices
-    scaler = MinMaxScaler(feature_range=(0, 1))
-    data_scaled = scaler.fit_transform(symbol_data['Close'].values.reshape(-1, 1))
-
-    # Create sequences for LSTM
+# Function to create sequences
 def create_sequences(data, sequence_length):
     X, y = [], []
     for i in range(sequence_length, len(data)):
@@ -39,11 +28,32 @@ def create_sequences(data, sequence_length):
         y.append(data[i, 0])
     return np.array(X), np.array(y)
 
-sequence_length = 50  # Use the last 50 days to predict the next day
-X, y = create_sequences(data_scaled, sequence_length)
+sequence_length = 50
+X_all, y_all = [], []
+
+# Prepare data for all companies
+for symbol in data['Symbol'].unique():
+    symbol_data = data[data['Symbol'] == symbol][['Date', 'Close']].set_index('Date')
+    scaler = MinMaxScaler(feature_range=(0, 1))
+    data_scaled = scaler.fit_transform(symbol_data['Close'].values.reshape(-1, 1))
+    scalers[symbol] = scaler
+    X, y = create_sequences(data_scaled, sequence_length)
+    
+    # Check the shape of the created sequences
+    if X.shape[0] > 0:  # Only append if there are valid sequences
+        X_all.append(X)
+        y_all.append(y)
+
+# Stack arrays only if they have valid shapes
+X_all = np.vstack(X_all) if X_all else np.array([])
+y_all = np.concatenate(y_all) if y_all else np.array([])
+
+# Check if X_all and y_all are not empty before proceeding
+if X_all.size == 0 or y_all.size == 0:
+    raise ValueError("No valid data to train the model. Please check the data preparation step.")
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=False)
+X_train, X_test, y_train, y_test = train_test_split(X_all, y_all, test_size=0.2, random_state=42, shuffle=False)
 
 # Reshape the data to 3D (required for LSTM input)
 X_train = X_train.reshape((X_train.shape[0], X_train.shape[1], 1))
@@ -62,44 +72,52 @@ model = Sequential([
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
-model.fit(X_train, y_train, batch_size=32, epochs=5, validation_data=(X_test, y_test))
+model.fit(X_train, y_train, batch_size=32, epochs=3, validation_data=(X_test, y_test))
 
-# Make predictions
-y_pred = model.predict(X_test)
-y_pred = scaler.inverse_transform(y_pred)
-y_test = scaler.inverse_transform(y_test.reshape(-1, 1))
+# Save the trained model
+model.save('stock_price_model.h5')
 
-# Evaluate the model
-from sklearn.metrics import mean_squared_error
-rmse = np.sqrt(mean_squared_error(y_test, y_pred))
-print(f'Root Mean Squared Error: {rmse}')
+# Predict the next 7 days for each company
+predictions = {}
+for symbol in data['Symbol'].unique():
 
-# Predict for the next day
-last_sequence = data_scaled[-sequence_length:]
-last_sequence = last_sequence.reshape((1, last_sequence.shape[0], 1))
-next_day_prediction = model.predict(last_sequence)
-next_day_prediction = scaler.inverse_transform(next_day_prediction)
-print(f'Next Day Predicted Close Price: {next_day_prediction[0, 0]}')
+    #setting the data to be predicted
+    print("scaling and predicting......")
+    symbol_data = data[data['Symbol'] == symbol][['Date', 'Close']].set_index('Date')
+    #scaling it
+    data_scaled = scalers[symbol].transform(symbol_data['Close'].values.reshape(-1, 1))
+    last_sequence = data_scaled[-sequence_length:]
+    #making empty array to save the predicted data in
+    next_7_days_predictions = []
 
-# prompt: create a plot that shows all the previous closing prices and the predict price of the company being predicted 
 
-import matplotlib.pyplot as plt
+    for _ in range(7):
+        # Ensure last_sequence has the required length
+        if len(last_sequence) < sequence_length:
+            padding = np.zeros((sequence_length - len(last_sequence), 1))
+            last_sequence = np.vstack((padding, last_sequence))
+        #reshape and predict then append predictions to scaler
+        last_sequence = last_sequence.reshape((1, sequence_length, 1))
+        next_day_prediction = model.predict(last_sequence)
+        next_7_days_predictions.append(scalers[symbol].inverse_transform(next_day_prediction)[0, 0])
 
-# Assuming 'symbol_data', 'y_test', 'y_pred', and 'next_day_prediction' are defined from the previous code
+         # Update last_sequence for the next prediction
+        last_sequence = np.append(last_sequence[0][1:], next_day_prediction, axis=0)
+    predictions[symbol] = next_7_days_predictions
 
-# Create the plot
-plt.figure(figsize=(12, 6))
-plt.plot(symbol_data.index[-len(y_test):], y_test, label='Actual Prices')
-plt.plot(symbol_data.index[-len(y_pred):], y_pred, label='Predicted Prices')
+# Display predictions for each company
+for symbol, next_7_days_predictions in predictions.items():
+    plt.figure(figsize=(12, 6))
+    plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(y_test.reshape(-1, 1)), label='Actual Prices')
+    plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(model.predict(X_test)), label='Predicted Prices')
 
-# Plot the next day's prediction
-last_date = symbol_data.index[-1]
-next_date = last_date + pd.Timedelta(days=1)  # Calculate the next date
-plt.scatter(next_date, next_day_prediction[0, 0], color='red', label='Next Day Prediction', marker='x', s=100)
+    # Plot next 7 days predictions
+    future_dates = [symbol_data.index[-1] + pd.Timedelta(days=i+1) for i in range(7)]
+    plt.plot(future_dates, next_7_days_predictions, label='Next 7 Days Predictions', marker='o', linestyle='--')
 
-plt.xlabel('Date')
-plt.ylabel('Closing Price')
-plt.title('Actual vs. Predicted Closing Prices')
-plt.legend()
-plt.grid(True)
-plt.show()
+    plt.xlabel('Date')
+    plt.ylabel('Closing Price')
+    plt.title(f'Actual vs. Predicted Closing Prices with Next 7 Days Forecast for {symbol}')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
