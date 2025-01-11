@@ -77,47 +77,54 @@ model.fit(X_train, y_train, batch_size=32, epochs=3, validation_data=(X_test, y_
 # Save the trained model
 model.save('stock_price_model.h5')
 
-# Predict the next 7 days for each company
-predictions = {}
-for symbol in data['Symbol'].unique():
-
-    #setting the data to be predicted
-    print("scaling and predicting......")
-    symbol_data = data[data['Symbol'] == symbol][['Date', 'Close']].set_index('Date')
-    #scaling it
-    data_scaled = scalers[symbol].transform(symbol_data['Close'].values.reshape(-1, 1))
-    last_sequence = data_scaled[-sequence_length:]
-    #making empty array to save the predicted data in
-    next_7_days_predictions = []
+print("=====    All is done, evaluations are next.  =====")
 
 
-    for _ in range(7):
-        # Ensure last_sequence has the required length
-        if len(last_sequence) < sequence_length:
-            padding = np.zeros((sequence_length - len(last_sequence), 1))
-            last_sequence = np.vstack((padding, last_sequence))
-        #reshape and predict then append predictions to scaler
-        last_sequence = last_sequence.reshape((1, sequence_length, 1))
-        next_day_prediction = model.predict(last_sequence)
-        next_7_days_predictions.append(scalers[symbol].inverse_transform(next_day_prediction)[0, 0])
+#===    this section seems to try to predict the next 7 days for riyad bank ===
+# we should remove it -m7md
+# instead we should just try to write a script that evaluates the model> e.g. print the confusion matrix
 
-         # Update last_sequence for the next prediction
-        last_sequence = np.append(last_sequence[0][1:], next_day_prediction, axis=0)
-    predictions[symbol] = next_7_days_predictions
+# # Predict the next 7 days for each company
+# predictions = {}
+# for symbol in data['Symbol'].unique():
 
-# Display predictions for each company
-for symbol, next_7_days_predictions in predictions.items():
-    plt.figure(figsize=(12, 6))
-    plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(y_test.reshape(-1, 1)), label='Actual Prices')
-    plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(model.predict(X_test)), label='Predicted Prices')
+#     #setting the data to be predicted
+#     print("scaling and predicting......")
+#     symbol_data = data[data['Symbol'] == symbol][['Date', 'Close']].set_index('Date')
+#     #scaling it
+#     data_scaled = scalers[symbol].transform(symbol_data['Close'].values.reshape(-1, 1))
+#     last_sequence = data_scaled[-sequence_length:]
+#     #making empty array to save the predicted data in
+#     next_7_days_predictions = []
 
-    # Plot next 7 days predictions
-    future_dates = [symbol_data.index[-1] + pd.Timedelta(days=i+1) for i in range(7)]
-    plt.plot(future_dates, next_7_days_predictions, label='Next 7 Days Predictions', marker='o', linestyle='--')
 
-    plt.xlabel('Date')
-    plt.ylabel('Closing Price')
-    plt.title(f'Actual vs. Predicted Closing Prices with Next 7 Days Forecast for {symbol}')
-    plt.legend()
-    plt.grid(True)
-    plt.show()
+#     for _ in range(7):
+#         # Ensure last_sequence has the required length
+#         if len(last_sequence) < sequence_length:
+#             padding = np.zeros((sequence_length - len(last_sequence), 1))
+#             last_sequence = np.vstack((padding, last_sequence))
+#         #reshape and predict then append predictions to scaler
+#         last_sequence = last_sequence.reshape((1, sequence_length, 1))
+#         next_day_prediction = model.predict(last_sequence)
+#         next_7_days_predictions.append(scalers[symbol].inverse_transform(next_day_prediction)[0, 0])
+
+#          # Update last_sequence for the next prediction
+#         last_sequence = np.append(last_sequence[0][1:], next_day_prediction, axis=0)
+#     predictions[symbol] = next_7_days_predictions
+
+# # Display predictions for each company
+# for symbol, next_7_days_predictions in predictions.items():
+#     plt.figure(figsize=(12, 6))
+#     plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(y_test.reshape(-1, 1)), label='Actual Prices')
+#     plt.plot(symbol_data.index[-len(y_test):], scalers[symbol].inverse_transform(model.predict(X_test)), label='Predicted Prices')
+
+#     # Plot next 7 days predictions
+#     future_dates = [symbol_data.index[-1] + pd.Timedelta(days=i+1) for i in range(7)]
+#     plt.plot(future_dates, next_7_days_predictions, label='Next 7 Days Predictions', marker='o', linestyle='--')
+
+#     plt.xlabel('Date')
+#     plt.ylabel('Closing Price')
+#     plt.title(f'Actual vs. Predicted Closing Prices with Next 7 Days Forecast for {symbol}')
+#     plt.legend()
+#     plt.grid(True)
+#     plt.show()

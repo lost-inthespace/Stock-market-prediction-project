@@ -61,13 +61,13 @@ def predict_stock(symbol, sequence_length=50):
     plt.plot(symbol_data.index[-len(y):], scaler.inverse_transform(model.predict(X).reshape(-1, 1)), label='Predicted Prices')
     future_dates = [symbol_data.index[-1] + pd.Timedelta(days=i+1) for i in range(7)]
     plt.plot(future_dates, next_7_days_predictions, label='Next 7 Days Predictions', marker='o', linestyle='--')
-
+    print("does this work?")
     plt.xlabel('Date')
     plt.ylabel('Closing Price')
     plt.title(f'Actual vs. Predicted Closing Prices with Next 7 Days Forecast for {symbol}')
     plt.legend()
     plt.grid(True)
-    
+    print("well does it?")
     plt.show()
 
 # Interactive prompt
