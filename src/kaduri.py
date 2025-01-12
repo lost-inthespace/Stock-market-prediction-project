@@ -6,6 +6,11 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
 import matplotlib.pyplot as plt
 
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+
+#====== docu ======
+# creating the LSTM model and training it, then saving it.
+
 # Load the dataset
 data_path = 'Equites_Historical_Adjusted_Prices_Report.csv'
 df = pd.read_csv(data_path)
@@ -28,10 +33,17 @@ def create_sequences(data, sequence_length):
         y.append(data[i, 0])
     return np.array(X), np.array(y)
 
-sequence_length = 50
+sequence_length = 60
 X_all, y_all = [], []
 
 # Prepare data for all companies
+#This loop iterates over each unique Symbol in the dataset:
+
+    # Extracts Date and Close columns for the specific symbol and sets Date as the index.
+    # Initializes a MinMaxScaler and scales the Close prices to a range between 0 and 1.
+    # Stores the scaler in the scalers dictionary.
+    # Calls create_sequences() to generate input-output pairs.
+    # If valid sequences are generated (X.shape[0] > 0), they are appended to X_all and y_all.
 for symbol in data['Symbol'].unique():
     symbol_data = data[data['Symbol'] == symbol][['Date', 'Close']].set_index('Date')
     scaler = MinMaxScaler(feature_range=(0, 1))
@@ -72,13 +84,51 @@ model = Sequential([
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
-model.fit(X_train, y_train, batch_size=32, epochs=3, validation_data=(X_test, y_test))
+history = model.fit(X_train, y_train, batch_size=32, epochs=3, validation_data=(X_test, y_test))
 
 # Save the trained model
 model.save('stock_price_model.h5')
 
-print("=====    All is done, evaluations are next.  =====")
+print("=====    All is done, evaluations are next.  =====\n")
 
+# Plotting the loss graph
+print("===  plotting the loss graph ===")
+plt.figure(figsize=(8, 6))
+plt.plot(history.history['loss'], label='Training Loss')
+plt.plot(history.history['val_loss'], label='Validation Loss')
+plt.title('Model Loss Over Epochs')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+
+#printing evaluations
+# Predict on the test set
+print("predicting.....")
+predictions = model.predict(X_test)
+
+# Calculate metrics
+mse = mean_squared_error(y_test, predictions)
+mae = mean_absolute_error(y_test, predictions)
+r2 = r2_score(y_test, predictions)
+
+print("prediction done, evaluations as follows:")
+print(f'Mean Squared Error: {mse:.4f}')
+print(f'Mean Absolute Error: {mae:.4f}')
+print(f'R-squared: {r2:.4f}')
+
+# Plot actual vs predicted
+plt.figure(figsize=(8, 6))
+plt.plot(y_test, label='Actual Prices', marker='o')
+plt.plot(predictions, label='Predicted Prices', marker='x')
+plt.title('Actual vs Predicted Prices')
+plt.xlabel('Sample')
+plt.ylabel('Price')
+plt.legend()
+plt.grid(True)
+plt.show()
 
 #===    this section seems to try to predict the next 7 days for riyad bank ===
 # we should remove it -m7md
