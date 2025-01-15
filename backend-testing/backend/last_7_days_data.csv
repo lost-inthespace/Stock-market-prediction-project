@@ -1,0 +1,1779 @@
+Industry Group,Symbol,Company Name,Date,Open,High,Low,Close,Change,% Change,Volume Traded,Value Traded (SAR)
+Banks,1010,Riyad Bank,2024-12-31,28.75,28.85,28.45,28.6,0.15,0.53,686779,19634035.9
+Banks,1010,Riyad Bank,2024-12-30,27.75,28.75,27.75,28.45,0.5,1.79,1488962,42350564.85
+Banks,1010,Riyad Bank,2024-12-29,27.6,27.95,27.55,27.95,0.2,0.72,581361,16102783.35
+Banks,1010,Riyad Bank,2024-12-26,27.8,27.8,27.6,27.75,-0.05,-0.18,323838,8978204.5
+Banks,1010,Riyad Bank,2024-12-25,28.0,28.1,27.75,27.8,-0.2,-0.71,751444,20913592.75
+Banks,1010,Riyad Bank,2024-12-24,28.2,28.25,27.95,28.0,-0.2,-0.71,776172,21779493.3
+Banks,1010,Riyad Bank,2024-12-23,27.9,28.25,27.55,28.2,0.3,1.08,2692865,75512629.25
+Banks,1020,Bank Aljazira,2024-12-31,18.72,18.88,18.56,18.7,0.04,0.21,3474824,64959134.68
+Banks,1020,Bank Aljazira,2024-12-30,18.54,18.76,18.5,18.66,0.12,0.65,3520559,65606126.08
+Banks,1020,Bank Aljazira,2024-12-29,18.38,18.64,18.12,18.54,0.04,0.22,1852580,34265991.56
+Banks,1020,Bank Aljazira,2024-12-26,18.68,18.74,18.48,18.5,-0.18,-0.96,2371138,44114207.62
+Banks,1020,Bank Aljazira,2024-12-25,18.64,18.8,18.58,18.68,0.04,0.21,2289307,42819700.36
+Banks,1020,Bank Aljazira,2024-12-24,18.42,18.8,18.42,18.64,0.24,1.3,4569930,85259152.24
+Banks,1020,Bank Aljazira,2024-12-23,17.84,18.46,17.74,18.4,0.5,2.79,6285667,114377278.3
+Banks,1030,Saudi Investment Bank,2024-12-31,14.5,14.56,14.44,14.5,0.0,0.0,337683,4900662.64
+Banks,1030,Saudi Investment Bank,2024-12-30,14.3,14.58,14.3,14.5,0.1,0.69,393543,5698361.08
+Banks,1030,Saudi Investment Bank,2024-12-29,14.5,14.5,14.3,14.4,-0.16,-1.1,367526,5288322.66
+Banks,1030,Saudi Investment Bank,2024-12-26,14.26,14.56,14.22,14.56,0.26,1.82,331584,4774621.26
+Banks,1030,Saudi Investment Bank,2024-12-25,14.3,14.36,14.22,14.3,0.0,0.0,80479,1149808.6
+Banks,1030,Saudi Investment Bank,2024-12-24,14.52,14.52,14.3,14.3,-0.18,-1.24,318989,4583247.18
+Banks,1030,Saudi Investment Bank,2024-12-23,14.06,14.48,14.0,14.48,0.42,2.99,687587,9847737.62
+Banks,1050,Banque Saudi Fransi,2024-12-31,15.96,16.06,15.84,15.84,-0.08,-0.5,2604226,41584993.86
+Banks,1050,Banque Saudi Fransi,2024-12-30,16.0,16.14,15.92,15.92,-0.06,-0.38,4139798,66312948.96
+Banks,1050,Banque Saudi Fransi,2024-12-29,15.92,16.0,15.8,15.98,-0.06,-0.37,1367423,21758533.76
+Banks,1050,Banque Saudi Fransi,2024-12-26,16.04,16.04,15.84,16.04,-0.04,-0.25,794323,12673300.64
+Banks,1050,Banque Saudi Fransi,2024-12-25,16.0,16.08,15.82,16.08,0.14,0.88,540886,8623978.94
+Banks,1050,Banque Saudi Fransi,2024-12-24,16.34,16.6,15.94,15.94,-0.1,-0.62,943675,15150601.7
+Banks,1050,Banque Saudi Fransi,2024-12-23,15.92,16.04,15.82,16.04,0.17,1.07,1334168,21216588.0
+Banks,1060,Saudi Awwal Bank,2024-12-31,33.9,33.95,33.6,33.65,-0.1,-0.3,2032473,68636569.5
+Banks,1060,Saudi Awwal Bank,2024-12-30,33.2,33.9,33.15,33.75,0.6,1.81,2099634,70569849.2
+Banks,1060,Saudi Awwal Bank,2024-12-29,32.9,33.2,32.9,33.15,0.3,0.91,1335339,44160716.35
+Banks,1060,Saudi Awwal Bank,2024-12-26,33.0,33.1,32.7,32.85,-0.15,-0.45,597254,19625352.05
+Banks,1060,Saudi Awwal Bank,2024-12-25,32.8,33.15,32.55,33.0,0.1,0.3,378907,12468096.9
+Banks,1060,Saudi Awwal Bank,2024-12-24,32.15,33.0,32.15,32.9,0.7,2.17,2707996,88594247.6
+Banks,1060,Saudi Awwal Bank,2024-12-23,32.2,32.65,31.9,32.2,0.0,0.0,2477878,79793317.85
+Banks,1080,Arab National Bank,2024-12-31,21.0,21.2,20.94,21.08,0.18,0.86,892391,18825083.26
+Banks,1080,Arab National Bank,2024-12-30,20.46,21.16,20.46,20.9,0.26,1.26,1659939,34749786.82
+Banks,1080,Arab National Bank,2024-12-29,20.32,20.64,20.32,20.64,0.24,1.18,885411,18127492.24
+Banks,1080,Arab National Bank,2024-12-26,20.36,20.4,20.26,20.4,0.04,0.2,383053,7797862.42
+Banks,1080,Arab National Bank,2024-12-25,20.24,20.36,20.12,20.36,0.1,0.49,361826,7335448.34
+Banks,1080,Arab National Bank,2024-12-24,20.34,20.36,20.18,20.26,-0.1,-0.49,709991,14391399.2
+Banks,1080,Arab National Bank,2024-12-23,20.0,20.36,19.88,20.36,0.36,1.8,567477,11448762.2
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-31,217.8,218.8,216.4,216.8,-1.2,-0.55,115460,25076534.2
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-30,219.0,220.2,217.4,218.0,-0.8,-0.37,77339,16913822.4
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-29,218.4,219.6,215.6,218.8,0.4,0.18,26029,5673544.0
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-26,218.2,219.8,217.0,218.4,0.8,0.37,22890,5005501.0
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-25,218.6,219.4,217.0,217.6,-1.0,-0.46,13616,2970216.6
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-24,222.4,222.4,217.4,218.6,-3.8,-1.71,33064,7239265.8
+Financial Services,1111,Saudi Tadawul Group Holding Co.,2024-12-23,217.2,222.4,216.2,222.4,5.4,2.49,71407,15682524.4
+Banks,1120,Al Rajhi Bank,2024-12-31,94.0,94.9,93.4,94.6,0.7,0.75,4181647,394906412.2
+Banks,1120,Al Rajhi Bank,2024-12-30,92.2,94.1,92.2,93.9,1.9,2.07,4101670,382904845.7
+Banks,1120,Al Rajhi Bank,2024-12-29,91.7,92.3,91.3,92.0,0.1,0.11,1439965,132108201.5
+Banks,1120,Al Rajhi Bank,2024-12-26,92.2,92.8,91.8,91.9,-0.3,-0.33,1038859,95962758.6
+Banks,1120,Al Rajhi Bank,2024-12-25,92.9,93.0,92.1,92.2,-0.6,-0.65,995984,92011411.3
+Banks,1120,Al Rajhi Bank,2024-12-24,92.8,93.4,92.4,92.8,0.0,0.0,2262445,209962232.9
+Banks,1120,Al Rajhi Bank,2024-12-23,90.5,92.8,90.4,92.8,2.5,2.77,4540432,416636319.5
+Banks,1140,Bank Albilad,2024-12-31,38.65,39.3,38.5,39.05,0.4,1.03,1826685,71389721.6
+Banks,1140,Bank Albilad,2024-12-30,37.55,38.75,37.5,38.65,1.1,2.93,1172853,44752105.95
+Banks,1140,Bank Albilad,2024-12-29,37.0,37.8,37.0,37.55,0.4,1.08,860980,32333032.7
+Banks,1140,Bank Albilad,2024-12-26,37.3,37.75,37.1,37.15,-0.15,-0.4,567978,21251682.1
+Banks,1140,Bank Albilad,2024-12-25,37.4,37.8,37.3,37.3,-0.1,-0.27,353997,13260684.7
+Banks,1140,Bank Albilad,2024-12-24,37.85,38.0,37.1,37.4,-0.25,-0.66,874587,32817925.9
+Banks,1140,Bank Albilad,2024-12-23,36.85,37.95,36.85,37.65,0.8,2.17,2562501,96183729.3
+Banks,1150,Alinma Bank,2024-12-31,28.95,29.0,28.8,28.95,0.05,0.17,4424364,128018633.4
+Banks,1150,Alinma Bank,2024-12-30,28.55,28.95,28.55,28.9,0.35,1.23,4631091,133532277.3
+Banks,1150,Alinma Bank,2024-12-29,28.35,28.65,28.1,28.55,0.2,0.71,3262570,92490305.45
+Banks,1150,Alinma Bank,2024-12-26,28.6,28.65,28.35,28.35,-0.3,-1.05,2971194,84493468.3
+Banks,1150,Alinma Bank,2024-12-25,28.65,28.7,28.35,28.65,-0.05,-0.17,2630103,74958915.5
+Banks,1150,Alinma Bank,2024-12-24,28.7,28.85,28.3,28.7,0.05,0.17,4466826,127384284.4
+Banks,1150,Alinma Bank,2024-12-23,28.2,28.7,28.15,28.65,0.45,1.6,6121008,174455887.6
+Banks,1180,The Saudi National Bank,2024-12-31,33.6,33.7,33.35,33.4,-0.25,-0.74,4593999,153780862.4
+Banks,1180,The Saudi National Bank,2024-12-30,33.6,33.85,33.4,33.65,0.0,0.0,3416454,114744344.9
+Banks,1180,The Saudi National Bank,2024-12-29,33.15,33.75,33.0,33.65,0.5,1.51,1758244,58543070.95
+Banks,1180,The Saudi National Bank,2024-12-26,33.15,33.5,33.05,33.15,-0.05,-0.15,1051685,34915428.0
+Banks,1180,The Saudi National Bank,2024-12-25,33.2,33.25,32.95,33.2,-0.1,-0.3,1898242,62794995.55
+Banks,1180,The Saudi National Bank,2024-12-24,33.25,33.4,33.1,33.3,0.05,0.15,1474793,49047405.8
+Banks,1180,The Saudi National Bank,2024-12-23,32.85,33.25,32.6,33.25,0.5,1.53,4705251,154669915.9
+Financial Services,1182,Amlak International Finance Co.,2024-12-31,12.64,12.94,12.64,12.82,0.06,0.47,165066,2112708.98
+Financial Services,1182,Amlak International Finance Co.,2024-12-30,12.52,12.76,12.42,12.76,0.24,1.92,176953,2233576.92
+Financial Services,1182,Amlak International Finance Co.,2024-12-29,12.28,12.52,12.28,12.52,0.24,1.95,81302,1011183.0
+Financial Services,1182,Amlak International Finance Co.,2024-12-26,12.6,12.6,12.28,12.28,-0.32,-2.54,89858,1115951.96
+Financial Services,1182,Amlak International Finance Co.,2024-12-25,12.7,12.7,12.5,12.6,0.1,0.8,148035,1864425.38
+Financial Services,1182,Amlak International Finance Co.,2024-12-24,12.42,12.76,12.28,12.5,0.1,0.81,350240,4399241.1
+Financial Services,1182,Amlak International Finance Co.,2024-12-23,12.26,12.72,12.2,12.4,0.14,1.14,395316,4913871.64
+Financial Services,1183,SHL Finance Co.,2024-12-31,17.84,18.4,17.76,18.18,0.38,2.13,191763,3475188.82
+Financial Services,1183,SHL Finance Co.,2024-12-30,17.36,17.8,17.26,17.8,0.28,1.6,86031,1508643.0
+Financial Services,1183,SHL Finance Co.,2024-12-29,17.38,17.68,17.2,17.52,0.14,0.81,56848,989768.48
+Financial Services,1183,SHL Finance Co.,2024-12-26,17.5,17.76,17.2,17.38,-0.12,-0.69,35053,610136.38
+Financial Services,1183,SHL Finance Co.,2024-12-25,17.74,17.98,17.4,17.5,-0.22,-1.24,175240,3101803.74
+Financial Services,1183,SHL Finance Co.,2024-12-24,18.02,18.28,17.66,17.72,-0.36,-1.99,108006,1932533.32
+Financial Services,1183,SHL Finance Co.,2024-12-23,18.24,19.6,18.08,18.08,-0.12,-0.66,920648,17392753.9
+Materials,1201,Takween Advanced Industries Co.,2024-12-31,10.52,10.66,10.48,10.48,-0.06,-0.57,241261,2546736.96
+Materials,1201,Takween Advanced Industries Co.,2024-12-30,10.18,10.56,10.18,10.54,0.38,3.74,426346,4421647.86
+Materials,1201,Takween Advanced Industries Co.,2024-12-29,10.18,10.28,10.16,10.16,-0.04,-0.39,153951,1571913.84
+Materials,1201,Takween Advanced Industries Co.,2024-12-26,10.14,10.24,10.14,10.2,0.0,0.0,63656,649419.88
+Materials,1201,Takween Advanced Industries Co.,2024-12-25,10.3,10.32,10.16,10.2,-0.06,-0.58,233764,2387887.82
+Materials,1201,Takween Advanced Industries Co.,2024-12-24,10.3,10.38,10.22,10.26,-0.04,-0.39,145949,1497146.28
+Materials,1201,Takween Advanced Industries Co.,2024-12-23,10.32,10.38,10.22,10.3,-0.02,-0.19,251413,2588131.4
+Materials,1202,Middle East Paper Co.,2024-12-31,36.3,37.0,36.1,36.7,0.4,1.1,285964,10473720.5
+Materials,1202,Middle East Paper Co.,2024-12-30,35.65,36.5,35.65,36.3,0.9,2.54,383065,13842620.25
+Materials,1202,Middle East Paper Co.,2024-12-29,35.1,36.0,35.1,35.4,0.3,0.85,168380,5993596.95
+Materials,1202,Middle East Paper Co.,2024-12-26,35.35,35.35,34.85,35.1,0.1,0.29,60859,2129491.85
+Materials,1202,Middle East Paper Co.,2024-12-25,35.0,35.7,35.0,35.0,0.0,0.0,108530,3825189.05
+Materials,1202,Middle East Paper Co.,2024-12-24,34.95,35.0,34.3,35.0,0.15,0.43,227107,7854593.6
+Materials,1202,Middle East Paper Co.,2024-12-23,35.05,35.1,34.45,34.85,-0.05,-0.14,172352,5992818.2
+Materials,1210,Basic Chemical Industries Co.,2024-12-31,30.55,30.95,30.45,30.85,0.35,1.15,59704,1838603.5
+Materials,1210,Basic Chemical Industries Co.,2024-12-30,30.2,30.5,30.1,30.5,0.3,0.99,40594,1233723.55
+Materials,1210,Basic Chemical Industries Co.,2024-12-29,30.2,30.35,30.1,30.2,0.0,0.0,19123,577121.2
+Materials,1210,Basic Chemical Industries Co.,2024-12-26,30.25,30.4,30.0,30.2,-0.1,-0.33,18079,545779.25
+Materials,1210,Basic Chemical Industries Co.,2024-12-25,30.15,30.3,30.0,30.3,0.2,0.66,22540,680559.2
+Materials,1210,Basic Chemical Industries Co.,2024-12-24,30.2,30.2,29.9,30.1,-0.1,-0.33,20322,610275.65
+Materials,1210,Basic Chemical Industries Co.,2024-12-23,30.35,30.35,29.8,30.2,0.05,0.17,33224,995433.35
+Materials,1211,Saudi Arabian Mining Co.,2024-12-31,49.75,50.9,49.6,50.3,0.45,0.9,1588827,79921848.3
+Materials,1211,Saudi Arabian Mining Co.,2024-12-30,49.9,50.4,49.5,49.85,-0.35,-0.7,1452866,72473256.15
+Materials,1211,Saudi Arabian Mining Co.,2024-12-29,49.9,50.8,49.75,50.2,0.35,0.7,602691,30240847.35
+Materials,1211,Saudi Arabian Mining Co.,2024-12-26,49.3,50.5,49.3,49.85,0.35,0.71,713476,35681272.2
+Materials,1211,Saudi Arabian Mining Co.,2024-12-25,49.2,49.7,48.6,49.5,0.3,0.61,473902,23354785.65
+Materials,1211,Saudi Arabian Mining Co.,2024-12-24,49.35,49.75,49.0,49.2,-0.15,-0.3,923212,45600418.05
+Materials,1211,Saudi Arabian Mining Co.,2024-12-23,49.15,49.6,48.3,49.35,0.25,0.51,1159899,56637412.25
+Capital Goods,1212,Astra Industrial Group,2024-12-31,182.0,183.0,178.2,180.0,-1.0,-0.55,243280,43838968.4
+Capital Goods,1212,Astra Industrial Group,2024-12-30,177.0,181.6,174.0,181.0,4.0,2.26,238282,42384717.0
+Capital Goods,1212,Astra Industrial Group,2024-12-29,181.2,183.4,177.0,177.0,-2.8,-1.56,21640,3892869.0
+Capital Goods,1212,Astra Industrial Group,2024-12-26,184.2,184.8,179.8,179.8,-6.2,-3.33,30480,5550189.0
+Capital Goods,1212,Astra Industrial Group,2024-12-25,186.0,187.0,181.6,186.0,0.2,0.11,48291,8906080.8
+Capital Goods,1212,Astra Industrial Group,2024-12-24,187.0,189.0,183.0,185.8,-0.2,-0.11,117011,21761825.6
+Capital Goods,1212,Astra Industrial Group,2024-12-23,185.0,188.0,185.0,186.0,-1.0,-0.53,150130,27994120.2
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-31,96.0,97.4,95.5,97.3,1.5,1.57,137765,13282870.7
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-30,95.9,96.7,95.0,95.8,-0.9,-0.93,175168,16775572.5
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-29,96.9,97.5,96.3,96.7,-0.3,-0.31,158812,15402750.8
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-26,96.1,97.5,95.4,97.0,1.0,1.04,330404,31909289.7
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-25,93.5,96.0,93.5,96.0,2.1,2.24,253668,24244316.6
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-24,94.3,94.4,93.4,93.9,-0.4,-0.42,70717,6639464.0
+Consumer Durables & Apparel,1213,Naseej International Trading Co.,2024-12-23,94.7,95.0,91.2,94.3,0.0,0.0,197735,18475112.9
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-31,26.8,27.1,26.5,27.05,0.25,0.93,165466,4434315.8
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-30,26.4,26.9,26.25,26.8,0.45,1.71,241813,6411363.85
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-29,27.0,27.0,26.25,26.35,-0.3,-1.13,125795,3334062.4
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-26,26.75,27.1,26.6,26.65,-0.25,-0.93,138479,3712519.75
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-25,27.1,27.3,26.9,26.9,-0.45,-1.65,126945,3428553.95
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-24,27.65,27.65,27.05,27.35,-0.05,-0.18,150266,4089152.45
+Capital Goods,1214,Al Hassan Ghazi Ibrahim Shaker Co.,2024-12-23,26.65,27.55,26.5,27.4,0.7,2.62,279173,7596033.35
+Materials,1301,United Wire Factories Co.,2024-12-31,28.45,29.0,28.4,28.95,0.4,1.4,116390,3342860.1
+Materials,1301,United Wire Factories Co.,2024-12-30,28.15,28.75,28.1,28.55,0.4,1.42,115458,3276552.0
+Materials,1301,United Wire Factories Co.,2024-12-29,28.3,28.4,28.05,28.15,-0.2,-0.71,34653,977130.55
+Materials,1301,United Wire Factories Co.,2024-12-26,28.4,28.45,28.0,28.35,-0.05,-0.18,47305,1334143.55
+Materials,1301,United Wire Factories Co.,2024-12-25,28.45,28.6,28.0,28.4,0.0,0.0,89923,2542403.75
+Materials,1301,United Wire Factories Co.,2024-12-24,28.45,29.0,28.35,28.4,-0.3,-1.05,55268,1580437.0
+Materials,1301,United Wire Factories Co.,2024-12-23,28.7,28.85,28.15,28.7,0.0,0.0,77306,2199030.75
+Capital Goods,1302,Bawan Co.,2024-12-31,56.6,56.7,55.7,56.0,-0.5,-0.88,92929,5210400.4
+Capital Goods,1302,Bawan Co.,2024-12-30,55.7,56.9,55.6,56.5,0.8,1.44,305779,17196407.2
+Capital Goods,1302,Bawan Co.,2024-12-29,54.4,56.0,53.6,55.7,1.7,3.15,165434,9087300.8
+Capital Goods,1302,Bawan Co.,2024-12-26,54.1,56.3,53.5,54.0,-0.1,-0.18,341434,18735528.8
+Capital Goods,1302,Bawan Co.,2024-12-25,55.1,55.4,52.6,54.1,-1.7,-3.05,181862,9870328.9
+Capital Goods,1302,Bawan Co.,2024-12-24,57.7,58.3,55.4,55.8,-1.5,-2.62,389044,22268395.3
+Capital Goods,1302,Bawan Co.,2024-12-23,57.2,58.3,57.0,57.3,0.3,0.53,386747,22339135.3
+Capital Goods,1303,Electrical Industries Co.,2024-12-31,7.21,7.3,7.2,7.24,0.03,0.42,3717361,26940463.22
+Capital Goods,1303,Electrical Industries Co.,2024-12-30,7.27,7.31,7.19,7.21,-0.04,-0.55,2369518,17156507.58
+Capital Goods,1303,Electrical Industries Co.,2024-12-29,7.24,7.29,7.21,7.25,0.06,0.83,2371375,17189269.26
+Capital Goods,1303,Electrical Industries Co.,2024-12-26,7.2,7.25,7.18,7.19,-0.01,-0.14,1825938,13158754.99
+Capital Goods,1303,Electrical Industries Co.,2024-12-25,7.24,7.26,7.17,7.2,-0.04,-0.55,2807432,20242629.15
+Capital Goods,1303,Electrical Industries Co.,2024-12-24,7.3,7.35,7.18,7.24,-0.05,-0.69,3274550,23771456.57
+Capital Goods,1303,Electrical Industries Co.,2024-12-23,7.38,7.47,7.23,7.29,-0.06,-0.82,6354573,46601469.51
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-31,33.3,33.7,33.0,33.45,0.05,0.15,341557,11395601.3
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-30,33.9,34.0,33.1,33.4,-0.35,-1.04,380353,12656119.15
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-29,33.6,34.25,33.55,33.75,0.05,0.15,332940,11289846.7
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-26,35.0,35.4,33.5,33.7,-0.6,-1.75,668115,23104509.9
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-25,33.85,34.55,33.85,34.3,0.2,0.59,133538,4568149.05
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-24,35.0,35.1,34.05,34.1,-0.75,-2.15,179149,6165980.9
+Materials,1304,Al Yamamah Steel Industries Co.,2024-12-23,34.8,34.85,34.0,34.85,0.05,0.14,291149,10023200.45
+Materials,1320,Saudi Steel Pipe Co.,2024-12-31,64.9,65.9,64.3,65.1,0.5,0.77,137462,8955332.6
+Materials,1320,Saudi Steel Pipe Co.,2024-12-30,64.2,64.8,64.0,64.6,0.4,0.62,120552,7769351.8
+Materials,1320,Saudi Steel Pipe Co.,2024-12-29,63.8,64.3,63.7,64.2,0.3,0.47,66191,4238726.4
+Materials,1320,Saudi Steel Pipe Co.,2024-12-26,64.0,64.8,63.7,63.9,0.0,0.0,121348,7787065.0
+Materials,1320,Saudi Steel Pipe Co.,2024-12-25,63.7,64.4,63.4,63.9,0.3,0.47,49942,3185276.4
+Materials,1320,Saudi Steel Pipe Co.,2024-12-24,65.2,65.3,63.4,63.6,-1.2,-1.85,111824,7164658.8
+Materials,1320,Saudi Steel Pipe Co.,2024-12-23,66.0,66.0,64.8,64.8,-1.2,-1.82,173268,11318464.1
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-31,139.0,142.4,139.0,140.4,1.4,1.01,157941,22257540.2
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-30,138.4,139.8,138.0,139.0,0.6,0.43,78753,10929605.6
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-29,137.8,139.8,137.6,138.4,0.6,0.44,83218,11518585.8
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-26,139.0,139.8,137.6,137.8,-2.0,-1.43,61016,8430381.6
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-25,140.2,140.8,138.8,139.8,0.0,0.0,36036,5036053.6
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-24,141.0,141.0,138.0,139.8,-0.2,-0.14,69569,9689520.8
+Materials,1321,East Pipes Integrated Company for Industry,2024-12-23,140.6,141.4,138.8,140.0,-0.2,-0.14,102354,14361512.4
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-31,66.9,67.7,66.4,67.5,0.5,0.75,95873,6434973.9
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-30,67.2,67.3,66.1,67.0,0.2,0.3,124483,8321485.4
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-29,66.3,67.2,66.3,66.8,0.5,0.75,64741,4327954.6
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-26,65.9,67.4,65.9,66.3,0.4,0.61,86499,5786150.3
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-25,65.9,66.1,65.8,65.9,0.0,0.0,19699,1298530.4
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-24,66.3,66.6,65.8,65.9,-0.3,-0.45,80446,5317901.0
+Materials,1322,Almasane Alkobra Mining Co.,2024-12-23,67.2,67.4,66.0,66.2,-1.0,-1.49,183227,12217321.3
+Consumer Services,1810,Seera Group Holding,2024-12-31,22.54,22.68,22.42,22.46,-0.06,-0.27,1128012,25458075.64
+Consumer Services,1810,Seera Group Holding,2024-12-30,22.4,22.54,22.38,22.52,0.1,0.45,643006,14447323.6
+Consumer Services,1810,Seera Group Holding,2024-12-29,22.4,22.66,22.3,22.42,-0.08,-0.36,655818,14718099.02
+Consumer Services,1810,Seera Group Holding,2024-12-26,22.4,22.54,22.36,22.5,0.1,0.45,505096,11347880.58
+Consumer Services,1810,Seera Group Holding,2024-12-25,22.34,22.52,22.26,22.4,0.1,0.45,490447,10978320.52
+Consumer Services,1810,Seera Group Holding,2024-12-24,22.62,22.72,22.26,22.3,-0.32,-1.41,1421605,31887219.8
+Consumer Services,1810,Seera Group Holding,2024-12-23,22.6,22.62,22.34,22.62,0.12,0.53,661003,14852014.4
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-31,2.47,2.49,2.46,2.47,0.0,0.0,2703105,6690700.15
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-30,2.55,2.58,2.46,2.47,-0.04,-1.59,4834392,12042441.97
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-29,2.58,2.68,2.5,2.51,0.05,2.03,7873110,20538457.54
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-26,2.46,2.48,2.45,2.46,0.0,0.0,600829,1480758.96
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-25,2.47,2.49,2.45,2.46,-0.01,-0.4,1464396,3615647.66
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-24,2.48,2.51,2.46,2.47,-0.01,-0.4,857224,2125057.86
+Consumer Services,1820,BAAN Holding Group Co.,2024-12-23,2.47,2.49,2.46,2.48,0.01,0.4,945701,2337358.99
+Consumer Services,1830,Leejam Sports Co.,2024-12-31,185.6,188.0,185.0,185.4,0.8,0.43,88453,16474640.0
+Consumer Services,1830,Leejam Sports Co.,2024-12-30,186.4,186.8,184.2,184.6,-2.2,-1.18,19245,3575347.2
+Consumer Services,1830,Leejam Sports Co.,2024-12-29,185.2,187.0,184.6,186.8,0.8,0.43,23144,4300276.2
+Consumer Services,1830,Leejam Sports Co.,2024-12-26,188.0,189.4,185.4,186.0,-2.0,-1.06,28339,5277339.4
+Consumer Services,1830,Leejam Sports Co.,2024-12-25,189.6,190.2,186.8,188.0,-1.6,-0.84,40425,7620049.8
+Consumer Services,1830,Leejam Sports Co.,2024-12-24,190.0,192.4,187.0,189.6,-0.4,-0.21,88851,16876261.0
+Consumer Services,1830,Leejam Sports Co.,2024-12-23,188.0,190.4,186.4,190.0,2.0,1.06,40296,7599564.8
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-31,6.03,6.17,6.02,6.16,0.13,2.16,1642206,10022610.43
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-30,6.04,6.06,6.0,6.03,-0.02,-0.33,821406,4963776.97
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-29,6.04,6.07,6.01,6.05,0.03,0.5,479907,2899283.36
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-26,6.05,6.06,5.99,6.02,-0.03,-0.5,426555,2567851.7
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-25,6.02,6.05,5.95,6.05,0.03,0.5,646019,3883974.5
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-24,6.01,6.04,6.0,6.02,0.02,0.33,829509,4990023.66
+Commercial & Professional Svc,1831,Maharah Human Resources Co.,2024-12-23,6.05,6.05,5.93,6.0,-0.05,-0.83,1652040,9898050.59
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-31,3.21,3.25,3.21,3.23,0.03,0.94,1182113,3823365.36
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-30,3.17,3.22,3.17,3.2,0.02,0.63,1134063,3625013.18
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-29,3.18,3.2,3.16,3.18,0.0,0.0,736947,2343671.54
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-26,3.21,3.21,3.18,3.18,-0.03,-0.93,477015,1521062.87
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-25,3.21,3.22,3.18,3.21,0.0,0.0,1074596,3436047.82
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-24,3.24,3.25,3.19,3.21,-0.02,-0.62,1171218,3761053.29
+Commercial & Professional Svc,1832,Sadr Logistics Co.,2024-12-23,3.23,3.25,3.22,3.23,0.0,0.0,777661,2512138.37
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-31,104.2,105.6,103.8,105.4,0.8,0.76,38874,4068628.0
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-30,105.0,105.8,104.0,104.6,-0.4,-0.38,73031,7635083.0
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-29,104.8,105.6,104.6,105.0,0.0,0.0,9849,1034388.0
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-26,106.0,106.0,104.8,105.0,-0.6,-0.57,12476,1313837.4
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-25,105.2,106.0,104.4,105.6,0.4,0.38,6294,662893.4
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-24,105.2,106.6,104.8,105.2,-0.6,-0.57,22327,2351960.6
+Commercial & Professional Svc,1833,Al Mawarid Manpower Co.,2024-12-23,106.0,106.2,105.0,105.8,-0.2,-0.19,27403,2888980.6
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-31,7.57,7.75,7.53,7.66,0.12,1.59,3728869,28465697.81
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-30,7.55,7.56,7.49,7.54,0.04,0.53,1776072,13375823.7
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-29,7.52,7.54,7.47,7.5,-0.02,-0.27,1503592,11279437.74
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-26,7.55,7.58,7.52,7.52,-0.02,-0.27,1128291,8517356.46
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-25,7.53,7.55,7.51,7.54,0.0,0.0,949368,7153527.77
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-24,7.53,7.57,7.5,7.54,-0.02,-0.26,1284177,9677291.04
+Commercial & Professional Svc,1834,Saudi Manpower Solutions Co.,2024-12-23,7.59,7.6,7.52,7.56,-0.04,-0.53,1571170,11843997.4
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-31,63.9,65.0,63.9,64.1,0.2,0.31,321836,20741696.3
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-30,64.6,64.9,63.8,63.9,-0.5,-0.78,277639,17807555.4
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-29,65.2,65.7,64.4,64.4,-0.8,-1.23,264024,17139118.9
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-26,64.2,66.3,63.7,65.2,0.9,1.4,628069,41012433.8
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-25,65.5,65.7,64.2,64.3,-1.2,-1.83,330259,21413110.7
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-24,66.1,66.3,65.2,65.5,-0.7,-1.06,278561,18261390.9
+Commercial & Professional Svc,1835,Tamkeen Human Resource Co.,2024-12-23,66.9,67.7,66.0,66.2,-0.7,-1.05,454353,30217578.8
+Materials,2001,Methanol Chemicals Co.,2024-12-31,18.46,18.6,18.4,18.5,0.04,0.22,324653,6008771.6
+Materials,2001,Methanol Chemicals Co.,2024-12-30,18.4,18.54,18.2,18.46,0.16,0.87,159573,2926500.74
+Materials,2001,Methanol Chemicals Co.,2024-12-29,18.32,18.46,18.26,18.3,-0.16,-0.87,145750,2670959.78
+Materials,2001,Methanol Chemicals Co.,2024-12-26,18.64,18.64,18.38,18.46,-0.16,-0.86,74490,1378035.34
+Materials,2001,Methanol Chemicals Co.,2024-12-25,18.7,18.78,18.54,18.62,-0.06,-0.32,120781,2256688.22
+Materials,2001,Methanol Chemicals Co.,2024-12-24,18.8,18.94,18.42,18.68,-0.08,-0.43,392237,7330679.12
+Materials,2001,Methanol Chemicals Co.,2024-12-23,18.52,18.8,18.5,18.76,0.26,1.41,300839,5607273.06
+Materials,2002,National Petrochemical Co.,2022-04-12,0.0,0.0,0.0,45.45,0.0,0.0,0,0.0
+Materials,2002,National Petrochemical Co.,2022-04-11,0.0,0.0,0.0,45.45,0.0,0.0,0,0.0
+Materials,2002,National Petrochemical Co.,2022-04-10,45.85,46.0,45.4,45.45,-0.6,-1.3,102240,4661416.7
+Materials,2002,National Petrochemical Co.,2022-04-10,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Materials,2002,National Petrochemical Co.,2022-04-07,45.6,46.05,45.4,46.05,0.05,0.11,187696,8609706.65
+Materials,2002,National Petrochemical Co.,2022-04-06,45.4,46.0,45.0,46.0,0.6,1.32,247880,11257984.6
+Materials,2002,National Petrochemical Co.,2022-04-05,46.7,46.7,45.15,45.4,-1.2,-2.58,249397,11441256.3
+Materials,2010,Saudi Basic Industries Corp.,2024-12-31,67.0,67.4,66.8,67.0,0.1,0.15,1336747,89694693.4
+Materials,2010,Saudi Basic Industries Corp.,2024-12-30,67.2,67.5,66.9,66.9,-0.3,-0.45,1601716,107452064.1
+Materials,2010,Saudi Basic Industries Corp.,2024-12-29,67.3,67.3,67.0,67.2,0.0,0.0,718434,48285310.0
+Materials,2010,Saudi Basic Industries Corp.,2024-12-26,67.4,67.5,66.9,67.2,0.0,0.0,1250718,83912791.5
+Materials,2010,Saudi Basic Industries Corp.,2024-12-25,67.4,67.4,67.1,67.2,0.1,0.15,658110,44270024.1
+Materials,2010,Saudi Basic Industries Corp.,2024-12-24,67.3,67.4,67.0,67.1,0.0,0.0,962931,64666610.0
+Materials,2010,Saudi Basic Industries Corp.,2024-12-23,66.9,67.2,66.7,67.1,0.4,0.6,1402222,93891137.4
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-31,111.0,111.2,110.0,111.0,0.0,0.0,304226,33700116.8
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-30,110.0,111.2,109.6,111.0,1.0,0.91,388599,42919715.0
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-29,110.0,110.4,109.2,110.0,0.8,0.73,249304,27378526.0
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-26,110.2,110.4,108.6,109.2,-0.8,-0.73,345464,37717426.2
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-25,109.6,110.2,108.8,110.0,1.0,0.92,238334,26066301.6
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-24,111.0,111.0,108.8,109.0,-2.0,-1.8,495688,54286911.8
+Materials,2020,SABIC Agri-Nutrients Co.,2024-12-23,111.4,111.4,109.6,111.0,-0.4,-0.36,429717,47343221.6
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-31,71.6,73.0,71.6,72.1,0.5,0.7,80953,5862177.6
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-30,70.4,71.6,70.4,71.6,1.1,1.56,46119,3279659.9
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-29,71.0,71.4,70.1,70.5,-0.6,-0.84,44004,3101385.5
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-26,71.9,71.9,71.1,71.1,-0.3,-0.42,18837,1344492.9
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-25,71.0,71.6,70.7,71.4,0.6,0.85,29659,2112001.3
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-24,71.0,71.6,70.7,70.8,-0.2,-0.28,41100,2921193.3
+Energy,2030,Saudi Arabia Refineries Co.,2024-12-23,72.0,72.0,71.0,71.0,-0.9,-1.25,49898,3557785.3
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-31,33.7,34.5,33.7,34.1,0.1,0.29,328598,11255124.7
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-30,33.7,34.25,33.45,34.0,0.35,1.04,340107,11491647.6
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-29,34.1,34.3,33.6,33.65,-0.45,-1.32,211197,7166117.05
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-26,34.15,34.5,33.95,34.1,-0.05,-0.15,186721,6381645.1
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-25,34.1,34.5,34.0,34.15,0.15,0.44,202704,6948110.1
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-24,34.65,34.75,33.85,34.0,-0.6,-1.73,354162,12142971.7
+Capital Goods,2040,Saudi Ceramic Co.,2024-12-23,34.45,34.65,33.9,34.6,0.2,0.58,438926,15038470.15
+Food & Beverages,2050,Savola Group,2024-12-31,35.6,37.2,35.4,36.7,0.95,2.66,2049060,74814243.5
+Food & Beverages,2050,Savola Group,2024-12-30,36.05,36.2,35.6,35.75,-0.3,-0.83,1218696,43687579.65
+Food & Beverages,2050,Savola Group,2024-12-29,36.05,36.5,35.45,36.05,0.05,0.14,2005948,72023850.2
+Food & Beverages,2050,Savola Group,2024-12-26,36.0,36.65,35.4,36.0,0.1,0.28,1313070,47095290.25
+Food & Beverages,2050,Savola Group,2024-12-25,37.1,37.2,35.65,35.9,-1.1,-2.97,2037046,73671122.0
+Food & Beverages,2050,Savola Group,2024-12-24,37.8,39.0,36.95,37.0,-0.45,-1.2,2565794,96907507.85
+Food & Beverages,2050,Savola Group,2024-12-23,38.45,39.0,36.5,37.45,-0.25,-0.66,4739044,178975742.4
+Materials,2060,National Industrialization Co.,2024-12-31,10.12,10.2,10.08,10.16,0.04,0.4,1620663,16430578.46
+Materials,2060,National Industrialization Co.,2024-12-30,10.0,10.16,10.0,10.12,0.1,1.0,1786954,18033653.68
+Materials,2060,National Industrialization Co.,2024-12-29,10.08,10.1,9.97,10.02,-0.06,-0.6,2024679,20251700.4
+Materials,2060,National Industrialization Co.,2024-12-26,10.12,10.12,10.0,10.08,0.02,0.2,1238241,12431634.3
+Materials,2060,National Industrialization Co.,2024-12-25,10.1,10.14,10.04,10.06,-0.02,-0.2,859166,8660892.24
+Materials,2060,National Industrialization Co.,2024-12-24,10.18,10.2,10.08,10.08,-0.08,-0.79,834592,8438682.62
+Materials,2060,National Industrialization Co.,2024-12-23,10.18,10.2,10.02,10.16,-0.02,-0.2,3099539,31222679.76
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-31,31.95,32.15,31.8,31.95,-0.05,-0.16,420843,13451116.5
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-30,32.25,33.0,31.9,32.0,-0.1,-0.31,1115621,36345898.8
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-29,32.05,32.6,31.85,32.1,0.1,0.31,449973,14490742.4
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-26,31.6,32.5,31.5,32.0,0.55,1.75,491704,15762359.7
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-25,31.6,31.85,31.15,31.45,-0.05,-0.16,186760,5869553.65
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-24,31.8,31.9,31.5,31.5,-0.3,-0.94,158912,5028701.2
+Pharma &  Biotech & Life Science,2070,Saudi Pharmaceutical Industries and Medical Appliances Corp.,2024-12-23,31.55,31.8,31.15,31.8,0.1,0.32,291714,9153500.2
+Utilities,2080,National Gas and Industrialization Co.,2024-12-31,102.2,103.2,101.8,102.6,0.2,0.2,47438,4847945.4
+Utilities,2080,National Gas and Industrialization Co.,2024-12-30,101.6,104.0,101.6,102.4,0.8,0.79,25681,2635748.4
+Utilities,2080,National Gas and Industrialization Co.,2024-12-29,101.6,102.6,101.6,101.6,-0.2,-0.2,11536,1177382.6
+Utilities,2080,National Gas and Industrialization Co.,2024-12-26,102.2,103.0,101.4,101.8,0.4,0.39,28926,2964282.8
+Utilities,2080,National Gas and Industrialization Co.,2024-12-25,102.0,103.0,101.2,101.4,0.2,0.2,27236,2789451.6
+Utilities,2080,National Gas and Industrialization Co.,2024-12-24,103.0,103.0,101.0,101.2,-1.8,-1.75,30654,3115656.2
+Utilities,2080,National Gas and Industrialization Co.,2024-12-23,101.2,104.4,100.0,103.0,1.8,1.78,87502,9041473.8
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-31,150.0,150.8,149.2,150.0,0.4,0.27,60099,9021597.6
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-30,147.0,149.8,146.8,149.6,2.6,1.77,65207,9687890.4
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-29,146.0,147.4,145.8,147.0,0.6,0.41,13152,1926129.0
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-26,147.8,149.6,146.0,146.4,-1.2,-0.81,36052,5323392.2
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-25,145.6,147.6,145.6,147.6,1.8,1.23,23401,3427474.8
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-24,146.4,147.6,145.2,145.8,-0.8,-0.55,55561,8108695.4
+Utilities,2081,Alkhorayef Water and Power Technologies Co.,2024-12-23,146.0,147.4,145.4,146.6,0.6,0.41,73790,10797358.0
+Utilities,2082,ACWA POWER Co.,2024-12-31,410.0,416.0,401.4,401.4,-5.2,-1.28,205607,83964468.4
+Utilities,2082,ACWA POWER Co.,2024-12-30,396.0,407.0,396.0,406.6,10.8,2.73,220386,88571900.6
+Utilities,2082,ACWA POWER Co.,2024-12-29,392.4,396.4,391.0,395.8,7.0,1.8,65489,25839958.0
+Utilities,2082,ACWA POWER Co.,2024-12-26,389.0,392.6,388.8,388.8,-1.6,-0.41,31079,12139127.6
+Utilities,2082,ACWA POWER Co.,2024-12-25,393.0,395.0,390.4,390.4,-1.2,-0.31,40370,15847348.8
+Utilities,2082,ACWA POWER Co.,2024-12-24,388.4,397.0,388.2,391.6,3.6,0.93,128864,50704961.8
+Utilities,2082,ACWA POWER Co.,2024-12-23,384.6,389.0,382.2,388.0,1.6,0.41,73434,28360639.2
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-31,54.0,54.8,53.9,54.8,0.8,1.48,144992,7879102.3
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-30,54.0,54.3,53.9,54.0,0.0,0.0,101671,5491643.1
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-29,53.3,54.3,53.3,54.0,1.0,1.89,303787,16406021.9
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-26,51.8,53.2,51.8,53.0,1.3,2.51,204888,10773735.0
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-25,51.8,51.9,51.3,51.7,0.0,0.0,60864,3141171.6
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-24,52.0,52.0,51.3,51.7,-0.3,-0.58,231240,11931483.9
+Utilities,2083,The Power and Water Utility Company for Jubail and Yanbu,2024-12-23,51.9,52.2,50.9,52.0,0.1,0.19,326253,16730474.7
+Utilities,2084,Miahona Co.,2024-12-31,27.4,28.3,27.25,27.75,0.4,1.46,1736320,48437010.4
+Utilities,2084,Miahona Co.,2024-12-30,27.05,27.85,26.75,27.35,0.3,1.11,1042944,28501337.8
+Utilities,2084,Miahona Co.,2024-12-29,26.9,27.1,26.8,27.05,0.2,0.74,399099,10767105.1
+Utilities,2084,Miahona Co.,2024-12-26,26.95,27.6,26.85,26.85,-0.1,-0.37,749194,20425777.8
+Utilities,2084,Miahona Co.,2024-12-25,27.05,27.35,26.7,26.95,0.0,0.0,390945,10592833.95
+Utilities,2084,Miahona Co.,2024-12-24,26.7,27.0,26.5,26.95,0.2,0.75,510705,13687765.75
+Utilities,2084,Miahona Co.,2024-12-23,26.7,27.05,26.4,26.75,0.05,0.19,500720,13375827.3
+Materials,2090,National Gypsum Co.,2024-12-31,21.62,21.82,21.56,21.74,0.14,0.65,91604,1989422.68
+Materials,2090,National Gypsum Co.,2024-12-30,21.34,21.62,21.32,21.6,0.22,1.03,106443,2282889.96
+Materials,2090,National Gypsum Co.,2024-12-29,21.34,21.38,21.2,21.38,0.04,0.19,77175,1643802.08
+Materials,2090,National Gypsum Co.,2024-12-26,21.44,21.48,21.16,21.34,-0.1,-0.47,40481,863229.18
+Materials,2090,National Gypsum Co.,2024-12-25,21.22,21.48,21.18,21.44,0.26,1.23,51868,1104793.16
+Materials,2090,National Gypsum Co.,2024-12-24,21.4,21.48,21.18,21.18,-0.14,-0.66,38774,823085.62
+Materials,2090,National Gypsum Co.,2024-12-23,21.44,21.44,21.06,21.32,-0.04,-0.19,61587,1306052.84
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-31,37.5,38.5,37.5,38.45,0.85,2.26,190924,7280804.05
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-30,37.15,37.65,37.0,37.6,0.45,1.21,93565,3497075.1
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-29,37.25,37.45,37.05,37.15,-0.1,-0.27,58897,2193205.6
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-26,37.5,37.55,37.1,37.25,-0.25,-0.67,63276,2353298.9
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-25,37.15,37.55,37.0,37.5,0.2,0.54,57108,2132010.95
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-24,37.75,37.75,37.15,37.3,-0.3,-0.8,51117,1908121.65
+Food & Beverages,2100,Wafrah for Industry and Development Co.,2024-12-23,38.0,38.0,37.1,37.6,0.0,0.0,51816,1944780.3
+Capital Goods,2110,Saudi Cable Co.,2024-12-31,101.4,103.0,100.0,101.0,0.4,0.4,221152,22490688.6
+Capital Goods,2110,Saudi Cable Co.,2024-12-30,99.4,101.4,97.0,100.6,1.4,1.41,243139,24134793.7
+Capital Goods,2110,Saudi Cable Co.,2024-12-29,102.2,102.4,98.9,99.2,-3.0,-2.94,173811,17378185.7
+Capital Goods,2110,Saudi Cable Co.,2024-12-26,102.0,103.2,101.0,102.2,-0.4,-0.39,130927,13349339.0
+Capital Goods,2110,Saudi Cable Co.,2024-12-25,104.2,105.2,101.8,102.6,-1.6,-1.54,297186,30750789.0
+Capital Goods,2110,Saudi Cable Co.,2024-12-24,102.0,104.8,100.0,104.2,3.6,3.58,521750,53595001.2
+Capital Goods,2110,Saudi Cable Co.,2024-12-23,98.8,104.0,97.0,100.6,1.0,1.0,505049,51077469.0
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-31,35.2,35.45,35.0,35.2,0.05,0.14,607471,21386658.25
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-30,35.5,35.6,34.9,35.15,-0.35,-0.99,993148,34864638.2
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-29,36.1,36.15,35.45,35.5,-0.75,-2.07,869253,31091501.15
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-26,36.6,36.65,36.25,36.25,-0.3,-0.82,240113,8748152.9
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-25,36.3,36.65,36.3,36.55,0.25,0.69,198332,7235356.05
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-24,36.6,36.65,36.25,36.3,-0.25,-0.68,280542,10200283.45
+Financial Services,2120,Saudi Advanced Industries Co.,2024-12-23,36.6,36.65,36.25,36.55,-0.1,-0.27,501938,18294248.2
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-31,30.95,30.95,29.5,29.6,-1.35,-4.36,871483,26153877.95
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-30,28.4,31.1,28.4,30.95,2.55,8.98,1243504,37562496.8
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-29,29.0,29.8,28.35,28.4,-0.7,-2.41,273960,7977024.65
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-26,30.0,30.05,29.0,29.1,-0.95,-3.16,229334,6763980.35
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-25,28.7,30.3,28.3,30.05,1.45,5.07,554117,16364909.45
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-24,27.6,28.9,27.5,28.6,1.2,4.38,564918,16028978.7
+Consumer Durables & Apparel,2130,Saudi Industrial Development Co.,2024-12-23,27.35,27.75,27.05,27.4,0.0,0.0,145234,3972050.25
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-31,15.0,15.28,14.98,15.14,0.18,1.2,489569,7399468.54
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-30,14.58,14.96,14.48,14.96,0.38,2.61,225587,3326242.8
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-29,14.52,14.68,14.52,14.58,0.04,0.28,96799,1414038.62
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-26,14.74,14.74,14.5,14.54,-0.2,-1.36,174059,2541022.08
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-25,14.8,14.8,14.54,14.74,0.02,0.14,125408,1842980.28
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-24,14.42,14.94,14.4,14.72,0.14,0.96,608681,8931606.88
+Health Care Equipment & Svc,2140,AYYAN Investment Co.,2024-12-23,14.38,14.6,14.1,14.58,0.16,1.11,271512,3906934.6
+Materials,2150,The National Company for Glass Industries,2024-12-31,53.5,54.9,53.5,54.3,0.4,0.74,67501,3670245.4
+Materials,2150,The National Company for Glass Industries,2024-12-30,54.5,54.9,53.6,53.9,-0.6,-1.1,215702,11660132.5
+Materials,2150,The National Company for Glass Industries,2024-12-29,54.8,55.4,54.1,54.5,-0.7,-1.27,153611,8401127.1
+Materials,2150,The National Company for Glass Industries,2024-12-26,53.9,55.4,53.4,55.2,2.2,4.15,240787,13128255.8
+Materials,2150,The National Company for Glass Industries,2024-12-25,53.3,54.0,52.8,53.0,-0.3,-0.56,120620,6421742.1
+Materials,2150,The National Company for Glass Industries,2024-12-24,54.2,54.2,53.0,53.3,-0.6,-1.11,167653,8962047.2
+Materials,2150,The National Company for Glass Industries,2024-12-23,54.0,54.5,53.1,53.9,-0.2,-0.37,70524,3804717.5
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-31,28.05,28.55,28.05,28.35,0.35,1.25,1110522,31432620.05
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-30,28.15,28.3,27.85,28.0,-0.15,-0.53,1180273,33082997.75
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-29,28.05,28.6,27.9,28.15,0.1,0.36,921513,25978522.6
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-26,28.0,28.55,27.9,28.05,0.05,0.18,1362331,38464617.65
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-25,28.5,28.65,27.95,28.0,-0.45,-1.58,1303578,36706218.3
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-24,29.4,30.05,28.35,28.45,-0.95,-3.23,1674103,48717830.6
+Capital Goods,2160,Saudi Arabian Amiantit Co.,2024-12-23,29.65,29.75,29.1,29.4,-0.25,-0.84,430815,12677083.1
+Materials,2170,Alujain Corp.,2024-12-31,38.05,38.35,38.05,38.3,0.0,0.0,78629,3008446.1
+Materials,2170,Alujain Corp.,2024-12-30,38.1,38.4,38.1,38.3,0.25,0.66,99119,3797452.7
+Materials,2170,Alujain Corp.,2024-12-29,38.2,38.5,38.0,38.05,-0.15,-0.39,44319,1690837.4
+Materials,2170,Alujain Corp.,2024-12-26,38.55,38.55,38.15,38.2,-0.35,-0.91,17779,680799.35
+Materials,2170,Alujain Corp.,2024-12-25,38.9,39.0,37.0,38.55,-0.35,-0.9,67136,2568797.75
+Materials,2170,Alujain Corp.,2024-12-24,38.85,39.6,38.55,38.9,0.3,0.78,190858,7444769.35
+Materials,2170,Alujain Corp.,2024-12-23,38.15,38.65,38.1,38.6,0.4,1.05,55303,2120311.55
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-31,43.6,44.8,43.4,44.5,0.9,2.06,94484,4183025.0
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-30,43.35,43.7,43.2,43.6,0.25,0.58,39341,1709300.25
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-29,43.35,43.6,43.3,43.35,0.0,0.0,18852,817899.75
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-26,43.45,43.65,43.1,43.35,0.0,0.0,18698,810083.55
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-25,43.35,44.3,43.1,43.35,-0.15,-0.34,59348,2596639.3
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-24,43.9,43.9,43.35,43.5,-0.4,-0.91,17057,742466.25
+Materials,2180,Filing and Packing Materials Manufacturing Co.,2024-12-23,43.3,43.9,42.7,43.9,0.6,1.39,69749,3018216.75
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-31,32.25,32.45,31.8,32.0,-0.25,-0.78,206590,6641036.75
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-30,33.2,33.3,32.2,32.25,-0.95,-2.86,501597,16402979.15
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-29,32.9,33.35,32.9,33.2,0.3,0.91,167549,5558168.45
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-26,32.5,33.0,32.5,32.9,0.4,1.23,111538,3649470.9
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-25,32.2,32.7,32.2,32.5,0.3,0.93,116056,3758909.2
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-24,33.1,33.4,32.1,32.2,-0.8,-2.42,416972,13756575.95
+Transportation,2190,Sustained Infrastructure Holding Co.,2024-12-23,32.5,33.15,32.0,33.0,0.65,2.01,164191,5356161.8
+Materials,2200,Arabian Pipes Co.,2024-12-31,123.2,123.6,120.8,121.8,-1.6,-1.3,95119,11623510.2
+Materials,2200,Arabian Pipes Co.,2024-12-30,119.6,124.6,119.6,123.4,3.0,2.49,144868,17825847.0
+Materials,2200,Arabian Pipes Co.,2024-12-29,117.2,121.2,116.4,120.4,3.2,2.73,262964,31540780.8
+Materials,2200,Arabian Pipes Co.,2024-12-26,119.0,119.6,116.6,117.2,-1.8,-1.51,143657,16953763.2
+Materials,2200,Arabian Pipes Co.,2024-12-25,114.6,119.2,114.6,119.0,4.4,3.84,142726,16753208.6
+Materials,2200,Arabian Pipes Co.,2024-12-24,117.4,118.4,114.0,114.6,-2.6,-2.22,125682,14591038.8
+Materials,2200,Arabian Pipes Co.,2024-12-23,117.6,119.6,116.0,117.2,1.2,1.03,155046,18201368.0
+Materials,2210,Nama Chemicals Co.,2024-12-31,27.9,28.3,27.75,27.9,0.2,0.72,299088,8388300.45
+Materials,2210,Nama Chemicals Co.,2024-12-30,27.55,27.9,27.5,27.7,0.0,0.0,93541,2600802.65
+Materials,2210,Nama Chemicals Co.,2024-12-29,27.6,27.85,27.6,27.7,0.15,0.54,55582,1540703.35
+Materials,2210,Nama Chemicals Co.,2024-12-26,27.5,27.6,27.4,27.55,0.0,0.0,26076,716969.5
+Materials,2210,Nama Chemicals Co.,2024-12-25,27.5,27.65,27.05,27.55,0.15,0.55,64960,1784256.35
+Materials,2210,Nama Chemicals Co.,2024-12-24,27.3,27.65,27.0,27.4,0.1,0.37,150302,4109732.1
+Materials,2210,Nama Chemicals Co.,2024-12-23,27.3,27.35,27.0,27.3,0.25,0.92,84142,2286689.85
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-31,17.34,17.74,17.34,17.72,0.36,2.07,236670,4156929.14
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-30,17.32,17.42,17.1,17.36,0.02,0.12,188437,3249967.26
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-29,17.3,17.44,17.2,17.34,0.0,0.0,100044,1727978.34
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-26,17.6,17.66,17.18,17.34,-0.26,-1.48,194898,3378442.26
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-25,17.34,17.68,17.34,17.6,0.12,0.69,123225,2161367.12
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-24,17.44,17.58,17.32,17.48,-0.06,-0.34,195605,3414968.02
+Materials,2220,National Metal Manufacturing and Casting Co.,2024-12-23,17.86,17.86,17.38,17.54,-0.32,-1.79,132918,2327563.82
+Energy,2222,Saudi Arabian Oil Co.,2024-12-31,28.0,28.15,27.95,28.05,0.15,0.54,8325694,233352742.2
+Energy,2222,Saudi Arabian Oil Co.,2024-12-30,27.85,28.0,27.8,27.9,0.05,0.18,14128315,395338521.7
+Energy,2222,Saudi Arabian Oil Co.,2024-12-29,28.0,28.1,27.8,27.85,-0.15,-0.54,8171940,227929012.4
+Energy,2222,Saudi Arabian Oil Co.,2024-12-26,28.1,28.15,28.0,28.0,-0.1,-0.36,3841631,107862503.4
+Energy,2222,Saudi Arabian Oil Co.,2024-12-25,28.25,28.3,28.1,28.1,-0.15,-0.53,3460432,97574862.6
+Energy,2222,Saudi Arabian Oil Co.,2024-12-24,28.5,28.55,28.25,28.25,-0.25,-0.88,5262134,149413770.9
+Energy,2222,Saudi Arabian Oil Co.,2024-12-23,28.5,28.65,28.45,28.5,0.05,0.18,5281904,150725862.4
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-31,112.0,112.4,111.8,111.8,0.0,0.0,88270,9887467.6
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-30,111.4,112.6,111.4,111.8,0.4,0.36,165851,18572209.8
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-29,111.4,112.0,110.4,111.4,0.0,0.0,104950,11671537.8
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-26,111.6,112.2,111.0,111.4,0.0,0.0,73234,8169294.2
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-25,111.4,112.0,111.0,111.4,0.6,0.54,47628,5312708.2
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-24,111.4,111.8,110.8,110.8,-0.4,-0.36,68835,7652833.2
+Materials,2223,Saudi Aramco Base Oil Co.,2024-12-23,110.6,111.2,109.6,111.2,0.4,0.36,104368,11522575.0
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-31,9.47,9.47,9.26,9.27,-0.2,-2.11,3064306,28537242.28
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-30,9.59,9.59,9.39,9.47,-0.05,-0.53,883262,8354840.62
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-29,9.6,9.6,9.45,9.52,0.07,0.74,1501716,14287792.18
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-26,9.56,9.56,9.35,9.45,-0.06,-0.63,662272,6242205.76
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-25,9.66,9.79,9.38,9.51,-0.15,-1.55,1376272,13140651.16
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-24,9.3,9.77,9.27,9.66,0.43,4.66,3875551,37086543.84
+Health Care Equipment & Svc,2230,Saudi Chemical Co.,2024-12-23,9.11,9.39,9.07,9.23,0.12,1.32,4243606,38884639.33
+Materials,2240,Zamil Industrial Investment Co.,2024-12-31,31.55,32.5,31.4,32.35,0.45,1.41,287740,9213851.15
+Materials,2240,Zamil Industrial Investment Co.,2024-12-30,32.05,32.5,31.15,31.9,-0.25,-0.78,454007,14416974.95
+Materials,2240,Zamil Industrial Investment Co.,2024-12-29,32.25,32.7,32.05,32.15,-0.2,-0.62,172166,5580724.35
+Materials,2240,Zamil Industrial Investment Co.,2024-12-26,33.0,33.55,32.35,32.35,-0.65,-1.97,303395,9989107.95
+Materials,2240,Zamil Industrial Investment Co.,2024-12-25,33.45,33.45,32.6,33.0,-0.4,-1.2,184218,6060527.15
+Materials,2240,Zamil Industrial Investment Co.,2024-12-24,33.9,33.9,32.8,33.4,-0.5,-1.47,371299,12349820.6
+Materials,2240,Zamil Industrial Investment Co.,2024-12-23,32.5,34.15,32.1,33.9,1.4,4.31,687951,22978149.1
+Materials,2250,Saudi Industrial Investment Group,2024-12-31,16.7,16.82,16.68,16.7,-0.04,-0.24,577838,9666440.02
+Materials,2250,Saudi Industrial Investment Group,2024-12-30,16.86,16.86,16.5,16.74,-0.04,-0.24,653464,10913119.1
+Materials,2250,Saudi Industrial Investment Group,2024-12-29,16.6,16.8,16.42,16.78,0.1,0.6,666801,11064457.38
+Materials,2250,Saudi Industrial Investment Group,2024-12-26,16.7,16.8,16.3,16.68,-0.46,-2.68,3074359,51012822.32
+Materials,2250,Saudi Industrial Investment Group,2024-12-25,16.9,17.14,16.86,17.14,0.22,1.3,471919,8032714.86
+Materials,2250,Saudi Industrial Investment Group,2024-12-24,16.9,16.98,16.82,16.92,0.0,0.0,292191,4944874.38
+Materials,2250,Saudi Industrial Investment Group,2024-12-23,16.92,16.94,16.8,16.92,-0.06,-0.35,507861,8561411.68
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-31,335.8,337.8,332.2,337.8,1.8,0.54,32136,10776199.6
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-30,335.0,338.8,334.2,336.0,1.2,0.36,22329,7512192.8
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-29,331.0,334.8,329.0,334.8,4.6,1.39,26351,8756967.6
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-26,334.2,334.2,329.2,330.2,-2.6,-0.78,19001,6280639.4
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-25,331.2,335.2,329.2,332.8,2.6,0.79,15232,5041840.4
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-24,335.0,335.0,329.6,330.2,-2.8,-0.84,18564,6134345.2
+Food & Beverages,2270,Saudia Dairy and Foodstuff Co.,2024-12-23,331.2,335.0,329.2,333.0,1.8,0.54,18794,6243982.0
+Food & Beverages,2280,Almarai Co.,2024-12-31,57.7,59.0,57.2,57.2,0.0,0.0,2401204,139016916.6
+Food & Beverages,2280,Almarai Co.,2024-12-30,55.9,57.5,55.6,57.2,1.7,3.06,2030002,114525123.6
+Food & Beverages,2280,Almarai Co.,2024-12-29,56.8,56.8,55.4,55.5,-1.4,-2.46,754943,42215318.3
+Food & Beverages,2280,Almarai Co.,2024-12-26,57.5,57.6,56.7,56.9,-0.5,-0.87,766701,43707183.1
+Food & Beverages,2280,Almarai Co.,2024-12-25,57.7,58.0,57.2,57.4,-0.3,-0.52,600138,34572621.3
+Food & Beverages,2280,Almarai Co.,2024-12-24,57.6,57.7,56.8,57.7,0.1,0.17,1520821,87219392.0
+Food & Beverages,2280,Almarai Co.,2024-12-23,57.5,58.0,55.0,57.6,-0.2,-0.35,4456880,256260466.3
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-31,120.8,123.0,120.8,121.0,0.2,0.17,85699,10410647.2
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-30,123.0,123.0,120.4,120.8,-0.4,-0.33,44801,5433156.6
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-29,121.0,123.4,120.6,121.2,0.2,0.17,119821,14630298.0
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-26,119.4,121.0,118.6,121.0,1.6,1.34,66781,7995683.6
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-25,119.0,119.8,118.2,119.4,0.4,0.34,63029,7517308.2
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-24,121.2,121.2,118.0,119.0,-1.8,-1.49,124586,14834704.2
+Food & Beverages,2281,Tanmiah Food Co.,2024-12-23,123.6,123.6,119.8,120.8,-1.8,-1.47,66476,8053305.8
+Food & Beverages,2282,Naqi Water Co.,2024-12-31,63.6,64.4,63.2,63.7,0.5,0.79,43614,2778598.8
+Food & Beverages,2282,Naqi Water Co.,2024-12-30,63.0,63.5,62.2,63.2,0.2,0.32,42528,2672985.0
+Food & Beverages,2282,Naqi Water Co.,2024-12-29,62.7,63.3,62.6,63.0,0.3,0.48,23912,1501596.1
+Food & Beverages,2282,Naqi Water Co.,2024-12-26,63.6,64.0,62.7,62.7,-0.9,-1.42,29666,1871629.4
+Food & Beverages,2282,Naqi Water Co.,2024-12-25,63.8,63.9,62.5,63.6,-0.2,-0.31,41638,2629917.5
+Food & Beverages,2282,Naqi Water Co.,2024-12-24,64.6,64.8,62.8,63.8,-0.8,-1.24,69404,4413502.3
+Food & Beverages,2282,Naqi Water Co.,2024-12-23,65.5,66.3,64.5,64.6,0.1,0.16,122556,8007169.6
+Food & Beverages,2283,First Milling Co.,2024-12-31,59.8,60.7,59.8,60.5,0.7,1.17,62492,3767000.5
+Food & Beverages,2283,First Milling Co.,2024-12-30,59.7,60.0,59.4,59.8,0.2,0.34,57198,3416869.4
+Food & Beverages,2283,First Milling Co.,2024-12-29,59.5,60.0,59.3,59.6,0.0,0.0,46667,2778880.3
+Food & Beverages,2283,First Milling Co.,2024-12-26,59.7,59.9,59.2,59.6,0.2,0.34,47749,2838081.0
+Food & Beverages,2283,First Milling Co.,2024-12-25,59.9,59.9,59.3,59.4,-0.5,-0.83,48332,2876542.4
+Food & Beverages,2283,First Milling Co.,2024-12-24,59.8,60.6,59.6,59.9,0.8,1.35,139810,8394632.1
+Food & Beverages,2283,First Milling Co.,2024-12-23,59.9,59.9,58.9,59.1,-0.6,-1.01,92721,5502277.8
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-31,41.45,41.55,41.1,41.15,-0.3,-0.72,39422,1625820.3
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-30,40.7,41.85,40.7,41.45,0.65,1.59,76133,3137476.2
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-29,41.0,41.2,40.65,40.8,-0.1,-0.24,49464,2022305.45
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-26,40.9,41.1,40.8,40.9,0.05,0.12,210512,8627766.45
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-25,40.8,41.1,40.55,40.85,-0.1,-0.24,147812,6058655.85
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-24,41.25,41.25,40.8,40.95,-0.3,-0.73,44963,1842299.55
+Food & Beverages,2284,Modern Mills for Food Products Co.,2024-12-23,40.7,42.5,40.3,41.25,0.55,1.35,165814,6889587.8
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-31,49.3,49.3,49.0,49.05,-0.25,-0.51,119075,5846179.7
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-30,48.75,49.4,48.6,49.3,0.55,1.13,231479,11331301.7
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-29,48.85,49.15,48.65,48.75,-0.1,-0.2,118576,5790988.25
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-26,49.0,49.0,48.65,48.85,-0.05,-0.1,99515,4851367.4
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-25,49.0,49.0,48.7,48.9,-0.1,-0.2,112233,5482792.8
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-24,49.4,49.5,48.9,49.0,-0.4,-0.81,131317,6447454.1
+Food & Beverages,2285,Arabian Mills for Food Products Co.,2024-12-23,49.3,49.5,48.95,49.4,0.1,0.2,279488,13734787.35
+Food & Beverages,2286,Fourth Milling Co.,2024-12-31,4.03,4.05,4.01,4.04,0.01,0.25,2777802,11199097.94
+Food & Beverages,2286,Fourth Milling Co.,2024-12-30,4.05,4.06,4.0,4.03,-0.01,-0.25,5482998,22048304.07
+Food & Beverages,2286,Fourth Milling Co.,2024-12-29,4.03,4.08,4.02,4.04,0.02,0.5,3361165,13598287.48
+Food & Beverages,2286,Fourth Milling Co.,2024-12-26,4.0,4.03,4.0,4.02,-0.01,-0.25,2525809,10124727.14
+Food & Beverages,2286,Fourth Milling Co.,2024-12-25,4.03,4.04,4.0,4.03,0.0,0.0,2044010,8210259.23
+Food & Beverages,2286,Fourth Milling Co.,2024-12-24,4.04,4.04,4.01,4.03,0.0,0.0,2317791,9330352.65
+Food & Beverages,2286,Fourth Milling Co.,2024-12-23,4.05,4.09,4.0,4.03,-0.02,-0.49,5416478,21857639.57
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-31,38.1,38.15,37.8,37.8,-0.1,-0.26,165930,6303716.9
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-30,37.8,38.3,37.8,37.9,0.3,0.8,467571,17753850.1
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-29,37.5,37.65,37.3,37.6,0.3,0.8,212657,7965402.0
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-26,37.25,37.45,37.2,37.3,0.05,0.13,120975,4509912.7
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-25,37.2,37.4,37.15,37.25,0.0,0.0,107678,4011996.05
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-24,37.15,37.45,37.0,37.25,0.0,0.0,242390,9018151.3
+Materials,2290,Yanbu National Petrochemical Co.,2024-12-23,36.95,37.25,36.65,37.25,0.3,0.81,226781,8355076.55
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-31,64.8,65.1,64.2,64.9,-0.5,-0.76,37665,2439226.6
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-30,65.4,65.4,63.7,65.4,0.7,1.08,73785,4771724.6
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-29,62.0,65.4,62.0,64.7,2.3,3.69,201964,13010732.1
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-26,63.0,63.0,61.9,62.4,-0.5,-0.79,20332,1266930.6
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-25,62.8,63.0,62.0,62.9,0.1,0.16,17442,1091595.8
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-24,61.8,63.2,61.8,62.8,1.2,1.95,61667,3857493.2
+Materials,2300,Saudi Paper Manufacturing Co.,2024-12-23,61.0,62.6,60.5,61.6,-0.5,-0.81,98007,6023109.8
+Materials,2310,Sahara International Petrochemical Co.,2024-12-31,24.58,24.94,24.54,24.88,0.32,1.3,652718,16178308.5
+Materials,2310,Sahara International Petrochemical Co.,2024-12-30,24.3,24.74,24.3,24.56,0.28,1.15,793760,19474874.18
+Materials,2310,Sahara International Petrochemical Co.,2024-12-29,24.0,24.28,24.0,24.28,0.28,1.17,324694,7843141.6
+Materials,2310,Sahara International Petrochemical Co.,2024-12-26,24.16,24.24,24.0,24.0,-0.12,-0.5,581807,14033058.32
+Materials,2310,Sahara International Petrochemical Co.,2024-12-25,24.08,24.26,24.0,24.12,0.06,0.25,246845,5948181.7
+Materials,2310,Sahara International Petrochemical Co.,2024-12-24,24.28,24.28,23.96,24.06,-0.12,-0.5,752047,18070060.54
+Materials,2310,Sahara International Petrochemical Co.,2024-12-23,24.1,24.18,23.84,24.18,0.16,0.67,682004,16340278.74
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-31,37.25,39.3,37.05,39.0,1.8,4.84,729466,27683643.25
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-30,36.9,37.3,36.85,37.2,0.3,0.81,236758,8790836.65
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-29,36.5,36.95,36.45,36.9,0.5,1.37,149807,5500494.5
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-26,36.65,36.8,36.3,36.4,-0.2,-0.55,87521,3194256.65
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-25,36.75,37.1,36.5,36.6,-0.2,-0.54,153100,5623526.4
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-24,37.25,37.4,36.8,36.8,-0.3,-0.81,249821,9259939.8
+Capital Goods,2320,Al-Babtain Power and Telecommunication Co.,2024-12-23,36.15,37.15,35.9,37.1,1.05,2.91,364067,13313941.55
+Materials,2330,Advanced Petrochemical Co.,2024-12-31,32.0,32.15,31.85,32.1,0.1,0.31,343354,11003995.65
+Materials,2330,Advanced Petrochemical Co.,2024-12-30,32.2,32.2,31.8,32.0,-0.15,-0.47,534031,17040650.85
+Materials,2330,Advanced Petrochemical Co.,2024-12-29,32.4,32.45,32.0,32.15,-0.25,-0.77,203050,6528021.05
+Materials,2330,Advanced Petrochemical Co.,2024-12-26,32.2,32.4,31.9,32.4,0.15,0.47,150339,4825731.35
+Materials,2330,Advanced Petrochemical Co.,2024-12-25,32.75,32.75,31.9,32.25,-0.2,-0.62,113329,3643155.5
+Materials,2330,Advanced Petrochemical Co.,2024-12-24,32.2,32.5,32.0,32.45,0.25,0.78,160914,5198881.1
+Materials,2330,Advanced Petrochemical Co.,2024-12-23,32.1,32.2,31.85,32.2,0.05,0.16,298376,9546020.3
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-31,15.7,16.02,15.68,15.98,0.32,2.04,248622,3951140.6
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-30,15.44,15.68,15.44,15.66,0.14,0.9,39736,619233.44
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-29,15.44,15.64,15.44,15.52,-0.12,-0.77,57977,900880.96
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-26,15.58,15.8,15.46,15.64,0.06,0.39,54201,849361.26
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-25,15.44,15.62,15.42,15.58,-0.02,-0.13,54147,840541.14
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-24,15.6,15.64,15.44,15.6,0.0,0.0,35098,544179.56
+Consumer Durables & Apparel,2340,ARTEX Industrial Investment Co.,2024-12-23,15.64,15.64,15.48,15.6,0.1,0.65,38234,594788.08
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-31,6.91,7.05,6.91,7.02,0.12,1.74,2648843,18523991.66
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-30,6.89,6.93,6.89,6.9,0.01,0.15,1387243,9587554.09
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-29,6.9,6.91,6.87,6.89,-0.01,-0.14,1474649,10164527.39
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-26,6.96,6.96,6.88,6.9,-0.04,-0.58,1292523,8920330.05
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-25,6.98,7.01,6.94,6.94,-0.04,-0.57,998880,6952407.9
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-24,6.97,7.07,6.94,6.98,0.01,0.14,3994026,27956002.49
+Materials,2350,Saudi Kayan Petrochemical Co.,2024-12-23,6.88,7.0,6.84,6.97,0.09,1.31,3112252,21535555.45
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-31,37.85,38.7,37.85,38.15,0.3,0.79,66851,2567417.65
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-30,37.45,38.8,37.1,37.85,0.4,1.07,159318,6067430.95
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-29,37.35,37.8,37.35,37.45,-0.05,-0.13,24017,902058.65
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-26,37.8,37.9,37.3,37.5,-0.3,-0.79,43193,1621155.5
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-25,38.2,38.4,37.75,37.8,-0.4,-1.05,53531,2033566.9
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-24,38.1,38.65,37.6,38.2,0.1,0.26,120061,4562022.15
+Materials,2360,Saudi Vitrified Clay Pipes Co.,2024-12-23,39.7,39.7,37.65,38.1,-0.8,-2.06,325488,12538099.4
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-31,43.5,43.85,43.05,43.4,-0.5,-1.14,428453,18600256.3
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-30,41.5,44.0,40.9,43.9,2.55,6.17,741792,31882463.1
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-29,40.95,41.55,40.65,41.35,0.55,1.35,148729,6116104.65
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-26,41.2,41.35,40.5,40.8,-0.35,-0.85,185143,7550892.5
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-25,41.25,41.9,40.7,41.15,-0.1,-0.24,200807,8262664.85
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-24,43.1,44.0,41.25,41.25,-1.85,-4.29,630366,26980786.35
+Capital Goods,2370,Middle East Specialized Cables Co.,2024-12-23,42.6,43.3,42.2,43.1,0.85,2.01,465352,19892671.8
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-31,8.17,8.29,8.17,8.26,0.1,1.23,1161237,9572238.4
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-30,8.15,8.18,8.13,8.16,0.01,0.12,479785,3913652.63
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-29,8.13,8.19,8.1,8.15,0.02,0.25,363937,2965901.56
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-26,8.2,8.2,8.1,8.13,-0.05,-0.61,426327,3467287.04
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-25,8.14,8.21,8.13,8.18,0.04,0.49,384269,3139719.76
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-24,8.2,8.22,8.13,8.14,-0.06,-0.73,423236,3456254.52
+Energy,2380,Rabigh Refining and Petrochemical Co.,2024-12-23,8.16,8.21,8.12,8.2,0.04,0.49,779937,6377339.47
+Energy,2381,Arabian Drilling Co.,2024-12-31,111.8,112.2,111.4,111.6,-0.2,-0.18,133249,14899313.0
+Energy,2381,Arabian Drilling Co.,2024-12-30,110.6,112.4,110.0,111.8,1.4,1.27,272409,30307942.8
+Energy,2381,Arabian Drilling Co.,2024-12-29,112.0,112.2,110.2,110.4,-1.4,-1.25,166739,18511925.2
+Energy,2381,Arabian Drilling Co.,2024-12-26,111.8,112.2,111.4,111.8,0.0,0.0,65314,7300593.4
+Energy,2381,Arabian Drilling Co.,2024-12-25,112.4,112.4,111.6,111.8,-0.6,-0.53,76099,8519527.0
+Energy,2381,Arabian Drilling Co.,2024-12-24,112.8,112.8,111.6,112.4,0.4,0.36,105710,11854570.2
+Energy,2381,Arabian Drilling Co.,2024-12-23,111.0,112.6,110.4,112.0,1.0,0.9,159225,17720371.0
+Energy,2382,Ades Holding Co.,2024-12-31,17.16,17.44,17.0,17.36,0.22,1.28,3481771,59884611.7
+Energy,2382,Ades Holding Co.,2024-12-30,17.2,17.3,17.08,17.14,-0.02,-0.12,2798665,48061045.12
+Energy,2382,Ades Holding Co.,2024-12-29,17.5,17.6,17.1,17.16,0.2,1.18,3985699,68781081.3
+Energy,2382,Ades Holding Co.,2024-12-26,17.04,17.08,16.92,16.96,-0.08,-0.47,1100854,18684172.22
+Energy,2382,Ades Holding Co.,2024-12-25,17.14,17.16,16.86,17.04,-0.08,-0.47,2536780,43058505.96
+Energy,2382,Ades Holding Co.,2024-12-24,17.3,17.3,17.1,17.12,-0.16,-0.93,1357433,23336645.6
+Energy,2382,Ades Holding Co.,2024-12-23,17.3,17.48,17.2,17.28,0.0,0.0,1271528,21960251.7
+Materials,3001,Hail Cement Co.,2024-06-12,0.0,0.0,0.0,11.6,0.0,0.0,0,0.0
+Materials,3001,Hail Cement Co.,2024-06-11,0.0,0.0,0.0,11.6,0.0,0.0,0,0.0
+Materials,3001,Hail Cement Co.,2024-06-10,11.6,11.7,11.54,11.6,0.02,0.17,1029618,11976960.5
+Materials,3001,Hail Cement Co.,2024-06-09,11.42,11.62,11.42,11.58,0.2,1.76,254211,2939560.6
+Materials,3001,Hail Cement Co.,2024-06-06,11.5,11.58,11.36,11.38,-0.08,-0.7,277837,3197223.72
+Materials,3001,Hail Cement Co.,2024-06-05,11.58,11.6,11.46,11.46,-0.12,-1.04,342938,3938080.78
+Materials,3001,Hail Cement Co.,2024-06-04,11.78,11.8,11.56,11.58,-0.1,-0.86,1104718,12826521.96
+Materials,3002,Najran Cement Co.,2024-12-31,9.07,9.11,9.06,9.07,0.0,0.0,262235,2384799.04
+Materials,3002,Najran Cement Co.,2024-12-30,9.05,9.08,9.02,9.07,0.04,0.44,175708,1590927.32
+Materials,3002,Najran Cement Co.,2024-12-29,9.02,9.1,9.02,9.03,0.01,0.11,343222,3104569.94
+Materials,3002,Najran Cement Co.,2024-12-26,8.97,9.02,8.91,9.02,0.05,0.56,347030,3113227.13
+Materials,3002,Najran Cement Co.,2024-12-25,8.9,8.97,8.88,8.97,0.07,0.79,985463,8777629.17
+Materials,3002,Najran Cement Co.,2024-12-24,8.92,8.94,8.84,8.9,-0.02,-0.22,619743,5511156.26
+Materials,3002,Najran Cement Co.,2024-12-23,9.1,9.2,8.89,8.92,-0.11,-1.22,1619003,14537870.49
+Materials,3003,City Cement Co.,2024-12-31,18.1,18.22,18.04,18.2,0.1,0.55,163911,2973868.66
+Materials,3003,City Cement Co.,2024-12-30,18.08,18.12,18.0,18.1,0.02,0.11,68464,1236370.68
+Materials,3003,City Cement Co.,2024-12-29,18.08,18.22,17.98,18.08,-0.1,-0.55,166233,3000415.64
+Materials,3003,City Cement Co.,2024-12-26,18.18,18.28,18.12,18.18,-0.1,-0.55,29695,540105.2
+Materials,3003,City Cement Co.,2024-12-25,18.08,18.28,18.0,18.28,0.1,0.55,71612,1296736.8
+Materials,3003,City Cement Co.,2024-12-24,18.38,18.38,18.08,18.18,-0.14,-0.76,35463,645413.74
+Materials,3003,City Cement Co.,2024-12-23,18.12,18.38,18.12,18.32,-0.08,-0.43,83357,1520873.22
+Materials,3004,Northern Region Cement Co.,2024-12-31,9.15,9.3,9.11,9.25,0.11,1.2,418339,3851727.98
+Materials,3004,Northern Region Cement Co.,2024-12-30,9.15,9.18,9.1,9.14,-0.01,-0.11,339287,3097188.38
+Materials,3004,Northern Region Cement Co.,2024-12-29,9.02,9.3,9.02,9.15,0.14,1.55,811143,7433610.38
+Materials,3004,Northern Region Cement Co.,2024-12-26,9.04,9.04,8.99,9.01,0.01,0.11,49373,445440.29
+Materials,3004,Northern Region Cement Co.,2024-12-25,8.97,9.01,8.97,9.0,0.02,0.22,132146,1189156.76
+Materials,3004,Northern Region Cement Co.,2024-12-24,9.0,9.01,8.96,8.98,-0.02,-0.22,92834,834153.77
+Materials,3004,Northern Region Cement Co.,2024-12-23,9.01,9.02,8.96,9.0,-0.01,-0.11,178363,1604164.01
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-31,18.48,18.74,18.4,18.62,0.14,0.76,111759,2082991.82
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-30,18.32,18.54,18.32,18.48,0.12,0.65,98186,1812366.54
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-29,18.42,18.54,18.36,18.36,-0.06,-0.33,84636,1561254.54
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-26,18.44,18.5,18.4,18.42,-0.02,-0.11,24271,447382.44
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-25,18.3,18.52,18.3,18.44,0.12,0.66,69471,1278281.74
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-24,18.36,18.42,18.24,18.32,-0.04,-0.22,40113,735629.22
+Materials,3005,Umm Al-Qura Cement Co.,2024-12-23,18.5,18.5,18.2,18.36,-0.14,-0.76,169311,3105967.18
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-31,32.2,32.7,32.2,32.4,0.3,0.93,79587,2580184.35
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-30,31.6,32.35,31.55,32.1,0.5,1.58,87259,2789234.35
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-29,31.5,31.85,31.45,31.6,0.1,0.32,89407,2821036.7
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-26,31.8,31.9,31.35,31.5,-0.15,-0.47,86745,2739130.8
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-25,31.55,32.0,31.5,31.65,0.0,0.0,47909,1518669.7
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-24,31.75,31.95,31.5,31.65,-0.1,-0.31,45300,1432107.25
+Materials,3007,Zahrat Al Waha for Trading Co.,2024-12-23,32.0,32.25,31.35,31.75,-0.15,-0.47,84525,2679426.3
+Materials,3008,Al Kathiri Holding Co.,2024-12-31,2.55,2.59,2.55,2.58,0.03,1.18,990856,2546613.64
+Materials,3008,Al Kathiri Holding Co.,2024-12-30,2.54,2.56,2.53,2.55,0.01,0.39,869480,2213423.12
+Materials,3008,Al Kathiri Holding Co.,2024-12-29,2.53,2.55,2.52,2.54,0.01,0.4,559971,1416487.67
+Materials,3008,Al Kathiri Holding Co.,2024-12-26,2.54,2.54,2.52,2.53,-0.02,-0.78,411309,1040480.34
+Materials,3008,Al Kathiri Holding Co.,2024-12-25,2.52,2.56,2.52,2.55,0.03,1.19,859427,2188018.39
+Materials,3008,Al Kathiri Holding Co.,2024-12-24,2.53,2.55,2.52,2.52,-0.01,-0.4,1023111,2587065.78
+Materials,3008,Al Kathiri Holding Co.,2024-12-23,2.56,2.56,2.51,2.53,-0.03,-1.17,1108088,2800355.8
+Materials,3010,Arabian Cement Co.,2024-12-31,26.0,26.2,25.95,26.0,-0.1,-0.38,171149,4457102.85
+Materials,3010,Arabian Cement Co.,2024-12-30,26.1,26.35,25.9,26.1,0.15,0.58,130699,3404163.5
+Materials,3010,Arabian Cement Co.,2024-12-29,26.0,26.35,25.8,25.95,0.05,0.19,132387,3445470.05
+Materials,3010,Arabian Cement Co.,2024-12-26,26.0,26.2,25.9,25.9,0.0,0.0,70359,1828188.55
+Materials,3010,Arabian Cement Co.,2024-12-25,26.15,26.25,25.8,25.9,-0.25,-0.96,151883,3953595.95
+Materials,3010,Arabian Cement Co.,2024-12-24,26.75,26.75,26.15,26.15,-0.6,-2.24,122229,3226041.1
+Materials,3010,Arabian Cement Co.,2024-12-23,26.5,26.75,26.35,26.75,0.25,0.94,138900,3686717.15
+Materials,3020,Yamama Cement Co.,2024-12-31,34.65,35.25,34.6,35.05,0.2,0.57,233381,8162293.5
+Materials,3020,Yamama Cement Co.,2024-12-30,35.2,35.2,34.25,34.85,-0.35,-0.99,329567,11475834.6
+Materials,3020,Yamama Cement Co.,2024-12-29,34.2,35.3,34.0,35.2,1.0,2.92,457827,15995059.65
+Materials,3020,Yamama Cement Co.,2024-12-26,34.15,34.8,33.9,34.2,0.05,0.15,174350,6005545.3
+Materials,3020,Yamama Cement Co.,2024-12-25,32.95,34.55,32.95,34.15,1.0,3.02,338773,11534225.25
+Materials,3020,Yamama Cement Co.,2024-12-24,34.05,34.05,33.0,33.15,-0.8,-2.36,194613,6505101.45
+Materials,3020,Yamama Cement Co.,2024-12-23,33.5,33.95,33.35,33.95,0.8,2.41,111966,3761798.1
+Materials,3030,Saudi Cement Co.,2024-12-31,42.8,43.0,42.65,42.65,-0.15,-0.35,55175,2363193.3
+Materials,3030,Saudi Cement Co.,2024-12-30,42.5,42.9,42.5,42.8,0.2,0.47,112143,4789422.9
+Materials,3030,Saudi Cement Co.,2024-12-29,42.7,43.0,42.4,42.6,0.1,0.24,60824,2602234.8
+Materials,3030,Saudi Cement Co.,2024-12-26,41.95,42.55,41.85,42.5,0.55,1.31,49237,2076889.3
+Materials,3030,Saudi Cement Co.,2024-12-25,41.85,42.0,41.7,41.95,0.1,0.24,97092,4062367.0
+Materials,3030,Saudi Cement Co.,2024-12-24,42.1,42.1,41.65,41.85,-0.4,-0.95,131154,5491518.7
+Materials,3030,Saudi Cement Co.,2024-12-23,42.2,42.35,42.05,42.25,-0.15,-0.35,67289,2838347.3
+Materials,3040,Qassim Cement Co.,2024-12-31,52.6,52.8,52.5,52.6,-0.2,-0.38,101018,5326104.8
+Materials,3040,Qassim Cement Co.,2024-12-30,52.6,52.8,52.4,52.8,0.2,0.38,70346,3699098.7
+Materials,3040,Qassim Cement Co.,2024-12-29,53.0,53.0,52.6,52.6,-0.3,-0.57,61694,3260815.3
+Materials,3040,Qassim Cement Co.,2024-12-26,53.2,53.2,52.8,52.9,-0.3,-0.56,51466,2725695.9
+Materials,3040,Qassim Cement Co.,2024-12-25,52.8,54.0,52.7,53.2,0.2,0.38,111792,5951858.5
+Materials,3040,Qassim Cement Co.,2024-12-24,53.0,53.4,52.8,53.0,0.0,0.0,40174,2128320.8
+Materials,3040,Qassim Cement Co.,2024-12-23,53.1,53.3,52.7,53.0,-0.1,-0.19,59850,3171635.2
+Materials,3050,Southern Province Cement Co.,2024-12-31,33.65,34.5,33.6,34.5,0.9,2.68,43766,1492305.85
+Materials,3050,Southern Province Cement Co.,2024-12-30,33.6,33.75,33.35,33.6,0.0,0.0,22022,738935.2
+Materials,3050,Southern Province Cement Co.,2024-12-29,33.1,33.75,33.1,33.6,0.4,1.2,21268,709480.3
+Materials,3050,Southern Province Cement Co.,2024-12-26,33.3,33.5,33.15,33.2,-0.1,-0.3,17030,567022.85
+Materials,3050,Southern Province Cement Co.,2024-12-25,33.6,33.9,33.3,33.3,-0.05,-0.15,37426,1248827.15
+Materials,3050,Southern Province Cement Co.,2024-12-24,33.5,33.9,33.35,33.35,-0.4,-1.19,57934,1942295.3
+Materials,3050,Southern Province Cement Co.,2024-12-23,33.6,34.0,33.3,33.75,0.15,0.45,49013,1647899.45
+Materials,3060,Yanbu Cement Co.,2024-12-31,24.0,24.34,24.0,24.3,0.4,1.67,267912,6474312.62
+Materials,3060,Yanbu Cement Co.,2024-12-30,23.82,23.94,23.66,23.9,0.1,0.42,172835,4123082.96
+Materials,3060,Yanbu Cement Co.,2024-12-29,23.42,23.8,23.4,23.8,0.38,1.62,122944,2902035.24
+Materials,3060,Yanbu Cement Co.,2024-12-26,23.5,23.6,23.4,23.42,0.0,0.0,82686,1938060.44
+Materials,3060,Yanbu Cement Co.,2024-12-25,23.3,23.56,23.26,23.42,0.1,0.43,403055,9424800.86
+Materials,3060,Yanbu Cement Co.,2024-12-24,23.14,23.44,23.08,23.32,0.18,0.78,259965,6057528.14
+Materials,3060,Yanbu Cement Co.,2024-12-23,23.6,23.6,23.0,23.14,-0.4,-1.7,345509,8015218.12
+Materials,3080,Eastern Province Cement Co.,2024-12-31,34.05,34.45,33.85,34.4,0.15,0.44,80189,2734863.55
+Materials,3080,Eastern Province Cement Co.,2024-12-30,34.1,34.45,33.85,34.25,0.05,0.15,27415,934446.55
+Materials,3080,Eastern Province Cement Co.,2024-12-29,34.6,34.6,34.0,34.2,-0.1,-0.29,31282,1071070.75
+Materials,3080,Eastern Province Cement Co.,2024-12-26,34.7,34.7,34.3,34.3,-0.1,-0.29,10836,373208.3
+Materials,3080,Eastern Province Cement Co.,2024-12-25,34.35,34.9,34.15,34.4,0.05,0.15,28008,967242.35
+Materials,3080,Eastern Province Cement Co.,2024-12-24,34.8,34.8,34.1,34.35,-0.45,-1.29,56252,1929728.85
+Materials,3080,Eastern Province Cement Co.,2024-12-23,34.7,34.85,34.35,34.8,0.1,0.29,46430,1607757.35
+Materials,3090,Tabuk Cement Co.,2024-12-31,12.8,13.0,12.8,12.86,0.06,0.47,417915,5393537.3
+Materials,3090,Tabuk Cement Co.,2024-12-30,12.66,12.8,12.6,12.8,0.14,1.11,167383,2134535.96
+Materials,3090,Tabuk Cement Co.,2024-12-29,12.7,12.76,12.52,12.66,-0.04,-0.31,26779,338211.74
+Materials,3090,Tabuk Cement Co.,2024-12-26,12.5,12.78,12.5,12.7,0.0,0.0,48553,614052.64
+Materials,3090,Tabuk Cement Co.,2024-12-25,12.46,12.7,12.46,12.7,0.06,0.47,84939,1073235.54
+Materials,3090,Tabuk Cement Co.,2024-12-24,12.62,12.7,12.5,12.64,0.14,1.12,128590,1622930.04
+Materials,3090,Tabuk Cement Co.,2024-12-23,12.4,12.52,12.28,12.5,0.1,0.81,115225,1428555.54
+Materials,3091,Al Jouf Cement Co.,2024-12-31,10.28,10.32,10.22,10.28,0.02,0.19,151563,1558551.14
+Materials,3091,Al Jouf Cement Co.,2024-12-30,10.26,10.26,10.02,10.26,0.1,0.98,166024,1690364.52
+Materials,3091,Al Jouf Cement Co.,2024-12-29,10.14,10.32,10.14,10.16,0.06,0.59,271057,2765606.8
+Materials,3091,Al Jouf Cement Co.,2024-12-26,10.14,10.16,10.06,10.1,-0.04,-0.39,9134,92324.92
+Materials,3091,Al Jouf Cement Co.,2024-12-25,10.06,10.14,10.04,10.14,0.1,1.0,84643,853543.28
+Materials,3091,Al Jouf Cement Co.,2024-12-24,10.14,10.14,10.04,10.04,-0.1,-0.99,24466,246295.02
+Materials,3091,Al Jouf Cement Co.,2024-12-23,10.04,10.14,10.04,10.14,0.06,0.6,123625,1249098.6
+Materials,3092,Riyadh Cement Co.,2024-12-31,31.5,32.4,31.5,32.25,0.6,1.9,217298,6931112.6
+Materials,3092,Riyadh Cement Co.,2024-12-30,31.8,32.15,31.3,31.65,-0.15,-0.47,224713,7134135.95
+Materials,3092,Riyadh Cement Co.,2024-12-29,31.45,31.9,31.4,31.8,0.35,1.11,173632,5495815.4
+Materials,3092,Riyadh Cement Co.,2024-12-26,31.35,31.85,31.3,31.45,0.05,0.16,141929,4483455.85
+Materials,3092,Riyadh Cement Co.,2024-12-25,31.45,31.8,31.2,31.4,-0.2,-0.63,284280,8928070.15
+Materials,3092,Riyadh Cement Co.,2024-12-24,32.05,32.4,31.4,31.6,-0.45,-1.4,250179,7935105.6
+Materials,3092,Riyadh Cement Co.,2024-12-23,33.3,33.3,31.95,32.05,-1.2,-3.61,305342,9902257.85
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-31,10.48,10.52,10.38,10.5,0.02,0.19,2072664,21628896.86
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-30,10.48,10.5,10.38,10.48,0.0,0.0,1428779,14877695.22
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-29,10.62,10.68,10.46,10.48,-0.12,-1.13,1632823,17151355.34
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-26,10.7,10.7,10.56,10.6,-0.08,-0.75,1321755,14015330.52
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-25,10.66,10.7,10.62,10.68,0.08,0.75,333087,3548449.72
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-24,10.76,10.8,10.56,10.6,-0.12,-1.12,1223168,13019396.34
+Consumer Staples Distribution & Retail,4001,Abdullah Al Othaim Markets Co.,2024-12-23,10.78,10.8,10.7,10.72,-0.06,-0.56,1211155,13014163.78
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-31,86.8,86.8,85.1,85.1,-0.9,-1.05,381482,32633849.2
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-30,85.3,86.6,85.2,86.0,0.8,0.94,214141,18409479.7
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-29,86.9,87.4,84.8,85.2,-1.7,-1.96,166110,14227177.3
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-26,87.1,87.5,86.5,86.9,-0.1,-0.11,134850,11738308.5
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-25,85.3,87.0,85.2,87.0,1.7,1.99,147799,12767913.0
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-24,86.4,86.4,85.1,85.3,-0.4,-0.47,271131,23176573.9
+Health Care Equipment & Svc,4002,Mouwasat Medical Services Co.,2024-12-23,84.3,85.7,83.5,85.7,1.4,1.66,312884,26498074.8
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-31,90.0,90.8,89.7,90.2,0.2,0.22,514924,46480212.3
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-30,90.9,90.9,89.7,90.0,-0.9,-0.99,359387,32359245.5
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-29,91.5,91.7,90.5,90.9,-0.3,-0.33,426571,38822046.8
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-26,91.2,91.6,90.9,91.2,0.0,0.0,248929,22702336.5
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-25,92.2,92.5,90.9,91.2,-1.0,-1.08,400736,36647674.2
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-24,92.6,93.7,91.9,92.2,-6.7,-6.77,894187,82891662.1
+Consumer Discretionary Distribution & Retail,4003,United Electronics Co.,2024-12-23,98.7,99.1,97.8,98.9,0.2,0.2,966329,95256210.6
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-31,152.4,152.4,149.6,150.0,-2.6,-1.7,40163,6045676.2
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-30,151.2,153.8,149.8,152.6,2.0,1.33,51417,7823987.0
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-29,150.6,151.8,148.8,150.6,0.0,0.0,42011,6286041.0
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-26,151.8,151.8,149.2,150.6,-1.2,-0.79,21196,3184350.4
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-25,153.4,153.4,151.0,151.8,-1.8,-1.17,16475,2495392.6
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-24,154.0,154.0,151.6,153.6,-0.4,-0.26,12583,1922117.0
+Health Care Equipment & Svc,4004,Dallah Healthcare Co.,2024-12-23,152.0,154.0,150.6,154.0,2.4,1.58,27314,4166717.6
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-31,167.8,168.6,164.4,167.0,-0.4,-0.24,56406,9392891.2
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-30,173.4,173.4,167.4,167.4,-3.6,-2.11,72443,12315021.4
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-29,171.0,172.0,169.0,171.0,0.0,0.0,34784,5948092.8
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-26,165.4,173.6,162.6,171.0,4.0,2.4,175371,29276364.6
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-25,161.4,167.0,161.4,167.0,4.4,2.71,42877,7029957.6
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-24,166.6,166.6,161.0,162.6,-3.6,-2.17,568794,92879544.6
+Health Care Equipment & Svc,4005,National Medical Care Co.,2024-12-23,167.6,170.0,162.4,166.2,-1.4,-0.84,174164,28735983.2
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-31,22.4,22.74,22.28,22.62,0.24,1.07,151067,3407887.46
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-30,21.9,22.4,21.8,22.38,0.32,1.45,155422,3447921.08
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-29,21.96,22.1,21.9,22.06,0.14,0.64,77895,1713726.88
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-26,22.04,22.1,21.9,21.92,-0.12,-0.54,42948,945262.06
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-25,21.96,22.2,21.88,22.04,0.08,0.36,45858,1008564.66
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-24,22.0,22.06,21.86,21.96,-0.12,-0.54,54519,1195720.64
+Consumer Staples Distribution & Retail,4006,Saudi Marketing Co.,2024-12-23,22.32,22.58,21.8,22.08,-0.42,-1.87,187159,4105959.02
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-31,38.5,38.65,38.35,38.4,-0.1,-0.26,551790,21246036.8
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-30,38.25,38.65,38.2,38.5,0.3,0.79,468466,17999422.4
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-29,38.45,38.6,38.1,38.2,-0.25,-0.65,332612,12730293.65
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-26,38.05,38.8,38.0,38.45,0.4,1.05,504837,19371599.65
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-25,38.35,38.4,37.9,38.05,-0.3,-0.78,389896,14859246.1
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-24,38.75,38.8,38.15,38.35,-0.35,-0.9,654472,25201985.6
+Health Care Equipment & Svc,4007,Al Hammadi Holding,2024-12-23,38.4,38.75,37.9,38.7,0.3,0.78,1109443,42422416.2
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-31,31.7,32.0,31.45,31.65,0.0,0.0,70126,2230517.5
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-30,31.05,31.8,31.05,31.65,0.45,1.44,97706,3075493.5
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-29,31.55,31.6,31.05,31.2,-0.35,-1.11,34011,1064995.9
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-26,32.0,32.2,31.5,31.55,-0.45,-1.41,53311,1686930.15
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-25,31.15,32.0,30.95,32.0,0.85,2.73,96550,3030600.6
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-24,30.55,33.5,30.4,31.15,0.35,1.14,288212,9051439.3
+Consumer Discretionary Distribution & Retail,4008,Saudi Company for Hardware,2024-12-23,31.35,31.4,29.95,30.8,-0.65,-2.07,339159,10278338.05
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-31,69.5,69.5,68.5,68.7,-0.2,-0.29,160519,11034281.1
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-30,68.6,70.4,67.9,68.9,0.4,0.58,336360,23228099.7
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-29,68.0,68.5,67.9,68.5,0.4,0.59,171107,11658621.8
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-26,69.0,69.6,68.1,68.1,-0.9,-1.3,151043,10355309.7
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-25,69.3,69.4,68.5,69.0,-0.3,-0.43,118956,8195126.4
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-24,69.7,70.1,68.8,69.3,-0.6,-0.86,153572,10637972.1
+Health Care Equipment & Svc,4009,Middle East Healthcare Co.,2024-12-23,70.0,70.6,69.0,69.9,-0.2,-0.29,240818,16770934.8
+Consumer Services,4010,Dur Hospitality Co.,2023-12-04,0.0,0.0,0.0,27.0,0.0,0.0,0,0.0
+Consumer Services,4010,Dur Hospitality Co.,2023-12-03,0.0,0.0,0.0,27.0,0.0,0.0,0,0.0
+Consumer Services,4010,Dur Hospitality Co.,2023-11-30,27.1,27.1,26.4,27.0,0.2,0.75,162456,4338476.3
+Consumer Services,4010,Dur Hospitality Co.,2023-11-29,27.3,27.3,26.75,26.8,-0.15,-0.56,59990,1620871.95
+Consumer Services,4010,Dur Hospitality Co.,2023-11-28,27.05,27.1,26.8,26.95,0.0,0.0,47654,1285057.8
+Consumer Services,4010,Dur Hospitality Co.,2023-11-27,26.55,27.15,26.55,26.95,0.45,1.7,126104,3387913.9
+Consumer Services,4010,Dur Hospitality Co.,2023-11-26,27.2,27.2,26.5,26.5,-0.45,-1.67,299386,8049284.5
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-31,13.48,13.78,13.44,13.76,0.26,1.93,235042,3201122.0
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-30,13.34,13.5,13.24,13.5,0.16,1.2,138653,1851003.88
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-29,13.54,13.64,13.32,13.34,-0.2,-1.48,170235,2282819.42
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-26,13.6,13.66,13.5,13.54,-0.06,-0.44,30802,418814.5
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-25,13.46,13.64,13.46,13.6,-0.06,-0.44,81538,1106976.24
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-24,13.6,13.7,13.44,13.66,0.06,0.44,113637,1544251.22
+Consumer Durables & Apparel,4011,Lazurde Company for Jewelry,2024-12-23,13.6,13.6,13.4,13.6,0.0,0.0,78250,1056938.54
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-31,4.23,4.25,4.19,4.25,0.02,0.47,740489,3133003.76
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-30,4.12,4.25,4.12,4.23,0.1,2.42,710081,2983164.26
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-29,4.12,4.17,4.12,4.13,-0.01,-0.24,485431,2008963.6
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-26,4.18,4.2,4.14,4.14,-0.01,-0.24,289477,1205176.61
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-25,4.15,4.2,4.14,4.15,0.0,0.0,427600,1785531.18
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-24,4.18,4.2,4.14,4.15,-0.01,-0.24,361403,1505637.28
+Consumer Durables & Apparel,4012,Thob Al Aseel Co.,2024-12-23,4.15,4.18,4.13,4.16,-0.02,-0.48,488965,2029603.73
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-31,289.0,289.0,280.4,280.4,-4.6,-1.61,260013,73305109.4
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-30,282.0,288.6,282.0,285.0,2.8,0.99,104671,29819866.8
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-29,282.2,287.2,282.2,282.2,-2.2,-0.77,44087,12525456.6
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-26,284.8,287.0,282.2,284.4,-0.4,-0.14,72489,20673499.0
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-25,283.2,285.0,281.4,284.8,2.6,0.92,31230,8847180.4
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-24,286.0,287.0,281.2,282.2,-3.8,-1.33,153658,43463772.8
+Health Care Equipment & Svc,4013,Dr. Sulaiman Al Habib Medical Services Group,2024-12-23,286.6,288.0,282.4,286.0,-0.6,-0.21,139143,39692277.2
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-31,50.1,50.9,49.9,50.5,0.6,1.2,77211,3891055.25
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-30,49.6,49.95,49.15,49.9,0.3,0.6,73157,3625927.8
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-29,49.2,49.6,49.15,49.6,0.4,0.81,56855,2806621.35
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-26,49.1,49.4,49.0,49.2,0.1,0.2,21779,1070763.7
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-25,49.05,49.35,48.85,49.1,-0.25,-0.51,61649,3022373.7
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-24,49.0,49.55,49.0,49.35,0.3,0.61,76535,3762367.75
+Health Care Equipment & Svc,4014,Scientific and Medical Equipment House Co.,2024-12-23,49.65,49.65,48.65,49.05,-0.6,-1.21,150994,7405015.75
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-31,155.4,155.6,151.8,152.2,-3.2,-2.06,117841,18033097.0
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-30,155.6,157.6,153.8,155.4,-0.6,-0.38,106022,16519825.6
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-29,156.0,158.0,156.0,156.0,0.0,0.0,19337,3034574.4
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-26,157.4,157.4,156.0,156.0,-1.4,-0.89,14091,2207706.6
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-25,153.6,157.8,153.6,157.4,3.0,1.94,21110,3279141.6
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-24,157.6,158.0,153.8,154.4,-3.2,-2.03,30565,4728374.0
+Pharma &  Biotech & Life Science,4015,Jamjoom Pharmaceuticals Factory Co.,2024-12-23,157.0,158.6,153.2,157.6,0.6,0.38,34889,5429370.8
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-31,121.0,122.6,121.0,121.8,0.4,0.33,47106,5737836.4
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-30,119.4,121.8,119.0,121.4,2.2,1.85,54479,6579945.2
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-29,118.6,120.0,118.2,119.2,0.6,0.51,63263,7531343.6
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-26,119.8,119.8,118.2,118.6,-0.2,-0.17,14955,1775849.2
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-25,117.6,119.8,116.8,118.8,1.2,1.02,24671,2914087.6
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-24,118.0,118.0,117.0,117.6,-0.4,-0.34,11308,1327464.4
+Pharma &  Biotech & Life Science,4016,Middle East Pharmaceutical Industries Co.,2024-12-23,117.0,118.2,116.0,118.0,1.0,0.85,32578,3809995.2
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-31,67.4,68.0,66.6,67.0,-0.4,-0.59,339400,22840966.1
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-30,65.4,67.6,65.1,67.4,1.1,1.66,509658,33856778.0
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-29,67.4,67.7,66.0,66.3,-1.1,-1.63,235206,15676746.2
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-26,68.3,68.5,67.1,67.4,-0.9,-1.32,207003,14030124.8
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-25,67.9,68.6,67.8,68.3,0.1,0.15,303854,20741105.8
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-24,67.8,68.8,67.7,68.2,0.4,0.59,277154,18962225.8
+Health Care Equipment & Svc,4017,Dr. Soliman Abdel Kader Fakeeh Hospital Co.,2024-12-23,68.0,69.2,67.1,67.8,-0.6,-0.88,419382,28605474.9
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-31,24.84,25.3,24.78,25.3,0.46,1.85,3635652,90904925.68
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-30,25.05,25.55,24.38,24.84,-0.08,-0.32,1607806,40115887.09
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-29,25.1,25.35,24.82,24.92,0.12,0.48,827941,20693993.09
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-26,24.66,24.94,24.62,24.8,0.1,0.4,173725,4297469.32
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-25,24.8,24.86,24.6,24.7,-0.1,-0.4,189846,4686026.42
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-24,24.82,24.94,24.6,24.8,0.0,0.0,204105,5057018.42
+Real Estate Mgmt & Dev't,4020,Saudi Real Estate Co.,2024-12-23,24.68,24.94,24.36,24.8,0.12,0.49,333074,8222934.64
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-31,26.1,26.25,25.95,26.15,0.0,0.0,270281,7073128.8
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-30,26.0,26.25,25.95,26.15,0.1,0.38,574364,15008846.35
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-29,25.85,26.25,25.85,26.05,0.05,0.19,149279,3899595.05
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-26,26.05,26.1,26.0,26.0,-0.05,-0.19,457357,11917162.3
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-25,26.2,26.5,26.05,26.05,-0.15,-0.57,260301,6791333.85
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-24,26.5,26.55,26.15,26.2,-0.3,-1.13,94262,2474594.65
+Energy,4030,National Shipping Company of Saudi Arabia,2024-12-23,26.45,26.5,26.2,26.5,0.3,1.15,140651,3698191.5
+Transportation,4031,Saudi Ground Services Co.,2024-12-31,50.5,51.4,50.5,51.1,0.5,0.99,298604,15231776.3
+Transportation,4031,Saudi Ground Services Co.,2024-12-30,49.9,51.3,49.8,50.6,0.75,1.5,438116,22172338.5
+Transportation,4031,Saudi Ground Services Co.,2024-12-29,49.3,50.1,49.3,49.85,0.55,1.12,115770,5764240.45
+Transportation,4031,Saudi Ground Services Co.,2024-12-26,49.3,49.45,49.15,49.3,0.05,0.1,122988,6060812.05
+Transportation,4031,Saudi Ground Services Co.,2024-12-25,49.5,49.85,49.15,49.25,-0.4,-0.81,139142,6865324.7
+Transportation,4031,Saudi Ground Services Co.,2024-12-24,49.75,50.2,49.3,49.65,-0.35,-0.7,160583,7998101.7
+Transportation,4031,Saudi Ground Services Co.,2024-12-23,49.95,50.4,49.25,50.0,0.0,0.0,216882,10794535.5
+Transportation,4040,Saudi Public Transport Co.,2024-12-31,20.62,20.82,20.38,20.44,-0.2,-0.97,307240,6346083.46
+Transportation,4040,Saudi Public Transport Co.,2024-12-30,20.38,20.72,20.36,20.64,0.22,1.08,438176,9007804.72
+Transportation,4040,Saudi Public Transport Co.,2024-12-29,20.42,20.52,20.34,20.42,0.0,0.0,221147,4518827.82
+Transportation,4040,Saudi Public Transport Co.,2024-12-26,20.56,20.56,20.32,20.42,-0.08,-0.39,141716,2892479.72
+Transportation,4040,Saudi Public Transport Co.,2024-12-25,20.4,20.56,20.16,20.5,0.3,1.49,318260,6499881.98
+Transportation,4040,Saudi Public Transport Co.,2024-12-24,20.6,20.62,20.2,20.2,-0.4,-1.94,388002,7900858.12
+Transportation,4040,Saudi Public Transport Co.,2024-12-23,20.28,20.64,20.08,20.6,0.24,1.18,600884,12229781.1
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-31,62.0,64.2,61.6,63.5,1.5,2.42,693698,43731516.1
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-30,62.8,62.9,61.2,62.0,-0.8,-1.27,554853,34371219.3
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-29,63.0,63.2,62.4,62.8,-0.2,-0.32,203757,12784478.3
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-26,63.8,63.9,62.8,63.0,-0.8,-1.25,201952,12744154.0
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-25,64.8,65.0,63.1,63.8,-1.0,-1.54,255335,16298530.4
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-24,63.5,64.9,62.6,64.8,1.4,2.21,752564,47903461.7
+Consumer Discretionary Distribution & Retail,4050,Saudi Automotive Services Co.,2024-12-23,63.7,64.2,62.5,63.4,-0.6,-0.94,510199,32235968.1
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-31,6.39,6.51,6.37,6.45,0.06,0.94,286915,1849761.1
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-30,6.24,6.4,6.2,6.39,0.14,2.24,576676,3634991.61
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-29,6.34,6.39,6.2,6.25,-0.09,-1.42,929779,5831113.71
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-26,6.37,6.38,6.33,6.34,-0.02,-0.31,87287,554330.58
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-25,6.38,6.38,6.32,6.36,0.0,0.0,152967,970865.41
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-24,6.35,6.38,6.32,6.36,-0.01,-0.16,291561,1850019.64
+Consumer Discretionary Distribution & Retail,4051,Baazeem Trading Co.,2024-12-23,6.38,6.39,6.3,6.37,-0.03,-0.47,381829,2423141.61
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-31,1.31,1.34,1.3,1.32,0.01,0.76,22533217,29774656.55
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-30,1.28,1.31,1.27,1.31,0.04,3.15,12268213,15822021.45
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-29,1.3,1.31,1.26,1.27,-0.03,-2.31,11130650,14227674.34
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-26,1.33,1.34,1.29,1.3,-0.02,-1.52,15511976,20238479.45
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-25,1.29,1.35,1.27,1.32,0.04,3.13,38668416,51030147.39
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-24,1.27,1.3,1.25,1.28,0.02,1.59,33231445,42390566.24
+Consumer Staples Distribution & Retail,4061,Anaam International Holding Group,2024-12-23,1.26,1.26,1.24,1.26,0.0,0.0,12003796,15008654.6
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-31,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-30,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-29,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-26,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-25,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-24,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4070,Tihama Advertising and Public Relations Co.,2024-12-23,0.0,0.0,0.0,15.34,0.0,0.0,0,0.0
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-31,147.4,147.4,144.2,145.2,-0.8,-0.55,146142,21258008.2
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-30,148.6,148.6,145.0,146.0,-1.2,-0.82,149026,21825181.8
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-29,147.8,148.4,146.6,147.2,0.2,0.14,81431,11998608.6
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-26,149.0,151.0,147.0,147.0,1.0,0.68,274096,40878437.0
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-25,150.0,150.0,145.6,146.0,-1.0,-0.68,81149,11908827.8
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-24,144.0,151.0,144.0,147.0,3.0,2.08,236725,34940742.8
+Media and Entertainment,4071,Arabian Contracting Services Co.,2024-12-23,146.36,146.73,142.91,144.0,-2.0,-1.37,161214,23218487.2
+Media and Entertainment,4072,MBC Group Co.,2024-12-31,52.3,53.1,51.8,52.3,0.0,0.0,477249,25021724.4
+Media and Entertainment,4072,MBC Group Co.,2024-12-30,52.5,53.1,51.8,52.3,-0.7,-1.32,389427,20350313.1
+Media and Entertainment,4072,MBC Group Co.,2024-12-29,52.2,54.3,52.2,53.0,0.5,0.95,391207,20903449.9
+Media and Entertainment,4072,MBC Group Co.,2024-12-26,52.9,52.9,51.1,52.5,0.0,0.0,564593,29416983.9
+Media and Entertainment,4072,MBC Group Co.,2024-12-25,54.3,54.7,52.3,52.5,-1.8,-3.31,369908,19735041.2
+Media and Entertainment,4072,MBC Group Co.,2024-12-24,55.0,56.0,53.8,54.3,-0.6,-1.09,604461,33198749.3
+Media and Entertainment,4072,MBC Group Co.,2024-12-23,56.7,57.1,54.7,54.9,-1.8,-3.17,499969,27712767.0
+Food & Beverages,4080,Sinad Holding Co.,2024-12-31,13.7,13.8,13.54,13.7,0.04,0.29,155711,2136849.52
+Food & Beverages,4080,Sinad Holding Co.,2024-12-30,13.44,13.68,13.3,13.66,0.2,1.49,279684,3784143.22
+Food & Beverages,4080,Sinad Holding Co.,2024-12-29,13.34,13.5,13.26,13.46,0.16,1.2,56131,750278.18
+Food & Beverages,4080,Sinad Holding Co.,2024-12-26,13.3,13.44,13.06,13.3,0.0,0.0,228444,3021555.0
+Food & Beverages,4080,Sinad Holding Co.,2024-12-25,13.16,13.32,13.16,13.3,0.14,1.06,98212,1301679.64
+Food & Beverages,4080,Sinad Holding Co.,2024-12-24,13.44,13.44,13.14,13.16,-0.28,-2.08,122192,1623084.54
+Food & Beverages,4080,Sinad Holding Co.,2024-12-23,13.6,13.66,13.32,13.44,-0.1,-0.74,109777,1471124.4
+Financial Services,4081,Nayifat Finance Co.,2024-12-31,15.42,15.58,15.32,15.46,0.06,0.39,651831,10072637.32
+Financial Services,4081,Nayifat Finance Co.,2024-12-30,15.54,15.68,15.26,15.4,-0.1,-0.65,863140,13348930.24
+Financial Services,4081,Nayifat Finance Co.,2024-12-29,15.16,15.54,15.12,15.5,0.38,2.51,460753,7068461.22
+Financial Services,4081,Nayifat Finance Co.,2024-12-26,15.2,15.22,15.06,15.12,-0.08,-0.53,178415,2699356.84
+Financial Services,4081,Nayifat Finance Co.,2024-12-25,14.96,15.2,14.96,15.2,0.22,1.47,264043,3987983.64
+Financial Services,4081,Nayifat Finance Co.,2024-12-24,15.1,15.14,14.94,14.98,-0.14,-0.93,294010,4421453.08
+Financial Services,4081,Nayifat Finance Co.,2024-12-23,15.1,15.36,15.0,15.12,0.04,0.27,840452,12755470.5
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-31,11.48,11.62,11.42,11.46,-0.02,-0.17,858004,9912064.18
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-30,11.4,11.5,11.38,11.48,0.08,0.7,174489,1993566.98
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-29,11.44,11.48,11.32,11.4,-0.08,-0.7,109132,1246178.2
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-26,11.44,11.54,11.4,11.48,0.04,0.35,48165,553624.92
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-25,11.5,11.52,11.36,11.44,0.0,0.0,221826,2549300.42
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-24,11.34,11.48,11.34,11.44,0.04,0.35,135542,1547648.74
+Financial Services,4082,Morabaha Marina Financing Co.,2024-12-23,11.5,11.54,11.34,11.4,0.0,0.0,865302,9945972.8
+Financial Services,4083,United International Holding Co.,2024-12-31,178.0,183.4,176.8,180.0,2.6,1.47,219698,39784833.2
+Financial Services,4083,United International Holding Co.,2024-12-30,175.0,180.6,174.8,177.4,2.2,1.26,218030,38843344.2
+Financial Services,4083,United International Holding Co.,2024-12-29,175.0,178.0,174.8,175.2,0.2,0.11,187753,33016186.4
+Financial Services,4083,United International Holding Co.,2024-12-26,169.4,177.4,168.8,175.0,6.6,3.92,349002,60835044.6
+Financial Services,4083,United International Holding Co.,2024-12-25,164.2,171.4,163.8,168.4,3.4,2.06,102841,17286306.2
+Financial Services,4083,United International Holding Co.,2024-12-24,167.0,167.4,164.2,165.0,-1.0,-0.6,56443,9348637.8
+Financial Services,4083,United International Holding Co.,2024-12-23,167.0,170.2,164.2,166.0,-1.0,-0.6,192622,32289467.6
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-31,40.35,41.55,40.0,41.1,0.5,1.23,91588,3726398.85
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-30,39.9,41.1,39.9,40.6,0.45,1.12,97519,3964043.45
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-29,40.1,40.35,39.9,40.15,0.05,0.12,30702,1228076.2
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-26,40.3,40.3,39.75,40.1,0.0,0.0,68315,2737695.35
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-25,39.0,40.25,39.0,40.1,1.1,2.82,303313,12118988.4
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-24,38.6,39.25,38.6,39.0,0.25,0.65,93241,3630376.4
+Real Estate Mgmt & Dev't,4090,Taiba Investments Co.,2024-12-23,39.1,39.4,38.05,38.75,-0.3,-0.77,134161,5217669.0
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-31,118.6,119.2,117.2,118.0,-1.2,-1.01,85712,10123646.2
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-30,118.0,119.4,116.2,119.2,2.2,1.88,51082,6053530.8
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-29,113.4,118.0,113.4,117.0,3.0,2.63,60486,7037909.0
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-26,114.2,114.6,113.2,114.0,-0.2,-0.18,23915,2731503.6
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-25,114.6,115.0,113.0,114.2,0.0,0.0,21759,2483226.6
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-24,113.2,115.0,112.8,114.2,0.0,0.0,33624,3840574.2
+Real Estate Mgmt & Dev't,4100,Makkah Construction and Development Co.,2024-12-23,111.0,114.6,109.6,114.2,3.6,3.25,71452,8033159.6
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-31,3.66,3.72,3.63,3.66,0.02,0.55,4190813,15419815.9
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-30,3.59,3.67,3.58,3.64,0.05,1.39,3003141,10882947.77
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-29,3.58,3.63,3.57,3.59,0.01,0.28,1116837,4012531.24
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-26,3.64,3.64,3.57,3.58,-0.06,-1.65,1411302,5071632.08
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-25,3.51,3.67,3.5,3.64,0.12,3.41,5714191,20714125.11
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-24,3.54,3.56,3.49,3.52,-0.02,-0.56,1601886,5631779.67
+Capital Goods,4110,Batic Investments and Logistics Co.,2024-12-23,3.55,3.61,3.49,3.54,-0.03,-0.84,2766476,9824410.57
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-31,0.48,0.49,0.47,0.47,-0.02,-4.08,101938313,48847341.32
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-30,0.48,0.5,0.47,0.49,0.01,2.08,187341673,90752172.26
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-29,0.5,0.5,0.48,0.48,-0.02,-4.0,193824789,94867057.08
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-26,0.53,0.53,0.5,0.5,-0.02,-3.85,343809507,176783053.3
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-25,0.5,0.52,0.49,0.52,0.04,8.33,782960807,402070552.6
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-24,0.48,0.48,0.45,0.48,0.04,9.09,572978489,271245342.7
+Financial Services,4130,Al-Baha Investment and Development Co.,2024-12-23,0.0,0.0,0.0,0.44,0.0,0.0,0,0.0
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-31,2.44,2.5,2.44,2.45,0.04,1.66,5098659,12576463.93
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-30,2.4,2.45,2.38,2.41,0.02,0.84,2283858,5505140.0
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-29,2.41,2.42,2.38,2.39,-0.01,-0.42,1958176,4693304.63
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-26,2.43,2.44,2.39,2.4,-0.02,-0.83,1485269,3585141.3
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-25,2.4,2.44,2.39,2.42,0.02,0.83,1924809,4652241.58
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-24,2.42,2.44,2.39,2.4,-0.01,-0.41,1691189,4078299.1
+Capital Goods,4140,Saudi Industrial Export Co.,2024-12-23,2.4,2.42,2.38,2.41,0.02,0.84,1231846,2957640.12
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-31,38.5,39.45,38.3,38.85,0.65,1.7,275590,10722684.6
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-30,37.05,38.2,36.85,38.2,1.2,3.24,107842,4071862.35
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-29,37.4,37.4,36.8,37.0,0.0,0.0,18577,686439.4
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-26,37.5,37.65,36.95,37.0,-0.45,-1.2,22235,824787.7
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-25,36.7,37.5,36.7,37.45,0.5,1.35,33596,1246515.15
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-24,37.3,37.3,36.9,36.95,-0.45,-1.2,42369,1571390.8
+Capital Goods,4141,Al-Omran Industrial Trading Co.,2024-12-23,37.45,37.45,36.7,37.4,0.1,0.27,43551,1612438.15
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-31,134.8,139.8,132.4,137.8,3.8,2.84,423988,57661430.4
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-30,132.6,134.4,131.2,134.0,1.4,1.06,331971,44189549.2
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-29,136.0,137.8,132.2,132.6,-2.6,-1.92,164696,22019172.0
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-26,139.0,139.0,134.0,135.2,-2.8,-2.03,140110,19031127.0
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-25,138.8,140.4,136.8,138.0,0.0,0.0,191208,26496737.2
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-24,140.4,141.0,137.8,138.0,-2.4,-1.71,169005,23514153.4
+Capital Goods,4142,Riyadh Cables Group Co.,2024-12-23,137.0,142.2,136.6,140.4,3.6,2.63,384810,54011246.2
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-31,54.4,56.3,54.2,55.4,1.0,1.84,548714,30489023.5
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-30,54.0,54.8,53.4,54.4,0.4,0.74,249874,13510465.6
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-29,55.4,56.1,54.0,54.0,-1.1,-2.0,419686,23131956.9
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-26,54.4,56.6,54.2,55.1,0.6,1.1,873287,48675106.8
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-25,53.8,54.7,53.8,54.5,0.7,1.3,171761,9344894.8
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-24,53.6,54.4,53.1,53.8,0.2,0.37,238643,12848428.1
+Capital Goods,4143,Al Taiseer Group Talco Industrial Co.,2024-12-23,53.2,54.2,52.3,53.6,0.0,0.0,253745,13499250.3
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-31,33.55,35.75,33.2,33.6,-0.25,-0.74,1418473,49023415.2
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-30,34.2,34.5,33.45,33.85,-0.7,-2.03,1117715,37890199.75
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-29,31.5,34.75,31.4,34.55,2.95,9.34,2796822,94573494.75
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-26,31.2,31.95,31.15,31.6,0.4,1.28,843826,26749309.65
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-25,30.7,31.25,30.65,31.2,0.55,1.79,322462,10009904.65
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-24,30.15,31.2,30.15,30.65,0.3,0.99,401510,12382784.1
+Real Estate Mgmt & Dev't,4150,Arriyadh Development Co.,2024-12-23,30.1,30.65,29.7,30.35,0.15,0.5,415880,12559941.4
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-31,43.7,44.75,43.7,43.85,0.25,0.57,82721,3657014.8
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-30,44.1,44.1,43.4,43.6,-0.5,-1.13,110554,4831125.9
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-29,44.6,45.5,44.1,44.1,-0.35,-0.79,286270,12848001.45
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-26,43.65,44.6,43.55,44.45,0.85,1.95,253177,11172013.75
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-25,43.05,43.6,42.6,43.6,0.6,1.4,108416,4688927.0
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-24,42.95,43.5,42.6,43.0,0.4,0.94,127528,5500056.3
+Consumer Staples Distribution & Retail,4160,Thimar Development Holding Co.,2024-12-23,42.8,42.85,42.2,42.6,0.45,1.07,50173,2127912.5
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-31,6.38,6.5,6.37,6.47,0.1,1.57,749316,4830273.89
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-30,6.31,6.39,6.28,6.37,0.07,1.11,774166,4910562.46
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-29,6.39,6.43,6.27,6.3,-0.09,-1.41,1137002,7191420.5
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-26,6.42,6.45,6.39,6.39,-0.02,-0.31,603110,3859561.02
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-25,6.4,6.48,6.4,6.41,0.01,0.16,620565,3989551.09
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-24,6.41,6.45,6.4,6.4,-0.01,-0.16,457706,2935276.69
+Consumer Staples Distribution & Retail,4161,BinDawood Holding Co.,2024-12-23,6.57,6.62,6.34,6.41,-0.16,-2.44,2745737,17604025.68
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-31,95.3,96.5,95.3,95.8,0.5,0.52,106186,10188872.1
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-30,96.2,96.9,95.0,95.3,-0.7,-0.73,128443,12339312.9
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-29,95.5,96.5,95.0,96.0,0.5,0.52,122924,11816241.6
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-26,94.1,95.5,94.1,95.5,0.9,0.95,48928,4653939.5
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-25,94.3,95.2,94.0,94.6,0.4,0.42,28854,2729664.6
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-24,94.2,94.8,94.1,94.2,0.1,0.11,43073,4066108.7
+Consumer Staples Distribution & Retail,4162,Almunajem Foods Co.,2024-12-23,95.6,95.6,93.9,94.1,-1.5,-1.57,76078,7182822.7
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-31,78.4,78.8,78.1,78.4,-0.4,-0.51,69339,5443288.1
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-30,78.6,79.3,78.3,78.8,0.2,0.25,34893,2753735.4
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-29,78.3,79.0,78.0,78.6,0.3,0.38,36368,2850043.8
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-26,79.0,79.0,78.2,78.3,-0.5,-0.63,13264,1041513.9
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-25,79.8,79.8,78.6,78.8,-0.5,-0.63,15254,1205072.1
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-24,78.0,80.1,77.4,79.3,1.7,2.19,102126,8073867.6
+Consumer Staples Distribution & Retail,4163,Aldawaa Medical Services Co.,2024-12-23,78.2,78.2,77.1,77.6,-0.6,-0.77,50668,3934771.3
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-31,117.0,118.2,116.8,117.6,0.8,0.68,102264,12001103.6
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-30,117.6,117.6,116.6,116.8,-0.4,-0.34,57928,6775797.0
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-29,117.0,118.2,116.6,117.2,0.4,0.34,96464,11314942.4
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-26,116.8,117.2,116.4,116.8,0.0,0.0,62461,7290688.0
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-25,116.8,117.2,116.6,116.8,0.2,0.17,45281,5295573.8
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-24,117.6,117.6,116.6,116.6,-1.0,-0.85,79294,9272535.8
+Consumer Staples Distribution & Retail,4164,Nahdi Medical Co.,2024-12-23,117.0,117.6,115.6,117.6,1.6,1.38,150893,17614185.4
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-31,145.6,147.6,145.0,146.0,0.6,0.41,65574,9576395.0
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-30,147.0,147.6,145.2,145.4,-1.6,-1.09,35989,5255794.4
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-29,144.4,148.4,144.4,147.0,2.2,1.52,88562,12958347.6
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-26,144.2,147.0,143.8,144.8,0.6,0.42,148480,21577405.8
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-25,144.4,146.2,143.4,144.2,-0.2,-0.14,66553,9621111.4
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-24,145.0,145.4,143.4,144.4,-0.6,-0.41,59754,8614663.4
+Household & Personal Products,4165,Al Majed Oud Co.,2024-12-23,146.0,146.6,144.4,145.0,-1.0,-0.68,51747,7511344.6
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-31,0.95,0.97,0.95,0.96,0.0,0.0,17087974,16381060.96
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-30,0.95,0.96,0.94,0.96,0.01,1.05,12788692,12171358.29
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-29,0.96,0.96,0.95,0.95,0.0,0.0,7714241,7336417.96
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-26,0.97,0.97,0.95,0.95,-0.01,-1.04,11197077,10743500.3
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-25,0.95,0.98,0.95,0.96,0.01,1.05,30158107,29040235.62
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-24,0.96,0.97,0.94,0.95,-0.01,-1.04,21944967,20931652.73
+Consumer Services,4170,Tourism Enterprise Co.,2024-12-23,0.96,0.96,0.94,0.96,0.01,1.05,11374845,10806629.55
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-31,4.07,4.21,4.07,4.21,0.14,3.44,5411531,22514282.56
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-30,4.06,4.09,4.01,4.07,0.03,0.74,2372796,9628298.32
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-29,4.06,4.09,4.03,4.04,-0.04,-0.98,1348577,5461568.71
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-26,4.11,4.15,4.05,4.08,-0.02,-0.49,1425351,5831681.92
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-25,4.05,4.1,4.02,4.1,0.05,1.23,1628309,6622212.91
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-24,4.03,4.08,4.02,4.05,0.03,0.75,1896027,7675181.49
+Consumer Durables & Apparel,4180,Fitaihi Holding Group,2024-12-23,4.05,4.06,3.96,4.02,-0.03,-0.74,4874992,19578737.57
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-31,12.68,12.74,12.66,12.66,0.0,0.0,1086113,13786373.6
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-30,12.62,12.66,12.6,12.66,0.02,0.16,1584083,20016623.88
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-29,12.7,12.72,12.62,12.64,-0.06,-0.47,1444354,18262057.38
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-26,12.68,12.7,12.66,12.7,0.02,0.16,615290,7804423.46
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-25,12.66,12.7,12.64,12.68,0.02,0.16,518930,6580462.38
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-24,12.6,12.66,12.54,12.66,0.08,0.64,1308520,16479121.32
+Consumer Discretionary Distribution & Retail,4190,Jarir Marketing Co.,2024-12-23,12.72,12.72,12.54,12.58,-0.1,-0.79,2778826,35053760.74
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-31,30.95,31.0,30.5,31.0,0.35,1.14,106351,3273824.0
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-30,30.5,31.0,30.1,30.65,0.2,0.66,73605,2254133.3
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-29,30.4,30.5,30.05,30.45,0.05,0.16,47514,1440743.9
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-26,30.0,30.4,29.7,30.4,0.4,1.33,80636,2423652.7
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-25,30.7,31.05,29.95,30.0,-0.7,-2.28,167225,5081088.0
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-24,31.15,31.15,30.5,30.7,-0.4,-1.29,54382,1666579.65
+Consumer Discretionary Distribution & Retail,4191,Abdullah Saad Mohammed Abo Moati for Bookstores Co.,2024-12-23,30.8,31.15,30.4,31.1,0.3,0.97,62258,1910884.75
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-31,8.0,8.04,7.92,8.02,0.02,0.25,723284,5787798.03
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-30,7.87,8.05,7.84,8.0,0.19,2.43,1597453,12695036.0
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-29,7.8,7.81,7.76,7.81,0.0,0.0,235607,1835115.65
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-26,7.79,7.81,7.75,7.81,0.02,0.26,169284,1315461.49
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-25,7.8,7.82,7.78,7.79,0.0,0.0,275864,2151141.49
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-24,7.82,7.82,7.75,7.79,-0.04,-0.51,195953,1525381.7
+Consumer Discretionary Distribution & Retail,4192,AlSaif Stores for Development and Investment Co.,2024-12-23,7.79,7.85,7.73,7.83,0.05,0.64,506080,3943232.51
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-31,119.0,120.6,117.6,120.2,2.2,1.86,349565,41904015.0
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-30,117.8,119.8,116.2,118.0,0.2,0.17,322417,38203818.0
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-29,118.8,119.4,117.8,117.8,-1.0,-0.84,199858,23649360.4
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-26,120.6,121.0,118.4,118.8,-1.8,-1.49,187796,22396939.4
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-25,120.2,121.2,119.8,120.6,0.4,0.33,57266,6899532.6
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-24,122.2,122.2,120.0,120.2,0.0,0.0,356072,42872623.4
+Energy,4200,Aldrees Petroleum and Transport Services Co.,2024-12-23,123.2,123.8,120.2,120.2,-4.8,-3.84,317462,38672944.6
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-31,268.0,281.0,266.4,275.0,7.6,2.84,41442,11389933.2
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-30,266.2,269.2,261.8,267.4,1.2,0.45,30780,8192164.4
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-29,268.2,271.0,264.8,266.2,-2.8,-1.04,16940,4525729.4
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-26,279.0,281.8,268.2,269.0,-10.8,-3.86,23167,6329327.4
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-25,282.2,284.2,279.0,279.8,-5.0,-1.76,17046,4789913.2
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-24,285.0,287.4,282.4,284.8,-0.2,-0.07,25962,7396719.2
+Media and Entertainment,4210,Saudi Research and Media Group,2024-12-23,285.2,289.0,278.4,285.0,-0.4,-0.14,42268,11990739.6
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-31,8.42,8.82,8.37,8.75,0.35,4.17,3443410,29845177.85
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-30,8.41,8.47,8.3,8.4,-0.07,-0.83,1838064,15422894.21
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-29,8.5,8.54,8.38,8.47,0.03,0.36,661511,5603180.06
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-26,8.63,8.65,8.36,8.44,-0.12,-1.4,567892,4790318.69
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-25,8.69,8.69,8.48,8.56,-0.11,-1.27,7853836,67142941.99
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-24,8.49,8.74,8.43,8.67,0.16,1.88,1042371,9002801.12
+Real Estate Mgmt & Dev't,4220,Emaar The Economic City,2024-12-23,8.6,8.63,8.37,8.51,-0.09,-1.05,679125,5771208.11
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-31,59.5,61.9,59.0,61.5,2.7,4.59,1100724,66909918.7
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-30,57.8,59.3,57.1,58.8,1.0,1.73,433339,25198730.4
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-29,58.5,60.1,57.5,57.8,-0.6,-1.03,458907,26913934.4
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-26,61.0,61.4,58.3,58.4,-2.2,-3.63,451300,26938108.6
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-25,58.4,61.1,58.4,60.6,3.6,6.32,1108915,66523095.7
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-24,56.3,58.2,55.4,57.0,0.9,1.6,817062,46638873.2
+Real Estate Mgmt & Dev't,4230,Red Sea International Co.,2024-12-23,54.0,58.5,53.3,56.1,2.1,3.89,2153034,121353973.1
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-31,12.9,13.76,12.9,13.22,0.38,2.96,5001583,67012317.72
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-30,12.16,12.9,12.0,12.84,0.62,5.07,2389263,29878451.42
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-29,11.96,12.38,11.9,12.22,0.26,2.17,953094,11612820.98
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-26,12.0,12.08,11.88,11.96,-0.02,-0.17,284744,3416064.64
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-25,11.9,12.0,11.8,11.98,0.04,0.34,272198,3239352.1
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-24,11.98,12.08,11.82,11.94,-0.04,-0.33,322084,3838098.3
+Consumer Discretionary Distribution & Retail,4240,Fawaz Abdulaziz Alhokair Co.,2024-12-23,12.04,12.04,11.78,11.98,-0.06,-0.5,1129105,13439535.42
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-31,20.58,20.72,20.5,20.56,0.0,0.0,1076937,22186303.64
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-30,20.36,20.7,20.3,20.56,0.26,1.28,689868,14137670.18
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-29,20.36,20.4,20.16,20.3,-0.06,-0.29,966492,19591425.36
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-26,20.56,20.56,20.34,20.36,-0.02,-0.1,403312,8224435.26
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-25,20.48,20.56,20.34,20.38,-0.1,-0.49,961697,19621524.86
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-24,20.52,20.64,20.4,20.48,-0.14,-0.68,762918,15659221.88
+Real Estate Mgmt & Dev't,4250,Jabal Omar Development Co.,2024-12-23,20.52,20.62,20.24,20.62,-0.02,-0.1,1004497,20529359.0
+Transportation,4260,United International Transportation Co.,2024-12-31,79.5,83.3,79.2,81.9,2.5,3.15,369552,30229247.0
+Transportation,4260,United International Transportation Co.,2024-12-30,76.6,79.4,76.6,79.4,2.4,3.12,156991,12304260.5
+Transportation,4260,United International Transportation Co.,2024-12-29,77.4,77.8,76.3,77.0,0.7,0.92,79707,6150235.5
+Transportation,4260,United International Transportation Co.,2024-12-26,77.4,77.5,75.6,76.3,0.0,0.0,140842,10810552.4
+Transportation,4260,United International Transportation Co.,2024-12-25,74.9,77.6,74.9,76.3,1.3,1.73,89927,6878106.1
+Transportation,4260,United International Transportation Co.,2024-12-24,76.0,76.0,74.8,75.0,-0.9,-1.19,94126,7079730.6
+Transportation,4260,United International Transportation Co.,2024-12-23,75.0,76.0,73.7,75.9,0.9,1.2,160296,12078829.8
+Transportation,4261,Theeb Rent a Car Co.,2024-12-31,76.8,77.9,76.5,76.6,-0.2,-0.26,58013,4483144.1
+Transportation,4261,Theeb Rent a Car Co.,2024-12-30,76.0,77.0,74.6,76.8,0.9,1.19,84366,6413519.4
+Transportation,4261,Theeb Rent a Car Co.,2024-12-29,73.3,76.0,73.3,75.9,2.6,3.55,67819,5105714.5
+Transportation,4261,Theeb Rent a Car Co.,2024-12-26,71.0,74.3,71.0,73.3,2.3,3.24,136043,9915449.2
+Transportation,4261,Theeb Rent a Car Co.,2024-12-25,72.0,72.0,70.8,71.0,-1.1,-1.53,94725,6746730.2
+Transportation,4261,Theeb Rent a Car Co.,2024-12-24,73.8,74.2,71.7,72.1,-1.8,-2.44,64159,4660773.5
+Transportation,4261,Theeb Rent a Car Co.,2024-12-23,74.5,75.0,73.1,73.9,-0.6,-0.81,93894,6928037.8
+Transportation,4262,Lumi Rental Co.,2024-12-31,70.1,71.4,69.7,71.2,1.2,1.71,202654,14322113.4
+Transportation,4262,Lumi Rental Co.,2024-12-30,70.5,70.8,69.5,70.0,-0.8,-1.13,361405,25272094.7
+Transportation,4262,Lumi Rental Co.,2024-12-29,70.6,71.0,70.3,70.8,0.2,0.28,130213,9198360.1
+Transportation,4262,Lumi Rental Co.,2024-12-26,70.7,71.0,70.3,70.6,-0.2,-0.28,88464,6246106.7
+Transportation,4262,Lumi Rental Co.,2024-12-25,70.5,70.9,70.2,70.8,0.1,0.14,94759,6687767.9
+Transportation,4262,Lumi Rental Co.,2024-12-24,71.3,71.3,70.4,70.7,-0.3,-0.42,188386,13358365.6
+Transportation,4262,Lumi Rental Co.,2024-12-23,71.5,71.5,70.0,71.0,-0.5,-0.7,115460,8160844.9
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-31,254.6,256.2,252.6,252.6,-2.0,-0.79,141855,36067465.0
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-30,252.6,257.6,252.6,254.6,2.0,0.79,170959,43641659.2
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-29,251.0,253.8,251.0,252.6,2.4,0.96,118507,29882400.4
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-26,252.8,253.0,250.2,250.2,-2.6,-1.03,70102,17631832.4
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-25,253.0,253.6,251.8,252.8,0.0,0.0,46947,11873077.4
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-24,253.0,255.2,252.0,252.8,-1.2,-0.47,108240,27431052.2
+Transportation,4263,SAL Saudi Logistics Services Co.,2024-12-23,253.4,254.0,247.0,254.0,0.6,0.24,270961,67533870.2
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-31,12.2,12.4,12.2,12.24,0.04,0.33,100996,1244466.7
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-30,12.08,12.32,12.08,12.2,0.12,0.99,116382,1419173.4
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-29,12.02,12.22,12.02,12.08,-0.02,-0.17,68746,830200.14
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-26,12.22,12.22,12.08,12.1,-0.02,-0.17,44955,546106.0
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-25,12.1,12.3,12.08,12.12,0.02,0.17,52114,633596.28
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-24,12.16,12.3,12.08,12.1,-0.06,-0.49,45046,546729.16
+Commercial & Professional Svc,4270,Saudi Printing and Packaging Co.,2024-12-23,12.22,12.38,12.1,12.16,-0.04,-0.33,45596,555535.1
+Financial Services,4280,Kingdom Holding Co.,2024-12-31,8.78,8.87,8.69,8.84,0.09,1.03,536652,4697015.78
+Financial Services,4280,Kingdom Holding Co.,2024-12-30,8.85,8.86,8.71,8.75,-0.04,-0.46,453376,3977618.45
+Financial Services,4280,Kingdom Holding Co.,2024-12-29,8.94,9.0,8.76,8.79,-0.15,-1.68,515722,4560038.15
+Financial Services,4280,Kingdom Holding Co.,2024-12-26,9.21,9.22,8.94,8.94,-0.26,-2.83,547348,4937158.21
+Financial Services,4280,Kingdom Holding Co.,2024-12-25,9.35,9.94,9.1,9.2,0.08,0.88,838481,7943346.84
+Financial Services,4280,Kingdom Holding Co.,2024-12-24,9.25,9.3,8.91,9.12,-0.01,-0.11,781567,7086077.7
+Financial Services,4280,Kingdom Holding Co.,2024-12-23,8.8,9.35,8.75,9.13,0.33,3.75,640279,5828197.29
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-31,31.15,32.0,30.95,31.85,0.7,2.25,822978,25957224.45
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-30,32.4,32.5,30.95,31.15,-1.05,-3.26,1143748,35895183.5
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-29,32.6,33.0,32.1,32.2,-0.25,-0.77,405055,13162686.95
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-26,32.15,32.65,32.05,32.45,0.3,0.93,277480,8990263.0
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-25,32.3,32.65,32.15,32.15,-0.15,-0.46,400826,12997418.7
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-24,32.05,32.4,31.85,32.3,0.25,0.78,335616,10782195.35
+Consumer Services,4290,Alkhaleej Training and Education Co.,2024-12-23,31.95,32.3,30.8,32.05,0.15,0.47,577543,18186169.55
+Consumer Services,4291,National Company for Learning and Education,2024-12-31,204.2,206.4,202.2,205.0,0.8,0.39,31498,6434125.0
+Consumer Services,4291,National Company for Learning and Education,2024-12-30,203.0,204.8,200.2,204.2,0.8,0.39,60005,12136557.2
+Consumer Services,4291,National Company for Learning and Education,2024-12-29,205.0,206.0,202.0,203.4,-1.6,-0.78,17098,3473556.4
+Consumer Services,4291,National Company for Learning and Education,2024-12-26,202.8,208.0,202.2,205.0,3.2,1.59,90872,18586142.8
+Consumer Services,4291,National Company for Learning and Education,2024-12-25,205.0,206.4,201.0,201.8,-3.2,-1.56,18387,3717754.0
+Consumer Services,4291,National Company for Learning and Education,2024-12-24,205.8,208.2,200.0,205.0,0.4,0.2,68811,14020733.6
+Consumer Services,4291,National Company for Learning and Education,2024-12-23,214.6,214.6,202.8,204.6,-8.4,-3.94,67402,13869863.4
+Consumer Services,4292,Ataa Educational Co.,2024-12-31,72.0,72.0,71.1,71.6,0.6,0.85,53930,3866479.8
+Consumer Services,4292,Ataa Educational Co.,2024-12-30,72.1,72.5,70.4,71.0,-1.1,-1.53,85726,6102204.0
+Consumer Services,4292,Ataa Educational Co.,2024-12-29,69.0,72.2,68.5,72.1,3.4,4.95,140889,9923184.6
+Consumer Services,4292,Ataa Educational Co.,2024-12-26,69.3,69.3,68.2,68.7,-0.6,-0.87,31487,2159971.0
+Consumer Services,4292,Ataa Educational Co.,2024-12-25,69.7,69.7,68.3,69.3,-0.6,-0.86,37852,2613762.2
+Consumer Services,4292,Ataa Educational Co.,2024-12-24,69.0,70.4,68.8,69.9,1.4,2.04,65377,4570671.4
+Consumer Services,4292,Ataa Educational Co.,2024-12-23,70.3,70.3,68.5,68.5,-1.7,-2.42,47808,3327238.8
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-31,15.0,15.3,14.9,15.1,0.1,0.67,3672797,55437604.3
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-30,14.56,15.12,14.5,15.0,0.4,2.74,4212833,62843767.62
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-29,13.9,14.64,13.84,14.6,0.7,5.04,3022002,42860124.14
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-26,14.0,14.06,13.9,13.9,-0.1,-0.71,1836576,25662775.38
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-25,14.2,14.28,13.9,14.0,-0.2,-1.41,2337037,32909187.94
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-24,14.4,14.42,14.18,14.2,-0.18,-1.25,1745253,24876392.06
+Real Estate Mgmt & Dev't,4300,Dar Alarkan Real Estate Development Co.,2024-12-23,14.12,14.54,14.12,14.38,0.26,1.84,3814889,54730362.94
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-31,14.92,14.98,14.82,14.9,-0.12,-0.8,415132,6181993.22
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-30,14.92,15.08,14.82,15.02,0.1,0.67,754065,11313922.64
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-29,14.6,15.0,14.6,14.92,0.38,2.61,1019861,15140055.42
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-26,14.26,14.58,14.26,14.54,0.14,0.97,457710,6611589.36
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-25,14.32,14.48,14.26,14.4,0.14,0.98,575998,8282861.96
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-24,14.46,14.58,14.26,14.26,-0.2,-1.38,533688,7683591.98
+Real Estate Mgmt & Dev't,4310,Knowledge Economic City,2024-12-23,14.4,14.6,14.26,14.46,0.2,1.4,986966,14262619.96
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-31,23.7,24.2,23.7,24.12,0.12,0.5,24177,580624.3
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-30,23.26,24.18,23.1,24.0,0.56,2.39,142281,3385919.92
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-29,23.2,23.44,23.12,23.44,0.24,1.03,12543,292665.0
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-26,23.3,23.5,23.02,23.2,-0.1,-0.43,16322,377609.02
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-25,23.1,23.48,23.0,23.3,0.02,0.09,17869,416113.84
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-24,23.46,23.48,23.0,23.28,0.1,0.43,10550,244362.9
+Real Estate Mgmt & Dev't,4320,Alandalus Property Co.,2024-12-23,23.34,23.36,22.98,23.18,-0.16,-0.69,17280,398986.34
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-31,21.56,21.96,21.56,21.7,0.2,0.93,671847,14611853.36
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-30,21.42,21.58,21.32,21.5,0.16,0.75,813295,17454477.74
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-29,21.0,21.4,21.0,21.34,0.34,1.62,591928,12539969.24
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-26,21.22,21.34,20.96,21.0,-0.2,-0.94,527248,11132766.04
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-25,21.3,21.36,21.16,21.2,-0.1,-0.47,351566,7473755.48
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-24,21.7,21.7,21.3,21.3,-0.36,-1.66,613336,13147243.04
+Real Estate Mgmt & Dev't,4321,Arabian Centres Co.,2024-12-23,21.46,21.9,21.44,21.66,0.2,0.93,989902,21425618.72
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-31,16.2,16.64,16.04,16.18,-0.12,-0.74,496282,8116171.78
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-30,16.24,16.64,15.92,16.3,0.1,0.62,695531,11362434.88
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-29,15.22,16.2,15.22,16.2,0.94,6.16,1171713,18623199.94
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-26,15.56,15.56,15.18,15.26,-0.26,-1.68,313904,4813208.2
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-25,15.88,15.88,15.48,15.52,-0.36,-2.27,553823,8631224.44
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-24,15.82,16.28,15.82,15.88,-0.06,-0.38,580042,9304557.22
+Real Estate Mgmt & Dev't,4322,Retal Urban Development Co.,2024-12-23,16.0,16.24,15.54,15.94,-0.14,-0.87,714564,11385651.68
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-31,47.55,49.6,46.5,47.0,-0.55,-1.16,1202526,58348163.9
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-30,46.65,48.2,46.25,47.55,1.0,2.15,478310,22655648.45
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-29,46.55,47.5,46.1,46.55,0.65,1.42,222027,10396352.05
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-26,47.05,47.3,45.9,45.9,-1.25,-2.65,182786,8485452.15
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-25,46.5,47.5,46.2,47.15,0.4,0.86,200528,9429108.5
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-24,48.2,48.4,46.5,46.75,-1.1,-2.3,482472,22986741.9
+Real Estate Mgmt & Dev't,4323,Sumou Real Estate Co.,2024-12-23,46.55,48.3,46.2,47.85,1.4,3.01,666308,31501592.6
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-31,6.94,7.1,6.82,7.09,0.22,3.2,1802453,12586576.02
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-30,6.84,6.87,6.73,6.87,0.05,0.73,503029,3426122.52
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-29,6.64,6.96,6.6,6.82,0.19,2.87,1748341,11927506.71
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-26,6.64,6.65,6.6,6.63,0.02,0.3,234344,1551167.59
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-25,6.62,6.66,6.55,6.61,0.0,0.0,279134,1842884.84
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-24,6.68,6.68,6.58,6.61,-0.07,-1.05,533176,3528709.22
+Real Estate Mgmt & Dev't,4324,Banan Real Estate Co.,2024-12-23,6.66,6.72,6.49,6.68,0.05,0.75,1321951,8760813.37
+REITs,4330,Riyad REIT Fund,2024-12-31,6.4,6.85,6.36,6.8,0.41,6.42,324771,2161305.93
+REITs,4330,Riyad REIT Fund,2024-12-30,6.37,6.41,6.34,6.39,0.02,0.31,111929,714667.09
+REITs,4330,Riyad REIT Fund,2024-12-29,6.36,6.39,6.33,6.37,-0.03,-0.47,60775,386418.39
+REITs,4330,Riyad REIT Fund,2024-12-26,6.4,6.41,6.36,6.4,0.0,0.0,33093,211435.57
+REITs,4330,Riyad REIT Fund,2024-12-25,6.38,6.4,6.33,6.4,0.02,0.31,71229,454113.88
+REITs,4330,Riyad REIT Fund,2024-12-24,6.37,6.39,6.32,6.38,0.01,0.16,41344,262880.97
+REITs,4330,Riyad REIT Fund,2024-12-23,6.35,6.39,6.34,6.37,0.01,0.16,54255,344610.62
+REITs,4331,AlJazira REIT,2024-12-31,15.0,15.2,15.0,15.04,-0.02,-0.13,40350,610597.44
+REITs,4331,AlJazira REIT,2024-12-30,14.94,15.1,14.7,15.06,0.18,1.21,117963,1758109.38
+REITs,4331,AlJazira REIT,2024-12-29,15.04,15.24,14.8,14.88,-0.26,-1.72,154993,2319675.44
+REITs,4331,AlJazira REIT,2024-12-26,15.4,15.4,15.12,15.14,-0.26,-1.69,38118,580616.98
+REITs,4331,AlJazira REIT,2024-12-25,15.36,15.4,15.16,15.4,0.16,1.05,89419,1359850.12
+REITs,4331,AlJazira REIT,2024-12-24,15.2,15.3,15.16,15.24,0.1,0.66,27884,425029.52
+REITs,4331,AlJazira REIT,2024-12-23,15.2,15.22,15.1,15.14,-0.04,-0.26,27606,417855.7
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-31,5.94,5.96,5.94,5.95,0.02,0.34,27517,163783.12
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-30,5.87,6.01,5.87,5.93,0.07,1.19,143937,851595.76
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-29,5.85,5.87,5.82,5.86,0.05,0.86,31365,183488.59
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-26,5.77,5.82,5.77,5.81,0.02,0.35,39867,231102.21
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-25,5.81,5.81,5.78,5.79,-0.02,-0.34,34658,200576.92
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-24,5.81,5.82,5.8,5.81,0.0,0.0,24371,141489.44
+REITs,4332,Jadwa REIT Al Haramain Fund,2024-12-23,5.83,5.83,5.8,5.81,-0.03,-0.51,27617,160670.3
+REITs,4333,Taleem REIT Fund,2024-12-31,10.16,10.44,10.12,10.24,0.06,0.59,108596,1105965.32
+REITs,4333,Taleem REIT Fund,2024-12-30,10.3,10.3,10.14,10.18,-0.02,-0.2,68154,694956.1
+REITs,4333,Taleem REIT Fund,2024-12-29,10.38,10.38,10.08,10.2,-0.18,-1.73,309672,3140156.38
+REITs,4333,Taleem REIT Fund,2024-12-26,10.42,10.44,10.0,10.38,0.02,0.19,157930,1611633.74
+REITs,4333,Taleem REIT Fund,2024-12-25,10.52,10.62,10.36,10.36,-0.18,-1.71,125622,1311495.24
+REITs,4333,Taleem REIT Fund,2024-12-24,10.8,10.8,10.38,10.54,-0.26,-2.41,121821,1281244.74
+REITs,4333,Taleem REIT Fund,2024-12-23,10.98,10.98,10.74,10.8,-0.14,-1.28,67379,734667.12
+REITs,4334,AL Maather REIT Fund,2024-12-31,9.48,9.5,9.46,9.48,0.0,0.0,19295,183231.35
+REITs,4334,AL Maather REIT Fund,2024-12-30,9.49,9.51,9.43,9.48,0.01,0.11,35826,338444.68
+REITs,4334,AL Maather REIT Fund,2024-12-29,9.5,9.5,9.44,9.47,0.02,0.21,15521,146994.95
+REITs,4334,AL Maather REIT Fund,2024-12-26,9.44,9.47,9.44,9.45,0.02,0.21,22029,208212.34
+REITs,4334,AL Maather REIT Fund,2024-12-25,9.42,9.46,9.42,9.43,-0.02,-0.21,25620,241945.02
+REITs,4334,AL Maather REIT Fund,2024-12-24,9.43,9.48,9.43,9.45,0.01,0.11,7008,66166.49
+REITs,4334,AL Maather REIT Fund,2024-12-23,9.44,9.48,9.43,9.44,-0.03,-0.32,21391,201824.37
+REITs,4335,Musharaka REIT Fund,2024-12-31,4.7,4.72,4.68,4.72,0.03,0.64,53837,252908.16
+REITs,4335,Musharaka REIT Fund,2024-12-30,4.7,4.72,4.63,4.69,-0.02,-0.42,48810,228184.51
+REITs,4335,Musharaka REIT Fund,2024-12-29,4.71,4.74,4.69,4.71,0.01,0.21,33669,158503.35
+REITs,4335,Musharaka REIT Fund,2024-12-26,4.72,4.74,4.69,4.7,-0.01,-0.21,49417,232557.91
+REITs,4335,Musharaka REIT Fund,2024-12-25,4.69,4.72,4.69,4.71,0.03,0.64,39842,187271.71
+REITs,4335,Musharaka REIT Fund,2024-12-24,4.72,4.72,4.68,4.68,-0.03,-0.64,8070,37849.81
+REITs,4335,Musharaka REIT Fund,2024-12-23,4.7,4.71,4.67,4.71,0.01,0.21,54439,255042.98
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-31,5.27,5.44,5.27,5.44,0.17,3.23,208973,1109314.9
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-30,5.29,5.29,5.27,5.27,-0.04,-0.75,55889,294995.44
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-29,5.3,5.32,5.27,5.31,0.01,0.19,74075,391685.22
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-26,5.3,5.33,5.28,5.3,-0.02,-0.38,61620,326810.16
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-25,5.33,5.33,5.3,5.32,0.01,0.19,61332,325544.14
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-24,5.36,5.36,5.3,5.31,-0.06,-1.12,98593,524597.26
+REITs,4336,Mulkia Gulf Real Estate REIT,2024-12-23,5.4,5.4,5.35,5.37,-0.04,-0.74,66118,355212.0
+REITs,4337,SICO Saudi REIT Fund,2024-12-31,3.93,3.97,3.92,3.96,0.02,0.51,180822,711704.6
+REITs,4337,SICO Saudi REIT Fund,2024-12-30,3.94,3.95,3.92,3.94,-0.01,-0.25,23364,91862.47
+REITs,4337,SICO Saudi REIT Fund,2024-12-29,3.92,3.95,3.92,3.95,0.04,1.02,52654,207163.07
+REITs,4337,SICO Saudi REIT Fund,2024-12-26,3.92,3.97,3.91,3.91,-0.03,-0.76,157143,616331.15
+REITs,4337,SICO Saudi REIT Fund,2024-12-25,3.95,3.95,3.91,3.94,-0.01,-0.25,28723,113010.39
+REITs,4337,SICO Saudi REIT Fund,2024-12-24,3.96,3.96,3.91,3.95,-0.02,-0.5,53172,209467.37
+REITs,4337,SICO Saudi REIT Fund,2024-12-23,3.95,3.97,3.91,3.97,0.01,0.25,127106,499609.05
+REITs,4338,AlAhli REIT Fund 1,2024-12-31,7.07,7.09,7.02,7.08,0.06,0.85,25933,183322.71
+REITs,4338,AlAhli REIT Fund 1,2024-12-30,7.06,7.07,7.02,7.02,-0.03,-0.43,22852,160762.45
+REITs,4338,AlAhli REIT Fund 1,2024-12-29,7.05,7.05,7.0,7.05,0.0,0.0,44749,314366.8
+REITs,4338,AlAhli REIT Fund 1,2024-12-26,6.98,7.05,6.97,7.05,0.06,0.86,70659,496620.91
+REITs,4338,AlAhli REIT Fund 1,2024-12-25,6.96,6.99,6.95,6.99,0.02,0.29,12508,87226.9
+REITs,4338,AlAhli REIT Fund 1,2024-12-24,6.98,6.99,6.94,6.97,0.0,0.0,49939,347916.96
+REITs,4338,AlAhli REIT Fund 1,2024-12-23,7.07,7.11,6.91,6.97,-0.11,-1.55,246838,1721591.44
+REITs,4339,Derayah REIT Fund,2024-12-31,5.87,5.94,5.86,5.91,0.05,0.85,111992,661166.94
+REITs,4339,Derayah REIT Fund,2024-12-30,5.88,5.93,5.84,5.86,-0.02,-0.34,80060,470089.41
+REITs,4339,Derayah REIT Fund,2024-12-29,5.88,5.93,5.83,5.88,0.01,0.17,48990,286955.37
+REITs,4339,Derayah REIT Fund,2024-12-26,5.91,5.91,5.86,5.87,-0.04,-0.68,62740,369121.53
+REITs,4339,Derayah REIT Fund,2024-12-25,5.94,5.94,5.86,5.91,0.0,0.0,33037,195370.81
+REITs,4339,Derayah REIT Fund,2024-12-24,5.86,5.94,5.81,5.91,0.06,1.03,82448,484627.57
+REITs,4339,Derayah REIT Fund,2024-12-23,5.82,5.95,5.81,5.85,-0.03,-0.51,203473,1188174.99
+REITs,4340,Al Rajhi REIT Fund,2024-12-31,8.35,8.38,8.3,8.36,0.01,0.12,277005,2310018.23
+REITs,4340,Al Rajhi REIT Fund,2024-12-30,8.38,8.41,8.35,8.35,-0.09,-1.07,159292,1333957.4
+REITs,4340,Al Rajhi REIT Fund,2024-12-29,8.4,8.44,8.38,8.44,0.02,0.24,174523,1469341.62
+REITs,4340,Al Rajhi REIT Fund,2024-12-26,8.4,8.42,8.38,8.42,0.02,0.24,34169,287022.69
+REITs,4340,Al Rajhi REIT Fund,2024-12-25,8.39,8.41,8.35,8.4,0.01,0.12,126422,1059908.49
+REITs,4340,Al Rajhi REIT Fund,2024-12-24,8.42,8.44,8.31,8.39,-0.05,-0.59,320883,2679021.26
+REITs,4340,Al Rajhi REIT Fund,2024-12-23,8.4,8.45,8.39,8.44,0.03,0.36,143027,1202446.2
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-31,10.06,10.12,10.02,10.08,0.04,0.4,641106,6437104.74
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-30,10.12,10.14,10.02,10.04,-0.06,-0.59,824881,8291037.44
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-29,10.16,10.18,10.08,10.1,-0.04,-0.39,471034,4763975.62
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-26,10.22,10.22,10.12,10.14,-0.06,-0.59,486338,4944580.18
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-25,10.22,10.24,10.18,10.2,0.0,0.0,214503,2189833.34
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-24,10.12,10.24,10.1,10.2,0.08,0.79,385832,3922578.56
+REITs,4342,Jadwa REIT Saudi Fund,2024-12-23,10.24,10.24,10.08,10.12,0.0,0.0,449395,4559111.7
+REITs,4344,SEDCO Capital REIT Fund,2024-12-31,8.36,8.44,8.36,8.39,0.03,0.36,156861,1316692.56
+REITs,4344,SEDCO Capital REIT Fund,2024-12-30,8.34,8.38,8.33,8.36,0.03,0.36,44150,368342.84
+REITs,4344,SEDCO Capital REIT Fund,2024-12-29,8.34,8.34,8.33,8.33,0.03,0.36,52731,439455.53
+REITs,4344,SEDCO Capital REIT Fund,2024-12-26,8.33,8.34,8.3,8.3,-0.03,-0.36,68340,567803.79
+REITs,4344,SEDCO Capital REIT Fund,2024-12-25,8.34,8.34,8.33,8.33,0.0,0.0,33697,280784.6
+REITs,4344,SEDCO Capital REIT Fund,2024-12-24,8.33,8.34,8.33,8.33,-0.01,-0.12,45265,377089.75
+REITs,4344,SEDCO Capital REIT Fund,2024-12-23,8.35,8.4,8.33,8.34,-0.06,-0.71,27952,233356.36
+REITs,4345,Alinma Retail REIT Fund,2024-12-31,4.69,4.75,4.69,4.73,0.04,0.85,100611,475597.53
+REITs,4345,Alinma Retail REIT Fund,2024-12-30,4.77,4.77,4.64,4.69,-0.03,-0.64,130656,615187.99
+REITs,4345,Alinma Retail REIT Fund,2024-12-29,4.74,4.75,4.71,4.72,0.01,0.21,20974,99257.09
+REITs,4345,Alinma Retail REIT Fund,2024-12-26,4.7,4.73,4.65,4.71,0.01,0.21,227256,1069903.86
+REITs,4345,Alinma Retail REIT Fund,2024-12-25,4.63,4.71,4.63,4.7,0.06,1.29,51030,238151.75
+REITs,4345,Alinma Retail REIT Fund,2024-12-24,4.7,4.71,4.62,4.64,-0.06,-1.28,163611,762992.51
+REITs,4345,Alinma Retail REIT Fund,2024-12-23,4.71,4.76,4.6,4.7,-0.06,-1.26,145417,684501.96
+REITs,4346,MEFIC REIT Fund,2024-12-31,4.06,4.06,4.04,4.06,0.0,0.0,24980,101353.13
+REITs,4346,MEFIC REIT Fund,2024-12-30,4.04,4.07,4.03,4.06,0.0,0.0,31233,126247.05
+REITs,4346,MEFIC REIT Fund,2024-12-29,4.04,4.06,4.03,4.06,-0.01,-0.25,10949,44252.3
+REITs,4346,MEFIC REIT Fund,2024-12-26,4.04,4.07,4.03,4.07,0.01,0.25,27334,110570.03
+REITs,4346,MEFIC REIT Fund,2024-12-25,4.07,4.07,4.04,4.06,0.0,0.0,38672,156668.94
+REITs,4346,MEFIC REIT Fund,2024-12-24,4.04,4.08,4.04,4.06,-0.02,-0.49,10387,42131.68
+REITs,4346,MEFIC REIT Fund,2024-12-23,4.05,4.09,4.02,4.08,0.01,0.25,43880,177600.87
+REITs,4347,Bonyan REIT Fund,2024-12-31,9.82,9.85,9.8,9.83,0.03,0.31,55926,549619.87
+REITs,4347,Bonyan REIT Fund,2024-12-30,9.82,9.82,9.73,9.8,-0.01,-0.1,48889,478899.28
+REITs,4347,Bonyan REIT Fund,2024-12-29,9.72,9.81,9.72,9.81,0.09,0.93,69328,679294.4
+REITs,4347,Bonyan REIT Fund,2024-12-26,9.67,9.72,9.6,9.72,0.12,1.25,46731,452029.64
+REITs,4347,Bonyan REIT Fund,2024-12-25,9.68,9.69,9.6,9.6,-0.08,-0.83,9731,94023.88
+REITs,4347,Bonyan REIT Fund,2024-12-24,9.64,9.68,9.63,9.68,0.08,0.83,9895,95558.28
+REITs,4347,Bonyan REIT Fund,2024-12-23,9.71,9.74,9.59,9.6,-0.18,-1.84,36749,354821.7
+REITs,4348,Alkhabeer REIT Fund,2024-12-31,5.69,5.71,5.68,5.7,0.01,0.18,161795,921382.81
+REITs,4348,Alkhabeer REIT Fund,2024-12-30,5.69,5.7,5.66,5.69,0.0,0.0,67961,386259.37
+REITs,4348,Alkhabeer REIT Fund,2024-12-29,5.7,5.71,5.66,5.69,0.0,0.0,115165,654359.45
+REITs,4348,Alkhabeer REIT Fund,2024-12-26,5.69,5.71,5.68,5.69,0.0,0.0,54171,308528.57
+REITs,4348,Alkhabeer REIT Fund,2024-12-25,5.69,5.7,5.66,5.69,0.02,0.35,74217,421284.29
+REITs,4348,Alkhabeer REIT Fund,2024-12-24,5.69,5.7,5.65,5.67,0.01,0.18,28351,160870.14
+REITs,4348,Alkhabeer REIT Fund,2024-12-23,5.71,5.72,5.63,5.66,-0.04,-0.7,142206,804609.0
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-31,8.3,8.42,8.3,8.4,0.09,1.08,146112,1224209.65
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-30,8.33,8.39,8.28,8.31,-0.08,-0.95,203012,1686566.91
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-29,8.47,8.47,8.32,8.39,0.05,0.6,69632,582335.37
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-26,8.2,8.49,8.2,8.34,0.14,1.71,196095,1642747.89
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-25,8.23,8.3,8.2,8.2,-0.03,-0.36,117207,965957.18
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-24,8.23,8.27,8.18,8.23,0.0,0.0,683188,5692087.4
+REITs,4349,Alinma Hospitality REIT Fund,2024-12-23,8.26,8.27,8.18,8.23,-0.03,-0.36,142976,1175168.9
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-31,8.21,8.34,8.21,8.34,0.14,1.71,19786,163800.18
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-30,8.26,8.33,8.18,8.2,-0.1,-1.2,35902,295261.55
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-29,8.3,8.34,8.21,8.3,-0.04,-0.48,10209,84410.45
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-26,8.36,8.38,8.29,8.34,-0.02,-0.24,12553,104811.7
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-25,8.26,8.37,8.21,8.36,0.1,1.21,15713,129622.0
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-24,8.32,8.35,8.25,8.26,-0.12,-1.43,13575,112579.52
+REITs,4350,Alistithmar AREIC Diversified REIT Fund,2024-12-23,8.37,8.48,8.31,8.38,-0.16,-1.87,35310,295362.97
+Utilities,5110,Saudi Electricity Co.,2024-12-31,16.8,17.0,16.74,16.9,0.12,0.72,883945,14942636.8
+Utilities,5110,Saudi Electricity Co.,2024-12-30,16.84,16.84,16.62,16.78,-0.08,-0.47,1047653,17534547.86
+Utilities,5110,Saudi Electricity Co.,2024-12-29,16.86,16.98,16.84,16.86,0.0,0.0,416171,7016908.72
+Utilities,5110,Saudi Electricity Co.,2024-12-26,16.94,16.94,16.84,16.86,-0.08,-0.47,380862,6423470.06
+Utilities,5110,Saudi Electricity Co.,2024-12-25,16.92,16.94,16.88,16.94,0.02,0.12,204985,3464164.4
+Utilities,5110,Saudi Electricity Co.,2024-12-24,16.98,17.0,16.88,16.92,-0.08,-0.47,408432,6917511.04
+Utilities,5110,Saudi Electricity Co.,2024-12-23,16.78,17.0,16.76,17.0,0.12,0.71,634411,10732871.14
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-31,53.2,54.0,52.8,53.1,-0.2,-0.38,38464,2054962.0
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-30,52.5,53.3,51.8,53.3,1.1,2.11,41489,2186152.3
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-29,52.4,52.6,51.6,52.2,-0.2,-0.38,20414,1065463.8
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-26,52.2,52.4,52.0,52.4,0.2,0.38,2685,140189.7
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-25,52.5,52.6,51.9,52.2,0.1,0.19,13404,698720.3
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-24,52.7,52.8,52.0,52.1,-0.6,-1.14,11508,602281.9
+Food & Beverages,6001,Halwani Bros. Co.,2024-12-23,53.3,53.3,51.8,52.7,-0.6,-1.13,38526,2016458.5
+Consumer Services,6002,Herfy Food Services Co.,2024-12-31,25.0,26.15,24.9,25.1,0.28,1.13,1048767,26831523.35
+Consumer Services,6002,Herfy Food Services Co.,2024-12-30,24.5,25.4,24.4,24.82,0.26,1.06,374646,9355776.85
+Consumer Services,6002,Herfy Food Services Co.,2024-12-29,24.54,24.8,24.42,24.56,0.02,0.08,174804,4292228.38
+Consumer Services,6002,Herfy Food Services Co.,2024-12-26,25.0,25.35,24.46,24.54,-0.44,-1.76,292642,7318990.93
+Consumer Services,6002,Herfy Food Services Co.,2024-12-25,25.0,25.0,24.18,24.98,0.84,3.48,388450,9644660.94
+Consumer Services,6002,Herfy Food Services Co.,2024-12-24,24.4,24.92,24.06,24.14,-0.26,-1.07,265215,6488589.7
+Consumer Services,6002,Herfy Food Services Co.,2024-12-23,24.1,24.44,24.04,24.4,0.16,0.66,182506,4420921.2
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-31,118.2,122.0,118.2,122.0,3.0,2.52,116675,14094488.8
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-30,118.6,119.8,117.0,119.0,0.4,0.34,92536,10940606.2
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-29,120.8,121.8,118.6,118.6,-2.4,-1.98,56426,6734016.4
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-26,122.0,122.6,120.0,121.0,-1.0,-0.82,58261,7078998.6
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-25,120.4,122.0,120.2,122.0,1.6,1.33,134200,16239756.8
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-24,121.2,121.2,118.0,120.4,-0.6,-0.5,239303,28451570.6
+Commercial & Professional Svc,6004,CATRION Catering Holding Co.,2024-12-23,119.0,121.0,118.4,121.0,1.4,1.17,156386,18880902.2
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-31,24.6,24.78,24.44,24.68,0.1,0.41,1347941,33157190.78
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-30,24.52,24.66,24.34,24.58,0.08,0.33,911518,22313043.86
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-29,24.94,24.94,24.34,24.5,-0.46,-1.84,1327907,32608090.68
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-26,25.05,25.4,24.78,24.96,-0.09,-0.36,1044391,26154523.61
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-25,25.5,25.65,25.0,25.05,-0.4,-1.57,826131,20847011.4
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-24,25.65,25.8,25.4,25.45,-0.1,-0.39,971884,24837215.45
+Food & Beverages,6010,National Agricultural Development Co.,2024-12-23,25.8,25.8,25.0,25.55,-0.25,-0.97,1274075,32397837.0
+Consumer Services,6012,Raydan Food Co.,2024-12-31,21.76,21.9,21.68,21.8,0.14,0.65,270891,5911366.98
+Consumer Services,6012,Raydan Food Co.,2024-12-30,21.68,21.8,21.56,21.66,-0.06,-0.28,132748,2881947.5
+Consumer Services,6012,Raydan Food Co.,2024-12-29,21.58,21.74,21.3,21.72,0.12,0.56,123061,2658576.82
+Consumer Services,6012,Raydan Food Co.,2024-12-26,21.64,21.64,21.4,21.6,0.0,0.0,64546,1388024.8
+Consumer Services,6012,Raydan Food Co.,2024-12-25,21.46,21.7,21.4,21.6,0.2,0.93,107740,2317503.54
+Consumer Services,6012,Raydan Food Co.,2024-12-24,21.56,21.56,21.32,21.4,-0.12,-0.56,51078,1091876.88
+Consumer Services,6012,Raydan Food Co.,2024-12-23,22.06,22.06,21.34,21.52,-0.52,-2.36,374238,8053454.16
+Consumer Services,6013,Development Works Food Co.,2024-12-31,132.4,134.6,131.4,132.0,-0.4,-0.3,50533,6710570.6
+Consumer Services,6013,Development Works Food Co.,2024-12-30,128.8,133.0,128.8,132.4,3.6,2.8,72069,9471340.0
+Consumer Services,6013,Development Works Food Co.,2024-12-29,130.2,131.0,128.4,128.8,-1.4,-1.08,42580,5507186.8
+Consumer Services,6013,Development Works Food Co.,2024-12-26,132.0,132.8,130.0,130.2,-1.6,-1.21,34038,4473696.8
+Consumer Services,6013,Development Works Food Co.,2024-12-25,132.4,134.0,130.4,131.8,-0.6,-0.45,17849,2347993.4
+Consumer Services,6013,Development Works Food Co.,2024-12-24,132.8,134.0,131.0,132.4,-0.4,-0.3,39305,5196742.2
+Consumer Services,6013,Development Works Food Co.,2024-12-23,134.2,136.0,132.4,132.8,-1.4,-1.04,49222,6599729.8
+Consumer Services,6014,Alamar Foods Co.,2024-12-31,74.3,75.3,74.2,74.9,0.7,0.94,64442,4811464.3
+Consumer Services,6014,Alamar Foods Co.,2024-12-30,74.4,74.7,73.8,74.2,-0.2,-0.27,32299,2402226.6
+Consumer Services,6014,Alamar Foods Co.,2024-12-29,73.9,75.0,73.8,74.4,0.6,0.81,16459,1222783.1
+Consumer Services,6014,Alamar Foods Co.,2024-12-26,74.6,74.6,73.8,73.8,-0.7,-0.94,28058,2084135.0
+Consumer Services,6014,Alamar Foods Co.,2024-12-25,73.8,74.5,73.2,74.5,0.7,0.95,15046,1110179.5
+Consumer Services,6014,Alamar Foods Co.,2024-12-24,73.7,74.1,73.5,73.8,0.1,0.14,11355,837479.1
+Consumer Services,6014,Alamar Foods Co.,2024-12-23,74.5,74.5,73.3,73.7,-0.6,-0.81,43091,3181188.3
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-31,2.28,2.3,2.28,2.28,-0.01,-0.44,5155159,11770652.3
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-30,2.27,2.29,2.27,2.29,0.02,0.88,6917434,15777724.16
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-29,2.27,2.28,2.25,2.27,0.0,0.0,2078204,4704676.62
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-26,2.28,2.3,2.27,2.27,0.0,0.0,2864032,6533077.85
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-25,2.28,2.29,2.27,2.27,0.0,0.0,4821695,10950298.78
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-24,2.28,2.29,2.26,2.27,-0.02,-0.87,2371649,5396841.22
+Consumer Services,6015,Americana Restaurants International PLC - Foreign Company,2024-12-23,2.3,2.32,2.27,2.29,0.0,0.0,8700581,19978655.96
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-31,20.66,21.3,20.58,20.96,0.38,1.85,1746374,36711336.06
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-30,20.46,20.8,20.36,20.58,0.14,0.68,669161,13738723.56
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-29,20.64,20.9,20.44,20.44,-0.12,-0.58,564200,11653828.16
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-26,20.96,21.1,20.52,20.56,-0.34,-1.63,581017,12098814.92
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-25,21.3,21.52,20.9,20.9,-0.4,-1.88,836820,17797796.44
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-24,20.58,21.62,20.34,21.3,0.9,4.41,1960472,41398046.36
+Consumer Services,6016,Shatirah House Restaurant Co.,2024-12-23,20.44,20.64,20.06,20.4,-0.04,-0.2,675531,13700415.06
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-31,29.25,31.25,29.05,30.3,1.1,3.77,4888342,148231807.4
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-30,29.05,29.25,28.4,29.2,0.2,0.69,1363655,39394733.75
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-29,29.45,29.5,29.0,29.0,-0.25,-0.85,690074,20128324.0
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-26,29.4,29.95,29.2,29.25,-0.1,-0.34,1174602,34707571.2
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-25,29.2,29.65,29.1,29.35,0.1,0.34,754389,22152460.6
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-24,29.65,29.75,29.15,29.25,-0.35,-1.18,1018338,29898079.05
+Consumer Services,6017,Jahez International Company for Information System Technology,2024-12-23,29.65,29.95,28.95,29.6,-0.1,-0.34,1353405,39857153.6
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-31,18.3,18.86,18.26,18.58,0.28,1.53,187969,3490029.26
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-30,18.0,18.36,17.92,18.3,0.3,1.67,77277,1405014.7
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-29,18.02,18.16,18.0,18.0,0.0,0.0,52694,951256.68
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-26,18.1,18.1,18.0,18.0,-0.1,-0.55,43246,779000.26
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-25,17.92,18.16,17.92,18.1,0.1,0.56,87925,1590440.52
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-24,18.0,18.12,17.9,18.0,0.0,0.0,33275,599065.52
+Food & Beverages,6020,Al Gassim Investment Holding Co.,2024-12-23,18.0,18.0,17.84,18.0,0.0,0.0,64303,1152700.56
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-31,15.26,15.38,15.08,15.1,-0.16,-1.05,190342,2895704.58
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-30,14.78,15.26,14.72,15.26,0.46,3.11,146147,2185553.72
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-29,14.7,14.82,14.7,14.8,0.02,0.14,51749,762600.34
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-26,14.74,14.88,14.66,14.78,0.04,0.27,68748,1013688.08
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-25,14.7,14.88,14.7,14.74,-0.02,-0.14,47233,698564.92
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-24,14.82,14.82,14.64,14.76,-0.06,-0.4,61059,897103.04
+Food & Beverages,6040,Tabuk Agricultural Development Co.,2024-12-23,14.8,15.0,14.66,14.82,-0.06,-0.4,108681,1602736.48
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-31,21.9,22.32,21.88,21.94,0.14,0.64,607469,13411191.18
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-30,21.8,21.96,21.6,21.8,0.0,0.0,513784,11174920.3
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-29,22.14,22.16,21.8,21.8,-0.36,-1.62,444015,9740818.28
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-26,22.22,22.52,22.1,22.16,0.02,0.09,423962,9436568.98
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-25,22.1,22.3,22.1,22.14,-0.1,-0.45,288407,6402640.0
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-24,22.6,22.6,22.22,22.24,-0.32,-1.42,412769,9207825.32
+Food & Beverages,6050,Saudi Fisheries Co.,2024-12-23,22.6,22.88,22.5,22.56,-0.04,-0.18,321459,7274029.2
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-31,19.66,19.8,19.44,19.62,0.12,0.62,189855,3724733.08
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-30,19.2,19.68,19.1,19.5,0.32,1.67,198243,3839159.76
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-29,19.24,19.34,19.1,19.18,-0.06,-0.31,68632,1316740.62
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-26,19.18,19.28,19.08,19.24,0.12,0.63,61964,1186008.58
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-25,19.0,19.18,19.0,19.12,0.12,0.63,92614,1768854.58
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-24,19.1,19.2,18.92,19.0,-0.06,-0.31,125277,2385263.36
+Food & Beverages,6060,Ash-Sharqiyah Development Co.,2024-12-23,19.14,19.2,18.9,19.06,-0.12,-0.63,113286,2157185.78
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-31,58.8,60.0,58.7,59.6,0.6,1.02,64087,3813282.9
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-30,59.0,59.4,58.2,59.0,0.3,0.51,43552,2566221.9
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-29,58.6,59.1,58.2,58.7,-0.3,-0.51,40169,2354643.4
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-26,59.1,59.5,58.5,59.0,0.0,0.0,23579,1391969.4
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-25,58.2,59.2,58.0,59.0,0.6,1.03,26799,1577420.9
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-24,59.1,59.2,58.3,58.4,-0.5,-0.85,43586,2554834.6
+Food & Beverages,6070,Al-Jouf Agricultural Development Co.,2024-12-23,59.3,59.3,58.0,58.9,-0.3,-0.51,36403,2136157.4
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-31,13.22,13.34,13.08,13.3,0.1,0.76,241269,3189162.34
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-30,12.88,13.22,12.74,13.2,0.34,2.64,217358,2823952.22
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-29,12.82,12.86,12.7,12.86,0.04,0.31,71173,908702.7
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-26,12.72,12.86,12.68,12.82,0.08,0.63,63923,814019.52
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-25,12.68,12.82,12.62,12.74,0.06,0.47,84138,1070930.92
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-24,13.06,13.12,12.68,12.68,-0.38,-2.91,360558,4612036.04
+Food & Beverages,6090,Jazan Development and Investment Co.,2024-12-23,13.1,13.44,12.92,13.06,-0.06,-0.46,303781,4006008.98
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-31,39.95,40.15,39.8,40.0,0.1,0.25,3671770,146784382.9
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-30,39.9,40.05,39.8,39.9,0.0,0.0,2963545,118173468.1
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-29,40.2,40.25,39.85,39.9,-0.25,-0.62,3725396,148859139.6
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-26,40.35,40.4,40.05,40.15,-0.2,-0.5,1612224,64791019.0
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-25,40.5,40.5,40.2,40.35,-0.2,-0.49,1713688,69075768.8
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-24,40.4,40.55,40.25,40.55,0.2,0.5,1994373,80563816.8
+Telecommunication Services,7010,Saudi Telecom Co.,2024-12-23,40.25,40.35,40.0,40.35,0.1,0.25,2532147,101817297.5
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-31,53.1,53.6,52.9,53.4,0.4,0.75,1361897,72653179.3
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-30,53.1,53.6,53.0,53.0,-0.1,-0.19,660555,35190897.3
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-29,52.8,53.3,52.8,53.1,0.1,0.19,295090,15637289.0
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-26,52.1,53.6,52.0,53.0,0.9,1.73,586494,31133427.9
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-25,51.8,52.2,51.8,52.1,0.3,0.58,113085,5893087.3
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-24,52.2,52.3,51.7,51.8,-0.5,-0.96,676972,35166722.6
+Telecommunication Services,7020,Etihad Etisalat Co.,2024-12-23,52.4,52.4,51.5,52.3,0.3,0.58,1181737,61167387.5
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-31,10.3,10.32,10.24,10.26,-0.04,-0.39,959086,9858191.1
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-30,10.24,10.3,10.2,10.3,0.04,0.39,803024,8233306.2
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-29,10.28,10.3,10.2,10.26,-0.02,-0.19,642025,6566594.42
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-26,10.3,10.3,10.22,10.28,-0.02,-0.19,1029709,10572483.2
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-25,10.22,10.3,10.18,10.3,0.08,0.78,954103,9763652.52
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-24,10.2,10.22,10.18,10.22,0.02,0.2,644164,6568940.44
+Telecommunication Services,7030,Mobile Telecommunication Company Saudi Arabia,2024-12-23,10.2,10.24,10.18,10.2,0.0,0.0,935894,9552152.88
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-31,108.8,110.0,107.2,109.0,0.4,0.37,436462,47564058.4
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-30,107.8,108.8,106.2,108.6,0.8,0.74,203704,21968558.6
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-29,108.8,109.2,107.0,107.8,-1.0,-0.92,182551,19702318.0
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-26,110.0,110.4,108.2,108.8,-0.2,-0.18,203469,22140952.4
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-25,108.6,112.0,108.4,109.0,0.6,0.55,424020,46572349.8
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-24,108.8,110.4,105.2,108.4,-2.4,-2.17,479290,52116601.2
+Telecommunication Services,7040,Etihad Atheeb Telecommunication Co.,2024-12-23,113.0,113.0,109.6,110.8,-1.8,-1.6,363168,40357255.2
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-31,163.8,165.0,162.0,163.0,-0.8,-0.49,26677,4353824.4
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-30,162.4,164.0,161.2,163.8,1.6,0.99,25691,4183877.8
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-29,162.6,162.8,158.6,162.2,0.8,0.5,25148,4042388.6
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-26,160.0,162.8,160.0,161.4,1.4,0.88,33566,5404557.0
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-25,160.4,161.6,158.0,160.0,0.0,0.0,16349,2610989.0
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-24,163.8,163.8,158.2,160.0,-1.0,-0.62,31157,4988090.6
+Software & Services,7200,Al Moammar Information Systems Co.,2024-12-23,161.4,163.0,159.4,161.0,-0.2,-0.12,22791,3674808.2
+Software & Services,7201,Arab Sea Information System Co.,2024-12-31,6.51,6.58,6.51,6.54,0.03,0.46,820561,5370202.75
+Software & Services,7201,Arab Sea Information System Co.,2024-12-30,6.49,6.52,6.4,6.51,0.02,0.31,884326,5718144.6
+Software & Services,7201,Arab Sea Information System Co.,2024-12-29,6.44,6.5,6.44,6.49,0.06,0.93,256194,1657347.8
+Software & Services,7201,Arab Sea Information System Co.,2024-12-26,6.5,6.51,6.41,6.43,-0.03,-0.46,423607,2738817.29
+Software & Services,7201,Arab Sea Information System Co.,2024-12-25,6.42,6.47,6.39,6.46,0.05,0.78,326827,2105031.32
+Software & Services,7201,Arab Sea Information System Co.,2024-12-24,6.5,6.51,6.39,6.41,-0.06,-0.93,486206,3125581.94
+Software & Services,7201,Arab Sea Information System Co.,2024-12-23,6.55,6.55,6.43,6.47,-0.07,-1.07,578568,3745669.93
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-31,270.4,274.0,269.4,270.0,-0.4,-0.15,156763,42419924.8
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-30,268.2,271.2,267.2,270.4,2.2,0.82,80080,21538803.8
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-29,269.0,271.0,265.8,268.2,-0.8,-0.3,92697,24783256.0
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-26,271.0,271.8,269.0,269.0,-2.2,-0.81,79240,21393149.4
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-25,272.0,274.8,271.2,271.2,-0.6,-0.22,40372,11009999.2
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-24,279.8,279.8,271.2,271.8,-6.8,-2.44,107906,29538919.6
+Software & Services,7202,Arabian Internet and Communications Services Co.,2024-12-23,275.0,279.0,272.8,278.6,4.0,1.46,137676,37987547.8
+Software & Services,7203,Elm Co.,2024-12-31,1118.8,1129.6,1115.0,1115.0,0.2,0.02,111660,124860975.0
+Software & Services,7203,Elm Co.,2024-12-30,1138.4,1143.2,1112.4,1114.8,-23.4,-2.06,44145,49594397.2
+Software & Services,7203,Elm Co.,2024-12-29,1130.0,1142.0,1130.0,1138.2,2.2,0.19,177606,202462918.6
+Software & Services,7203,Elm Co.,2024-12-26,1137.0,1142.0,1136.0,1136.0,-1.2,-0.11,17604,20061805.2
+Software & Services,7203,Elm Co.,2024-12-25,1140.0,1142.4,1136.8,1137.2,-3.8,-0.33,15980,18208957.6
+Software & Services,7203,Elm Co.,2024-12-24,1149.0,1149.0,1140.0,1141.0,-8.2,-0.71,12423,14207622.0
+Software & Services,7203,Elm Co.,2024-12-23,1128.6,1150.0,1123.2,1149.2,21.2,1.88,49278,56092410.0
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-31,14.1,14.26,14.02,14.04,0.1,0.72,883827,12486013.58
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-30,13.76,14.0,13.72,13.94,0.18,1.31,645410,8966031.58
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-29,13.7,13.78,13.64,13.76,0.1,0.73,197769,2707903.34
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-26,13.76,13.76,13.58,13.66,0.0,0.0,281821,3849863.6
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-25,13.58,13.7,13.52,13.66,0.08,0.59,154934,2111471.72
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-24,13.66,13.68,13.56,13.58,-0.08,-0.59,244668,3330972.24
+Software & Services,7204,Perfect Presentation for Commercial Services Co.,2024-12-23,13.7,13.72,13.44,13.66,-0.04,-0.29,437937,5947210.54
+Insurance,8010,The Company for Cooperative Insurance,2024-12-31,150.0,150.0,147.4,147.6,-0.8,-0.54,204237,30323048.2
+Insurance,8010,The Company for Cooperative Insurance,2024-12-30,145.8,150.0,145.2,148.4,2.6,1.78,269051,40052371.4
+Insurance,8010,The Company for Cooperative Insurance,2024-12-29,142.4,146.6,142.4,145.8,4.4,3.11,141868,20570862.2
+Insurance,8010,The Company for Cooperative Insurance,2024-12-26,143.0,143.2,141.4,141.4,0.2,0.14,61867,8822840.6
+Insurance,8010,The Company for Cooperative Insurance,2024-12-25,141.0,143.0,140.6,141.2,-0.4,-0.28,23719,3369466.6
+Insurance,8010,The Company for Cooperative Insurance,2024-12-24,142.8,143.6,141.4,141.6,-1.2,-0.84,54091,7695255.2
+Insurance,8010,The Company for Cooperative Insurance,2024-12-23,141.0,143.4,139.4,142.8,1.8,1.28,178033,25341317.2
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-31,16.54,16.7,16.42,16.46,-0.08,-0.48,203633,3371831.36
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-30,15.8,16.54,15.8,16.54,0.74,4.68,554515,9006884.78
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-29,15.58,15.88,15.5,15.8,0.3,1.94,87669,1379860.8
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-26,15.46,15.56,15.44,15.5,0.02,0.13,35591,551894.6
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-25,15.46,15.54,15.44,15.48,0.0,0.0,50809,787146.28
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-24,15.52,15.6,15.46,15.48,-0.04,-0.26,42412,657552.7
+Insurance,8012,Aljazira Takaful Taawuni Co.,2024-12-23,15.66,15.66,15.4,15.52,-0.04,-0.26,57521,891682.06
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-31,16.62,16.7,16.34,16.42,0.1,0.61,610774,10075538.38
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-30,15.86,16.8,15.78,16.32,0.66,4.21,2312101,37964159.12
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-29,15.46,15.84,15.36,15.66,0.36,2.35,591860,9301530.34
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-26,15.4,15.54,15.24,15.3,-0.1,-0.65,185920,2854583.88
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-25,15.14,15.48,15.14,15.4,0.16,1.05,123661,1897393.38
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-24,15.3,15.3,15.14,15.24,0.02,0.13,78403,1193118.02
+Insurance,8020,Malath Cooperative Insurance Co.,2024-12-23,15.32,15.44,15.08,15.22,-0.18,-1.17,217913,3323988.18
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-31,26.4,27.75,26.05,26.05,-0.4,-1.51,2349218,63166849.5
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-30,26.75,27.5,26.25,26.45,-0.25,-0.94,2723446,73100638.7
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-29,24.92,27.25,24.8,26.7,1.9,7.66,3943064,104178821.1
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-26,23.32,24.84,23.12,24.8,1.66,7.17,2204935,53259002.88
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-25,23.3,23.68,22.88,23.14,-0.1,-0.43,644518,15011431.7
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-24,23.9,24.12,23.18,23.24,-0.28,-1.19,1823783,43390344.36
+Insurance,8030,The Mediterranean and Gulf Insurance and Reinsurance Co.,2024-12-23,23.26,23.98,23.06,23.52,0.94,4.16,2612944,61382290.02
+Insurance,8040,Mutakamela Insurance Co.,2024-12-31,15.2,15.48,15.2,15.32,0.06,0.39,143389,2200919.76
+Insurance,8040,Mutakamela Insurance Co.,2024-12-30,15.02,15.46,14.82,15.26,0.16,1.06,326552,5005619.82
+Insurance,8040,Mutakamela Insurance Co.,2024-12-29,14.7,15.12,14.7,15.1,0.32,2.17,91034,1362056.92
+Insurance,8040,Mutakamela Insurance Co.,2024-12-26,14.78,14.86,14.64,14.78,0.0,0.0,18090,266670.28
+Insurance,8040,Mutakamela Insurance Co.,2024-12-25,14.6,14.92,14.6,14.78,0.08,0.54,27076,400598.38
+Insurance,8040,Mutakamela Insurance Co.,2024-12-24,14.82,14.9,14.56,14.7,-0.2,-1.34,82121,1206507.3
+Insurance,8040,Mutakamela Insurance Co.,2024-12-23,15.0,15.0,14.78,14.9,-0.1,-0.67,27003,401730.12
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-31,18.12,18.46,18.0,18.24,0.14,0.77,544878,9928543.94
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-30,17.36,18.66,17.28,18.1,0.74,4.26,1159771,21040117.96
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-29,16.9,17.46,16.72,17.36,0.48,2.84,526926,9069177.16
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-26,16.94,17.06,16.78,16.88,-0.06,-0.35,158834,2679220.84
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-25,16.9,17.16,16.88,16.94,0.1,0.59,444507,7549727.88
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-24,17.0,17.08,16.66,16.84,-0.2,-1.17,374564,6297431.06
+Insurance,8050,Salama Cooperative Insurance Co.,2024-12-23,17.08,17.18,16.86,17.04,-0.04,-0.23,279538,4748594.58
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-31,19.68,19.9,19.16,19.36,-0.32,-1.63,1607930,31282598.36
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-30,18.38,19.86,18.0,19.68,1.36,7.42,2514116,47919216.4
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-29,17.86,18.32,17.76,18.32,0.68,3.85,959066,17343651.8
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-26,17.86,17.96,17.64,17.64,-0.22,-1.23,441798,7846565.7
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-25,17.7,18.0,17.48,17.86,0.16,0.9,607831,10845512.62
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-24,17.8,17.8,17.3,17.7,0.14,0.8,332151,5844866.06
+Insurance,8060,Walaa Cooperative Insurance Co.,2024-12-23,18.3,18.3,17.54,17.56,-0.64,-3.52,414713,7411262.6
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-31,19.12,19.38,19.0,19.2,0.08,0.42,447684,8616772.24
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-30,18.52,19.3,18.52,19.12,0.62,3.35,1019511,19421359.46
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-29,18.1,18.72,18.02,18.5,0.42,2.32,578316,10643615.88
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-26,18.28,18.46,17.94,18.08,-0.26,-1.42,471836,8558546.84
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-25,18.24,18.44,17.94,18.34,0.08,0.44,280156,5115177.58
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-24,18.44,18.44,18.06,18.26,-0.1,-0.54,309277,5621400.44
+Insurance,8070,Arabian Shield Cooperative Insurance Co.,2024-12-23,18.5,18.62,18.3,18.36,-0.16,-0.86,147875,2721980.2
+Insurance,8080,SABB Takaful Co.,2022-10-20,0.0,0.0,0.0,11.5,0.0,0.0,0,0.0
+Insurance,8080,SABB Takaful Co.,2022-10-19,0.0,0.0,0.0,11.5,0.0,0.0,0,0.0
+Insurance,8080,SABB Takaful Co.,2022-10-18,11.98,11.98,11.5,11.5,-0.34,-2.87,539556,6349103.58
+Insurance,8080,SABB Takaful Co.,2022-10-18,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Insurance,8080,SABB Takaful Co.,2022-10-17,12.02,12.04,11.8,11.84,-0.14,-1.17,278309,3324093.16
+Insurance,8080,SABB Takaful Co.,2022-10-16,12.0,12.04,11.9,11.98,-0.14,-1.16,144636,1732393.12
+Insurance,8080,SABB Takaful Co.,2022-10-13,12.5,12.5,12.1,12.12,-0.26,-2.1,152328,1865602.86
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-31,15.92,15.98,15.62,15.64,-0.26,-1.64,221740,3494319.32
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-30,15.3,15.9,15.26,15.9,0.66,4.33,533500,8305795.24
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-29,14.96,15.36,14.9,15.24,0.34,2.28,230318,3494075.14
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-26,14.98,15.1,14.88,14.9,-0.08,-0.53,31042,463803.46
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-25,14.78,15.0,14.78,14.98,0.2,1.35,42348,632441.46
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-24,14.98,14.98,14.76,14.78,-0.08,-0.54,65138,966028.72
+Insurance,8100,Saudi Arabian Cooperative Insurance Co.,2024-12-23,15.08,15.08,14.82,14.86,-0.22,-1.46,38675,576838.2
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-25,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-24,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-23,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-22,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-19,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-18,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8110,Saudi Indian Company for Cooperative Insurance,2022-05-17,0.0,0.0,0.0,9.5,0.0,0.0,0,0.0
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-31,15.48,15.6,15.38,15.58,0.18,1.17,361721,5606383.02
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-30,15.3,15.48,15.28,15.4,0.14,0.92,556983,8568898.1
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-29,15.1,15.32,15.0,15.26,0.24,1.6,148332,2254304.68
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-26,15.2,15.2,14.96,15.02,-0.12,-0.79,90072,1353411.0
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-25,14.98,15.14,14.96,15.14,0.16,1.07,89339,1345526.92
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-24,15.24,15.24,14.82,14.98,-0.22,-1.45,394200,5897746.78
+Insurance,8120,Gulf Union Alahlia Cooperative Insurance Co.,2024-12-23,15.44,15.44,15.04,15.2,-0.28,-1.81,187349,2841148.0
+Insurance,8130,Alahli Takaful Co.,2022-01-13,0.0,0.0,0.0,34.0,0.0,0.0,0,0.0
+Insurance,8130,Alahli Takaful Co.,2022-01-12,0.0,0.0,0.0,34.0,0.0,0.0,0,0.0
+Insurance,8130,Alahli Takaful Co.,2022-01-11,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Insurance,8130,Alahli Takaful Co.,2022-01-11,34.0,34.35,33.8,34.0,0.05,0.15,263305,8968049.2
+Insurance,8130,Alahli Takaful Co.,2022-01-10,33.9,34.15,33.5,33.95,-0.05,-0.15,199894,6758191.4
+Insurance,8130,Alahli Takaful Co.,2022-01-09,33.3,34.1,33.25,34.0,0.65,1.95,408295,13738582.8
+Insurance,8130,Alahli Takaful Co.,2022-01-06,32.9,33.7,32.9,33.35,0.25,0.76,268550,8946493.0
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-31,13.58,13.7,13.38,13.46,-0.12,-0.88,388864,5254008.3
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-30,13.28,13.76,13.24,13.58,0.34,2.57,801550,10862873.22
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-29,12.98,13.3,12.82,13.24,0.58,4.58,594607,7830784.88
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-26,12.86,12.98,12.54,12.66,-0.2,-1.56,112882,1440545.0
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-25,12.44,13.1,12.36,12.86,0.56,4.55,469582,5993034.02
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-24,12.42,12.52,12.3,12.3,-0.16,-1.28,73267,906160.4
+Insurance,8150,Allied Cooperative Insurance Group,2024-12-23,12.5,12.58,12.38,12.46,-0.04,-0.32,169901,2115557.94
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-31,13.5,13.6,13.38,13.4,-0.08,-0.59,283686,3821449.22
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-30,13.4,13.58,13.32,13.48,0.16,1.2,428796,5771614.58
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-29,13.12,13.4,13.0,13.32,0.2,1.52,257834,3421428.04
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-26,13.08,13.14,13.0,13.12,0.06,0.46,57748,755362.02
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-25,12.96,13.08,12.94,13.06,0.12,0.93,82003,1067041.62
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-24,13.06,13.1,12.9,12.94,-0.12,-0.92,105454,1367983.86
+Insurance,8160,Arabia Insurance Cooperative Co.,2024-12-23,12.98,13.06,12.9,13.06,0.06,0.46,206448,2677520.38
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-31,17.42,17.68,17.38,17.4,-0.02,-0.11,301672,5277175.52
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-30,17.24,17.66,17.2,17.42,0.24,1.4,611692,10683265.94
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-29,17.06,17.3,16.96,17.18,0.26,1.54,277873,4772794.28
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-26,17.14,17.14,16.92,16.92,-0.18,-1.05,61917,1053220.46
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-25,16.9,17.14,16.9,17.1,0.2,1.18,110983,1889524.68
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-24,17.08,17.08,16.88,16.9,-0.1,-0.59,85579,1449618.66
+Insurance,8170,Al-Etihad Cooperative Insurance Co.,2024-12-23,17.02,17.14,16.94,17.0,-0.04,-0.23,157334,2670986.06
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-31,17.9,18.16,17.46,17.54,-0.34,-1.9,755830,13382887.84
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-30,17.38,18.36,17.38,17.88,0.5,2.88,1273407,22859025.54
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-29,16.84,17.52,16.82,17.38,0.52,3.08,692688,11977580.86
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-26,16.92,17.04,16.82,16.86,-0.14,-0.82,141502,2392754.44
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-25,16.74,17.22,16.54,17.0,0.5,3.03,574729,9795331.56
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-24,16.78,16.78,16.48,16.5,-0.14,-0.84,126139,2088761.72
+Insurance,8180,Al Sagr Cooperative Insurance Co.,2024-12-23,16.7,16.8,16.56,16.64,-0.06,-0.36,198070,3295335.96
+Insurance,8190,United Cooperative Assurance Co.,2024-12-31,8.87,9.12,8.8,8.92,0.08,0.9,711378,6388104.22
+Insurance,8190,United Cooperative Assurance Co.,2024-12-30,8.7,8.92,8.7,8.84,0.16,1.84,741713,6560757.03
+Insurance,8190,United Cooperative Assurance Co.,2024-12-29,8.56,8.73,8.55,8.68,0.13,1.52,518421,4492185.64
+Insurance,8190,United Cooperative Assurance Co.,2024-12-26,8.58,8.64,8.51,8.55,0.03,0.35,235016,2010227.58
+Insurance,8190,United Cooperative Assurance Co.,2024-12-25,8.54,8.55,8.47,8.52,0.01,0.12,149532,1273049.07
+Insurance,8190,United Cooperative Assurance Co.,2024-12-24,8.54,8.55,8.44,8.51,-0.01,-0.12,274017,2323299.35
+Insurance,8190,United Cooperative Assurance Co.,2024-12-23,8.7,8.7,8.48,8.52,-0.16,-1.84,476474,4076263.38
+Insurance,8200,Saudi Reinsurance Co.,2024-12-31,53.5,56.8,52.8,53.9,2.2,4.26,6703987,370346641.8
+Insurance,8200,Saudi Reinsurance Co.,2024-12-30,47.2,51.7,47.2,51.7,4.7,10.0,2518324,126011645.2
+Insurance,8200,Saudi Reinsurance Co.,2024-12-29,46.65,47.3,46.0,47.0,0.45,0.97,382201,17927787.7
+Insurance,8200,Saudi Reinsurance Co.,2024-12-26,46.9,47.35,46.5,46.55,-0.45,-0.96,385431,18053863.5
+Insurance,8200,Saudi Reinsurance Co.,2024-12-25,47.1,47.4,46.75,47.0,-0.1,-0.21,410858,19379528.75
+Insurance,8200,Saudi Reinsurance Co.,2024-12-24,47.35,47.55,46.75,47.1,-0.05,-0.11,380846,17919045.6
+Insurance,8200,Saudi Reinsurance Co.,2024-12-23,45.25,47.3,44.7,47.15,1.9,4.2,862669,40181987.4
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-31,205.6,209.6,204.6,207.0,2.8,1.37,239838,49732532.4
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-30,206.0,209.6,202.8,204.2,0.6,0.29,212996,43621322.0
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-29,202.0,206.2,202.0,203.6,-0.2,-0.1,52093,10659264.0
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-26,204.4,204.4,202.0,203.8,1.4,0.69,13004,2643142.8
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-25,202.4,204.0,202.0,202.4,0.0,0.0,8410,1706099.2
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-24,203.0,205.2,202.4,202.4,-1.8,-0.88,26066,5289241.2
+Insurance,8210,Bupa Arabia for Cooperative Insurance Co.,2024-12-23,202.0,204.4,200.0,204.2,2.2,1.09,47614,9683251.0
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-31,171.2,174.4,169.6,171.6,0.6,0.35,124317,21405297.0
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-30,169.0,174.2,168.8,171.0,2.6,1.54,208872,35838734.4
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-29,163.8,168.4,163.8,168.4,4.0,2.43,91914,15330711.6
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-26,164.2,165.0,163.0,164.4,0.6,0.37,39434,6471387.4
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-25,162.0,164.2,162.0,163.8,1.4,0.86,37103,6068176.6
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-24,160.8,163.8,159.0,162.4,2.4,1.5,83883,13546937.8
+Insurance,8230,Al-Rajhi Company for Cooperative Insurance,2024-12-23,163.6,165.8,160.0,160.0,-3.4,-2.08,148328,24084562.0
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-31,48.65,49.7,48.6,49.5,0.9,1.85,224576,11042956.85
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-30,48.5,49.75,48.3,48.6,0.8,1.67,342149,16807765.8
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-29,47.7,48.8,47.7,47.8,-0.65,-1.34,179655,8672449.7
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-26,48.2,48.8,47.95,48.45,-0.2,-0.41,141952,6854639.0
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-25,47.75,48.7,47.65,48.65,0.95,1.99,146283,7053350.45
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-24,48.95,48.95,47.7,47.7,-0.9,-1.85,102316,4918896.5
+Insurance,8240,CHUBB Arabia Cooperative Insurance Co.,2024-12-23,48.2,48.9,48.2,48.6,0.05,0.1,46598,2258843.4
+Insurance,8250,Gulf Insurance Group,2024-12-31,31.4,32.15,31.4,31.7,0.3,0.96,308726,9823525.1
+Insurance,8250,Gulf Insurance Group,2024-12-30,30.65,31.65,30.4,31.4,1.15,3.8,298346,9316516.1
+Insurance,8250,Gulf Insurance Group,2024-12-29,29.7,30.55,29.7,30.25,0.4,1.34,105686,3203392.6
+Insurance,8250,Gulf Insurance Group,2024-12-26,29.95,29.95,29.55,29.85,-0.05,-0.17,28675,853114.1
+Insurance,8250,Gulf Insurance Group,2024-12-25,29.5,29.95,29.35,29.9,0.4,1.36,39284,1167242.75
+Insurance,8250,Gulf Insurance Group,2024-12-24,29.95,30.2,29.4,29.5,-0.45,-1.5,19457,576233.95
+Insurance,8250,Gulf Insurance Group,2024-12-23,29.9,30.0,29.3,29.95,0.3,1.01,36474,1079049.65
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-31,10.36,10.46,10.3,10.38,0.02,0.19,169488,1758802.9
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-30,10.12,10.42,10.12,10.36,0.26,2.57,289518,2986988.6
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-29,10.06,10.3,10.02,10.1,0.06,0.6,384793,3910177.42
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-26,10.04,10.06,9.97,10.04,0.02,0.2,72327,724591.32
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-25,9.99,10.02,9.93,10.02,0.04,0.4,51090,510482.8
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-24,10.0,10.0,9.92,9.98,0.01,0.1,119062,1185313.56
+Insurance,8260,Gulf General Cooperative Insurance Co.,2024-12-23,9.95,10.04,9.94,9.97,0.02,0.2,157501,1570559.19
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-31,20.0,20.12,19.54,19.66,-0.2,-1.01,269686,5340184.54
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-30,20.34,21.3,19.72,19.86,-0.24,-1.19,1107822,22591424.38
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-29,18.3,20.1,18.16,20.1,1.82,9.96,778235,15424379.42
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-26,18.26,18.38,18.12,18.28,0.02,0.11,23079,420334.04
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-25,18.1,18.38,18.1,18.26,0.08,0.44,16667,304560.46
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-24,18.32,18.32,18.08,18.18,-0.1,-0.55,37123,674767.94
+Insurance,8270,Buruj Cooperative Insurance Co.,2024-12-23,18.2,18.4,18.0,18.28,0.18,0.99,78923,1436839.92
+Insurance,8280,LIVA Insurance Co.,2024-12-31,17.12,17.18,16.88,17.04,0.0,0.0,210932,3589960.28
+Insurance,8280,LIVA Insurance Co.,2024-12-30,16.88,17.18,16.88,17.04,0.26,1.55,300838,5130234.34
+Insurance,8280,LIVA Insurance Co.,2024-12-29,16.68,16.96,16.6,16.78,0.2,1.21,252678,4247764.2
+Insurance,8280,LIVA Insurance Co.,2024-12-26,16.64,16.88,16.48,16.58,0.0,0.0,102028,1697460.16
+Insurance,8280,LIVA Insurance Co.,2024-12-25,16.6,16.6,16.48,16.58,-0.02,-0.12,73984,1223283.62
+Insurance,8280,LIVA Insurance Co.,2024-12-24,16.66,16.66,16.5,16.6,0.02,0.12,25139,417078.84
+Insurance,8280,LIVA Insurance Co.,2024-12-23,16.42,16.6,16.22,16.58,0.14,0.85,69063,1131960.54
+Insurance,8300,Wataniya Insurance Co.,2024-12-31,23.82,24.8,23.82,24.52,0.72,3.03,624772,15280487.98
+Insurance,8300,Wataniya Insurance Co.,2024-12-30,23.5,25.25,23.42,23.8,0.58,2.5,1913270,46989628.59
+Insurance,8300,Wataniya Insurance Co.,2024-12-29,21.6,23.46,21.6,23.22,1.72,8.0,796298,18130217.08
+Insurance,8300,Wataniya Insurance Co.,2024-12-26,21.34,21.68,21.2,21.5,0.16,0.75,185936,3985296.46
+Insurance,8300,Wataniya Insurance Co.,2024-12-25,21.04,21.42,20.98,21.34,0.3,1.43,147369,3121310.26
+Insurance,8300,Wataniya Insurance Co.,2024-12-24,21.58,21.96,20.86,21.04,-0.52,-2.41,336067,7121702.58
+Insurance,8300,Wataniya Insurance Co.,2024-12-23,22.06,22.32,21.46,21.56,-0.5,-2.27,221251,4811831.22
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-31,10.56,10.66,10.42,10.6,0.14,1.34,503731,5303799.74
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-30,10.44,10.78,10.44,10.46,0.04,0.38,1116196,11829789.88
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-29,10.18,10.52,10.14,10.42,0.32,3.17,960487,9961397.3
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-26,10.04,10.24,10.02,10.1,0.1,1.0,190740,1928447.9
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-25,10.04,10.1,9.97,10.0,0.03,0.3,191579,1924295.92
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-24,10.08,10.12,9.95,9.97,-0.09,-0.89,352015,3522127.15
+Insurance,8310,Amana Cooperative Insurance Co.,2024-12-23,10.14,10.16,10.04,10.06,0.0,0.0,153626,1549111.36
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-31,12.8,12.92,12.62,12.66,-0.06,-0.47,421072,5359093.22
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-30,12.54,13.08,12.54,12.72,0.16,1.27,727017,9355289.94
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-29,12.1,12.7,12.1,12.56,0.4,3.29,705446,8817827.94
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-26,12.18,12.36,12.08,12.16,0.06,0.5,184091,2248813.34
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-25,12.1,12.2,12.1,12.1,0.02,0.17,102831,1249560.02
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-24,12.22,12.22,12.02,12.08,-0.1,-0.82,133147,1608423.32
+Insurance,8311,Saudi Enaya Cooperative Insurance Co.,2024-12-23,12.2,12.2,12.02,12.18,0.12,1.0,197238,2392785.86
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-25,0.0,0.0,0.0,12.8,0.0,0.0,0,0.0
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-24,12.7,12.84,12.06,12.8,0.04,0.31,765899,9519564.54
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-24,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-23,13.02,13.22,12.62,12.76,-0.32,-2.45,531690,6852239.84
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-22,12.62,13.64,12.52,13.08,0.46,3.65,1174389,15506086.4
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-19,12.64,13.1,12.62,12.62,-0.08,-0.63,438989,5624748.22
+Insurance,8312,Alinma Tokio Marine Co.,2023-10-18,13.14,13.14,12.56,12.7,-0.36,-2.76,460677,5912805.34
+Insurance,8313,Rasan Information Technology Co.,2024-12-31,83.0,89.4,82.7,86.4,3.5,4.22,1576138,136658222.4
+Insurance,8313,Rasan Information Technology Co.,2024-12-30,81.6,85.0,78.9,82.9,1.4,1.72,1166313,96214124.1
+Insurance,8313,Rasan Information Technology Co.,2024-12-29,79.9,84.2,79.8,81.5,2.0,2.52,1331763,109639186.9
+Insurance,8313,Rasan Information Technology Co.,2024-12-26,74.0,81.1,74.0,79.5,5.6,7.58,1290999,101941721.6
+Insurance,8313,Rasan Information Technology Co.,2024-12-25,72.1,74.9,72.1,73.9,1.8,2.5,404438,29808086.1
+Insurance,8313,Rasan Information Technology Co.,2024-12-24,70.4,72.8,69.7,72.1,1.8,2.56,339600,24360997.5
+Insurance,8313,Rasan Information Technology Co.,2024-12-23,72.0,72.3,69.1,70.3,-2.1,-2.9,780911,54990447.7
