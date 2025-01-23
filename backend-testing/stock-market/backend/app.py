@@ -17,7 +17,7 @@ CORS(app)  # Enable CORS for cross-origin requests from your React app
 data_path = os.path.join(os.path.dirname(__file__), 'Equites_Historical_Adjusted_Prices_Report.csv')
 df = pd.read_csv(data_path)
 
-model_path = os.path.join(os.path.dirname(__file__), 'stock_prediction_model.h5')
+model_path = os.path.join(os.path.dirname(__file__), 'stock_price_model_with_volume.h5')
 model = tf.keras.models.load_model(model_path)
 
 available_symbols = df['Symbol'].unique()
@@ -33,7 +33,7 @@ def fetch_stock_data(symbol):
     data = stock_data.history(period='3mo')
     if data.empty:
         raise ValueError(f"No data found for ticker: {ticker}")
-    return data[['Close']]
+    return data[['Close', 'Volume']]  # Include both Close and Volume
 
 def fetch_company_data(symbol):
     ticker = str(symbol) + ".SR"
@@ -66,20 +66,23 @@ def predict_stock(symbol, sequence_length=30):
         print(f"Not enough data for ticker: {symbol}.")
         return current_price, None
 
-    # Scale the data
+    # Scale the data + close and vol
     scaler = MinMaxScaler(feature_range=(0, 1))
-    data_scaled = scaler.fit_transform(stock_data['Close'].values.reshape(-1, 1))
+    #will the fact that removing reshape break the code?
+    data_scaled = scaler.fit_transform(stock_data[['Close', 'Volume']])
     scalers[symbol] = scaler
 
     # Get the last sequence for prediction
     last_sequence = data_scaled[-sequence_length:]
-    last_sequence = last_sequence.reshape(1, sequence_length, 1)  # Reshape for LSTM input
+    last_sequence = last_sequence.reshape(1, sequence_length, 2)  # Reshape for LSTM input
+    #altered here the reshape value, made it be 2
 
     # Predict the next price
     next_day_prediction = model.predict(last_sequence)[0][0]
 
     # Convert back to original scale
-    predicted_price = scaler.inverse_transform([[next_day_prediction]])[0][0]
+    #added a dummy value for volume bcs we dont need it
+    predicted_price = scaler.inverse_transform([[next_day_prediction, 0]])[0][0]
 
     return current_price, predicted_price
 
