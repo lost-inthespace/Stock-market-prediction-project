@@ -1,0 +1,111 @@
+body {
+    font-family: 'Poppins', sans-serif; /* Modern font for better aesthetics */
+    background-color: #f0f8ff; /* Light, soothing blue */
+    color: #333333; /* Softer black for better readability */
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+    background-color: #1b1b2f; /* Deep blue-gray for dark mode */
+    color: #ffffff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Softer shadows */
+    background: linear-gradient(135deg, #ffffff, #f9f9f9); /* Subtle gradient */
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.dark-mode .container {
+    background: linear-gradient(135deg, #222831, #393e46); /* Gradient for dark mode */
+    border-color: #393e46;
+}
+
+header h1 {
+    margin: 1;
+    font-size: 28px;
+    color: #007bff; /* Bright blue accent */
+}
+
+.dark-mode header h1 {
+    color: #00adb5; /* Teal accent in dark mode */
+}
+
+#toggleDarkMode {
+    padding: 10px 20px;
+    background: linear-gradient(45deg, #007bff, #0056b3); /* Gradient button */
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.dark-mode #toggleDarkMode {
+    background: linear-gradient(45deg, #00adb5, #007bff); /* Dark mode button gradient */
+}
+
+#toggleDarkMode:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #ffffff;
+    color: #333333;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.dark-mode select {
+    background-color: #2e2e3e;
+    color: #ffffff;
+    border-color: #555555;
+}
+
+#stockChart {
+    margin: 20px 0;
+}
+
+#recommendation {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff; /* Accent color */
+}
+
+.dark-mode #recommendation {
+    color: #00adb5; /* Matching teal accent for dark mode */
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    background: #f1f1f1; /* Light gray background */
+    color: #333333;
+    font-size: 14px;
+    border-top: 1px solid #ddd;
+}
+
+.dark-mode footer {
+    background: #00adb5; /* Match dark mode theme */
+    color: #000000;
+    border-top: 1px solid #393e46;
+}
+
+footer p {
+    margin: 0;
+    font-weight: bold;
+    line-height: 1.6;
+}
