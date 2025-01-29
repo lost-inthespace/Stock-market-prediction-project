@@ -19,12 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
   
           companyCard.innerHTML = `
             <h2>${company.name} (${company.symbol})</h2>
-            <p>Current Price: ${company.current_price ? `$${company.current_price}` : 'N/A'}
+            <p>Current Price: ${company.current_price ? `SAR${company.current_price}` : 'N/A'}
               <span class="${priceChange > 0 ? 'arrow-up' : 'arrow-down'}">
                 ${priceChange > 0 ? '↑' : '↓'} ${Math.abs(priceChange).toFixed(2)}
               </span>
             </p>
-            <p>Prediction: ${company.predicted_price ? `$${company.predicted_price}` : 'N/A'}
+            <p>Prediction: ${company.predicted_price ? `SAR${company.predicted_price}` : 'N/A'}
               <span class="${predictionChange > 0 ? 'arrow-up' : 'arrow-down'}">
                 ${predictionChange > 0 ? '↑' : '↓'} ${Math.abs(predictionChange).toFixed(2)}
               </span>
