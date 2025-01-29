@@ -112,8 +112,7 @@ function updateChart(companyId) {
                         ...Array(data.historical.prices.length - 1).fill(null),
                         ...data.forecast.prices
                     ],
-                    borderColor: "#28a745",
-                    borderDash: [5, 5],
+                    borderColor: "#F72C5B",
                     fill: false
                 }
             ];

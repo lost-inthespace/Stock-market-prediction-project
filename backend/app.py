@@ -60,6 +60,7 @@ def predict_stock(symbol, sequence_length=30):
 
     # Get the most recent price
     current_price = stock_data['Close'].iloc[-1]
+    last_day_price = stock_data['Close'].iloc[-2]
 
     # Check if there are enough days for the sequence
     if len(stock_data) < sequence_length:
@@ -84,7 +85,7 @@ def predict_stock(symbol, sequence_length=30):
     #added a dummy value for volume bcs we dont need it
     predicted_price = scaler.inverse_transform([[next_day_prediction, 0]])[0][0]
 
-    return current_price, predicted_price
+    return last_day_price ,current_price, predicted_price
 
 
 company_info_path = os.path.join(os.path.dirname(__file__), 'company_info.csv')
@@ -100,14 +101,14 @@ def refresh_cache():
     cache = []  # Clear the existing cache
 
     for company in companies:
-        current_price, predicted_price = predict_stock(company['symbol'])
+        last_day_price , current_price, predicted_price = predict_stock(company['symbol'])
         cache.append({
             "id": company["id"],
             "name": company["name"],
             "symbol": company["symbol"],
             "current_price": round(current_price, 2) if current_price else None,
             "predicted_price": round(predicted_price, 2) if predicted_price else None,
-            "last_day_price": 50
+            "last_day_price": last_day_price
         })
 
     print("Cache refreshed!")
@@ -124,24 +125,44 @@ def get_company_details(company_id):
     if not company:
         return jsonify({"error": "Company not found"}), 404
 
-    current_price, predicted_price = predict_stock(company['symbol'])
-    historical_prices = fetch_stock_data(company['symbol'])["Close"]
-    company_data = fetch_company_data(company["symbol"])
-    return jsonify({
-        "id": company_id,
-        "name": company["name"],
-        "symbol": company["symbol"],
-        "current_price": round(current_price, 2) if current_price else None,
-        "predicted_price": round(predicted_price, 2) if predicted_price else None,
-        "market_cap": format_number(company_data["marketCap"]),  
-        "volume": 55 ,  
-        "historical_prices": {
-            "dates": historical_prices.index.strftime('%Y-%m-%d').tolist(),
-            "prices": historical_prices.tolist()
-        },
-        "predicted_prices": [round(predicted_price + i * 0.1, 2) for i in range(3)]  # Example predictions
-    })
+    try:
+        last_day_price , current_price, predicted_price = predict_stock(company['symbol'])
+        stock_data = fetch_stock_data(company['symbol'])
+        historical_prices = stock_data["Close"]
+        company_data = fetch_company_data(company["symbol"])
 
+        # Get historical dates
+        historical_dates = historical_prices.index.strftime('%Y-%m-%d').tolist()
+        
+        # Generate future dates (next 30 days after last historical date)
+        last_date = historical_prices.index[-1]
+        future_dates = pd.date_range(
+            start=last_date,
+            periods=2
+        ).strftime('%Y-%m-%d').tolist()
+
+        # Create recommendation
+        recommendation = "Buy" if predicted_price > current_price else "Sell" if predicted_price < current_price else "Hold"
+
+        return jsonify({
+            "id": company_id,
+            "name": company["name"],
+            "symbol": company["symbol"],
+            "market_cap": format_number(company_data["marketCap"]),
+            "volume": format_number(company_data["volume"]),  
+            "sector": company_data.get("sector"),
+            "recommendation": company_data.get("recommendationKey"),
+            "historical": {
+                "dates": historical_dates[-30:],
+                "prices": historical_prices[-30:].tolist()
+            },
+            "forecast": {
+                "dates": future_dates,
+                "prices": [current_price ,round(predicted_price, 2)]
+            },
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 def start_cache_refresh(interval=3600):
     """Periodically refresh the cache in a separate thread."""
@@ -155,7 +176,7 @@ def start_cache_refresh(interval=3600):
 
 
 if __name__ == '__main__':
-    refresh_cache()  # Initial cache refresh
+    # refresh_cache()  # Initial cache refresh
     start_cache_refresh(interval=3600)  # Refresh cache every hour
     app.run(debug=True)
 

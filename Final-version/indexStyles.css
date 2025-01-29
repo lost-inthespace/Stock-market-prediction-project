@@ -12,6 +12,12 @@ body {
     text-align: left;
     padding: 20px;
   }
+
+  #top5-title{
+    color: white;
+    text-align: left;
+  }
+  
   
   main {
     padding: 20px;
@@ -41,7 +47,7 @@ body {
     background-color: #BBE1FA;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 200px;
+    width: 300px;
   }
   
   .company-card h2 {
@@ -56,12 +62,12 @@ body {
   
 /* Arrow Indicators */
 .arrow-up {
-    color: green;
+    color: rgb(27, 187, 27);
     margin-left: 5px;
   }
   
   .arrow-down {
-    color: red;
+    color: rgb(255, 0, 0);
     margin-left: 5px;
   }
   
@@ -81,3 +87,28 @@ body {
     background-color: #0056b3;
   }
   
+  #top-companies {
+    margin: 2rem 0;
+    padding: 1rem;
+    background: #3282B8;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+  }
+  
+  .top-company {
+    background: #BBE1FA;
+    margin: 1rem 0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .prediction-surge {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+  }
