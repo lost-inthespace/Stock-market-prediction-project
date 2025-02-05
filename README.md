@@ -1,4 +1,7 @@
 # Stock-market-prediction-project
-
-### Graduation project for computer science bachelors degree of Umm al Qura university
-* main branch right now is the master branch* 
+## TODO
+connect to real life data
+using other information to generate more acurate answer
+financial analysis
+get data from stock recomendator, GS JP morgan and others
+do a more research
